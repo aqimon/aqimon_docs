@@ -67,6 +67,7 @@
 }
 
 @Manual{,
+  author = {SHARP Corporation},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
