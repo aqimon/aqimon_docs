@@ -27,5 +27,18 @@
 	title = {Symptomatic Bronchoconstriction after Short-Term Inhalation of Sulfur Dioxide},
 	journal = {American Review of Respiratory Disease}
 }
+@article{Bernstein_2004,
+	doi = {10.1016/j.jaci.2004.08.030},
+	url = {http://dx.doi.org/10.1016/j.jaci.2004.08.030},
+	year = 2004,
+	month = {nov},
+	publisher = {Elsevier {BV}},
+	volume = {114},
+	number = {5},
+	pages = {1116--1123},
+	author = {Jonathan A. Bernstein and Neil Alexis and Charles Barnes and I. Leonard Bernstein and Andre Nel and David Peden and David Diaz-Sanchez and Susan M. Tarlo and P. Brock Williams and Jonathan A. Bernstein},
+	title = {Health effects of air pollution},
+	journal = {Journal of Allergy and Clinical Immunology}
+}
 
 @Comment{jabref-meta: databaseType:bibtex;}
