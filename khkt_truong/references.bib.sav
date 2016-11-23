@@ -59,7 +59,9 @@
 }
 
 @Manual{Aosong,
+  title     = {Temperature and humidity module AM2301 Product Manual},
   author    = {Aosong Electronics Co.,Ltd.},
+  year      = {2016},
   timestamp = {2016-11-23},
   url       = {https://kropochev.com/downloads/humidity/AM2301.pdf},
 }
