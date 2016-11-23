@@ -69,6 +69,7 @@
 @Manual{SHARP_Dust,
   title     = {GP2Y1010AU0F: Compact Optical Dust Sensor},
   author    = {SHARP Corporation},
+  month     = dec,
   year      = {2006},
   timestamp = {2016-11-23},
   url       = {https://www.sparkfun.com/datasheets/Sensors/gp2y1010au_e.pdf},
