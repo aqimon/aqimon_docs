@@ -41,7 +41,7 @@
 	journal = {Journal of Allergy and Clinical Immunology}
 }
 
-@Manual{LibeliumComunicacionesDistribuidas2016,
+@Manual{Libelium,
   title     = {Waspmote-LoRa-868MHz_915MHz-SX1272 Networking Guide},
   author    = {Libelium Comunicaciones Distribuidas S.L.},
   month     = oct,
