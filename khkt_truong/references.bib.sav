@@ -46,7 +46,6 @@
   author    = {Libelium Comunicaciones Distribuidas S.L.},
   month     = oct,
   year      = {2016},
-  owner     = {tuankiet65},
   timestamp = {2016-11-23},
   url       = {http://www.libelium.com/downloads/documentation/waspmote_lora_868mhz_915mhz_sx1272_networking_guide.pdf},
 }
