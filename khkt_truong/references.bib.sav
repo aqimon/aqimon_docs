@@ -66,4 +66,7 @@
   url       = {https://kropochev.com/downloads/humidity/AM2301.pdf},
 }
 
+@Manual{,
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
