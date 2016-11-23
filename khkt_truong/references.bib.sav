@@ -76,7 +76,9 @@
 }
 
 @Manual{,
-  author = {{Henan Hanwei Electronics Co. Ltd.}},
+  author    = {{Henan Hanwei Electronics Co. Ltd.}},
+  timestamp = {2016-11-23},
+  url       = {https://www.pololu.com/file/download/MQ9.pdf?file_id=0J314},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
