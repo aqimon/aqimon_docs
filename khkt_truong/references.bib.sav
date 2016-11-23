@@ -76,7 +76,7 @@
 }
 
 @Manual{,
-  author = {Henan Hanwei Electronics Co., Ltd},
+  author = {{Henan Hanwei Electronics Co.,}},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
