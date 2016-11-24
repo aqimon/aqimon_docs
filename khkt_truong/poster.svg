@@ -1913,8 +1913,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.10606602"
-     inkscape:cx="3952.349"
-     inkscape:cy="4325.3175"
+     inkscape:cx="3735.5029"
+     inkscape:cy="3608.7826"
      inkscape:document-units="px"
      inkscape:current-layer="layer9"
      showgrid="true"
@@ -1957,7 +1957,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by/3.0/" />
       </cc:Work>
@@ -1980,7 +1980,8 @@
      inkscape:groupmode="layer"
      id="layer9"
      inkscape:label="Background"
-     style="display:inline;opacity:0.98999999;filter:url(#filter7892)">
+     style="display:inline;opacity:0.98999999;filter:url(#filter7892)"
+     sodipodi:insensitive="true">
     <path
        style="opacity:1;fill:#04a0b9;fill-opacity:1;fill-rule:evenodd;stroke:none"
        d="M 204.99976,-0.70866142 3684.9998,3889.2913 l -180,250 L -2.4414063e-4,219.29134 l 0,-220.00000142 c -68.33333485937,0 273.33333414063,0 205.00000414063,0 z"
