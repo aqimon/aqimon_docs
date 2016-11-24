@@ -76,7 +76,7 @@
 }
 
 @Manual{HW_MQ9,
-  title     = {MQ-9 Semiconductor Sensor for CO/Combustible Gas Sensitive material of MQ-9 gas sensor is SnO2, which with lower conductivity in clean air. It make},
+  title     = {MQ-9 Semiconductor Sensor for CO/Combustible Gas},
   author    = {{Henan Hanwei Electronics Co. Ltd.}},
   year      = {2016},
   timestamp = {2016-11-23},
@@ -108,6 +108,9 @@
   publisher = {SWISS MEDICAL PUBLISHERS LTD},
   timestamp = {2016-11-24},
   url       = {http://www.smw.ch/docs/pdf200x/2005/27/smw-11149.pdf},
+}
+
+@Manual{,
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
