@@ -111,6 +111,8 @@
 }
 
 @Manual{,
+  timestamp = {2016-11-24},
+  url       = {https://www.nordicsemi.com/chi/content/download/2730/34105/file/nRF24L01_Product_Specification_v2_0.pdf},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
