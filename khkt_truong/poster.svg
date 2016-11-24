@@ -7038,6 +7038,70 @@
        height="834"
        width="834"
        id="image432955" />
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter5590">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood5592" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite5594" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="50"
+         result="blur"
+         id="feGaussianBlur5596" />
+      <feOffset
+         dx="0"
+         dy="0"
+         result="offset"
+         id="feOffset5598" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite5600" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter5602">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood5604" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite5606" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="50"
+         result="blur"
+         id="feGaussianBlur5608" />
+      <feOffset
+         dx="0"
+         dy="0"
+         result="offset"
+         id="feOffset5610" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite5612" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -7046,11 +7110,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.011048544"
-     inkscape:cx="9882.2545"
-     inkscape:cy="3444.0629"
+     inkscape:zoom="0.1767767"
+     inkscape:cx="3579.4525"
+     inkscape:cy="3056.0561"
      inkscape:document-units="px"
-     inkscape:current-layer="layer6"
+     inkscape:current-layer="layer9"
      showgrid="true"
      units="m"
      inkscape:window-width="1366"
@@ -7132,7 +7196,7 @@
        id="path6220"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:#0fd4dc;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#0fd4dc;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter5590)"
        d="m 3499.9998,4139.2913 3025,-4139.99996142 1625,0 0,1479.99996142 -3280,4190 z"
        id="path6222"
        inkscape:connector-curvature="0" />
@@ -7181,7 +7245,7 @@
        x="6377.9526"
        y="7.4676427e-05" />
     <rect
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter5602)"
        id="rect28135"
        width="4251.9683"
        height="2480.3149"
@@ -7196,16 +7260,16 @@
        y="1594.4883" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#eeeeee;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:0.99999998%;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#eeeeee;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="2782.1514"
        y="1826.6732"
        id="text28139"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="0.99999998%"><tspan
          sodipodi:role="line"
          id="tspan28141"
          x="2782.1514"
          y="1826.6732"
-         style="font-size:180px;fill:#eeeeee;fill-opacity:1;-inkscape-font-specification:Roboto;font-family:Roboto;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">Mô hình hoạt động của hệ thống</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:180px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#eeeeee;fill-opacity:1">Mô hình hoạt động của hệ thống</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
