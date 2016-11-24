@@ -96,4 +96,15 @@
 	journal = {Journal of the Neurological Sciences}
 }
 
+@Article{henz2005prospective,
+  author    = {Henz, Samuel and Maeder, Micha},
+  title     = {Prospective study of accidental carbon monoxide poisoning in 38 Swiss soldiers},
+  journal   = {Swiss medical weekly},
+  year      = {2005},
+  volume    = {135},
+  number    = {27/28},
+  pages     = {398},
+  publisher = {SWISS MEDICAL PUBLISHERS LTD},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
