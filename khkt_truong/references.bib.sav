@@ -120,8 +120,9 @@
 }
 
 @Manual{nrf24l01_2,
-  title = {RF24L01 2.4GHz Radio/Wireless Transceivers How-To},
-  url   = {https://arduino-info.wikispaces.com/Nrf24L01-2.4GHz-HowTo},
+  title  = {RF24L01 2.4GHz Radio/Wireless Transceivers How-To},
+  author = {arduino-info},
+  url    = {https://arduino-info.wikispaces.com/Nrf24L01-2.4GHz-HowTo},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
