@@ -119,7 +119,7 @@
   url       = {https://www.nordicsemi.com/chi/content/download/2730/34105/file/nRF24L01_Product_Specification_v2_0.pdf},
 }
 
-@Manual{,
+@Manual{nrf24l01_2,
   title = {RF24L01 2.4GHz Radio/Wireless Transceivers How-To},
   url   = {https://arduino-info.wikispaces.com/Nrf24L01-2.4GHz-HowTo},
 }
