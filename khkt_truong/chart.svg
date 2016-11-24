@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="131mm" height="77mm" viewBox="0 0 13100 7700" version="1.1" xmlns="http://www.w3.org/2000/svg" stroke-width="28.222" stroke-linejoin="round" xml:space="preserve">
+ <path fill="rgb(255,255,255)" stroke="none" d="M 6557,7676 L 0,7676 0,0 13114,0 13114,7676 6557,7676 Z"/>
+ <path fill="rgb(0,69,134)" stroke="none" d="M 6557,2030 C 6268,2030 5982,2075 5708,2164 5434,2253 5176,2385 4942,2554 4773,2677 4618,2819 4481,2978 L 6557,4775 6557,4775 6557,4775 6557,4775 6557,2030 Z"/>
+ <path fill="rgb(255,66,14)" stroke="none" d="M 4481,2978 C 4430,3037 4381,3098 4335,3161 4166,3395 4034,3653 3945,3926 3856,4200 3811,4486 3811,4775 3811,5063 3856,5349 3945,5623 4034,5897 4166,6155 4335,6389 4416,6501 4506,6606 4603,6705 L 6557,4775 6557,4775 6557,4775 6557,4775 6557,4775 6557,4775 6557,4775 4481,2978 Z"/>
+ <path fill="rgb(255,211,32)" stroke="none" d="M 4603,6705 C 4708,6811 4822,6908 4942,6996 5176,7165 5434,7297 5708,7386 5982,7475 6268,7521 6557,7521 6594,7521 6633,7520 6672,7518 L 6557,4775 6557,4775 6557,4775 6557,4775 6557,4775 4603,6705 Z"/>
+ <path fill="rgb(87,157,28)" stroke="none" d="M 6672,7518 C 6921,7507 7167,7463 7404,7386 7678,7297 7936,7165 8170,6996 8403,6827 8608,6622 8777,6389 8946,6155 9078,5897 9167,5623 9256,5349 9302,5063 9302,4775 9302,4486 9256,4200 9167,3926 9092,3695 8985,3473 8851,3269 L 6557,4775 6557,4775 6557,4775 6557,4775 6557,4775 6557,4775 6557,4775 6557,4775 6672,7518 Z"/>
+ <path fill="rgb(126,0,33)" stroke="none" d="M 8851,3269 C 8827,3233 8803,3197 8777,3161 8608,2928 8403,2723 8170,2554 7966,2406 7743,2287 7507,2200 L 6557,4775 6557,4775 6557,4775 6557,4775 8851,3269 Z"/>
+ <path fill="rgb(131,202,255)" stroke="none" d="M 7507,2200 C 7300,2123 7084,2072 6864,2047 L 6557,4775 6557,4775 7507,2200 Z"/>
+ <path fill="rgb(49,64,4)" stroke="none" d="M 6864,2047 C 6791,2039 6717,2033 6643,2031 L 6557,4775 6557,4775 6864,2047 Z"/>
+ <path fill="rgb(174,207,0)" stroke="none" d="M 6643,2031 C 6614,2030 6585,2030 6557,2030 L 6557,4775 6557,4775 6643,2031 Z"/>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Roboto" font-size="370px" font-weight="700"><tspan class="TextPosition" x="4083" y="743"><tspan fill="rgb(0,0,0)" stroke="none">Thống kê tình trạng ô nhiễm ở</tspan></tspan></tspan><tspan class="TextParagraph" font-family="Roboto" font-size="370px" font-weight="700"><tspan class="TextPosition" x="4785" y="1166"><tspan fill="rgb(0,0,0)" stroke="none">Bắc Kinh, Trung Quốc</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Roboto" font-size="212px" font-weight="400"><tspan class="TextPosition" x="4255" y="1759"><tspan fill="rgb(0,0,0)" stroke="none">Nguồn: @beijingair / www.young-0.com/airquality/</tspan></tspan></tspan></text>
+</svg>
