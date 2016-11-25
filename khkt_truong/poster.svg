@@ -662,9 +662,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.28762126"
-     inkscape:cx="7138.7049"
-     inkscape:cy="494.71303"
+     inkscape:zoom="0.10168947"
+     inkscape:cx="5254.222"
+     inkscape:cy="2103.2304"
      inkscape:document-units="px"
      inkscape:current-layer="layer5"
      showgrid="true"
@@ -2263,7 +2263,7 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:0.98999999;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new"
        id="flowRoot9315"
-       transform="translate(-1.0742345,449.55111)"><flowRegion
+       transform="matrix(0.92199638,0,0,0.92199638,569.80366,743.95799)"><flowRegion
          id="flowRegion9317"><use
            x="0"
            y="0"
@@ -2272,17 +2272,17 @@
            width="100%"
            height="100%" /></flowRegion><flowPara
          id="flowPara9321"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100px;font-family:Roboto;-inkscape-font-specification:Roboto">- Bổ sung thêm các cảm biến khác như NO<flowSpan
-   style="font-size:65%;baseline-shift:sub"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:108.46029663px;font-family:Roboto;-inkscape-font-specification:Roboto">- Bổ sung thêm các cảm biến khác như NO<flowSpan
+   style="font-size:54.23014785px;baseline-shift:sub"
    id="flowSpan9327">X</flowSpan>, SO<flowSpan
-   style="font-size:65%;baseline-shift:sub"
+   style="font-size:54.23014785px;baseline-shift:sub"
    id="flowSpan9329">X</flowSpan>, O<flowSpan
-   style="font-size:65%;baseline-shift:sub"
-   id="flowSpan9331">3,</flowSpan> ...</flowPara><flowPara
+   style="font-size:54.23014785px;baseline-shift:sub"
+   id="flowSpan9337">3</flowSpan>, ...</flowPara><flowPara
          id="flowPara9323"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100px;font-family:Roboto;-inkscape-font-specification:Roboto">- Chuyển đổi từ truyền tin thông qua Wifi sang các công nghệ khác cho phép khoảng cách truyền tin lớn hơn</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:108.46029663px;font-family:Roboto;-inkscape-font-specification:Roboto">- Chuyển đổi từ truyền tin thông qua Wifi sang các công nghệ khác cho phép khoảng cách truyền tin lớn hơn</flowPara><flowPara
          id="flowPara9325"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100px;font-family:Roboto;-inkscape-font-specification:Roboto">- Trau chuốt lại thiết kế của thiết bị và trang web</flowPara></flowRoot>  </g>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:108.46029663px;font-family:Roboto;-inkscape-font-specification:Roboto">- Trau chuốt lại thiết kế của thiết bị và trang web</flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer1"
