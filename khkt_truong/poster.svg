@@ -7788,9 +7788,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.16"
-     inkscape:cx="4019.2809"
-     inkscape:cy="2208.5331"
+     inkscape:zoom="0.22627417"
+     inkscape:cx="5285.8399"
+     inkscape:cy="4290.1919"
      inkscape:document-units="px"
      inkscape:current-layer="layer9"
      showgrid="true"
@@ -7833,7 +7833,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by/3.0/" />
       </cc:Work>
@@ -7997,7 +7997,7 @@
            height="177.16536"
            x="5669.2915"
            y="3188.9763" /></flowRegion><flowPara
-         id="flowPara8428"></flowPara></flowRoot>    <rect
+         id="flowPara8428" /></flowRoot>    <rect
        style="opacity:1;fill:#eeeeee;fill-opacity:1;stroke:none;stroke-width:15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect8430"
        width="3897.6377"
@@ -8271,7 +8271,7 @@
        style="display:inline;opacity:1;fill:#37474f;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect28137"
        width="3897.6379"
-       height="177.16542"
+       height="354.33078"
        x="2125.9839"
        y="2480.3149" />
     <g
@@ -8974,6 +8974,96 @@
        height="1594.4882"
        x="6377.9521"
        y="3897.6379" />
+    <g
+       id="g6838"
+       transform="matrix(0.68333587,0,0,0.68333587,2480.3147,1436.819)">
+      <g
+         id="g6784">
+        <g
+           id="g6786">
+          <g
+             id="g6788">
+            <path
+               id="path6790"
+               d="M 245,490 C 109.9,490 0,380.1 0,245 0,109.9 109.9,0 245,0 380.1,0 490,109.9 490,245 490,380.1 380.1,490 245,490 Z M 245,62 C 144.1,62 62,144.1 62,245 62,345.9 144.1,428 245,428 345.9,428 428,345.9 428,245 428,144.1 345.9,62 245,62 Z"
+               inkscape:connector-curvature="0"
+               style="fill:#eeeeee" />
+          </g>
+          <g
+             id="g6792">
+            <g
+               id="g6794">
+              <circle
+                 id="circle6796"
+                 r="29.1"
+                 cy="159.2"
+                 cx="241.3"
+                 style="fill:#eeeeee" />
+            </g>
+            <g
+               id="g6798">
+              <polygon
+                 id="polygon6800"
+                 points="219.6,321 219.6,254.8 205.1,254.8 205.1,215.9 219.6,215.9 263.1,215.9 270.4,215.9 270.4,321 285.1,321 285.1,359.9 270.4,359.9 219.6,359.9 204.9,359.9 204.9,321 "
+                 style="fill:#eeeeee" />
+            </g>
+          </g>
+        </g>
+      </g>
+      <g
+         id="g6802" />
+      <g
+         id="g6804" />
+      <g
+         id="g6806" />
+      <g
+         id="g6808" />
+      <g
+         id="g6810" />
+      <g
+         id="g6812" />
+      <g
+         id="g6814" />
+      <g
+         id="g6816" />
+      <g
+         id="g6818" />
+      <g
+         id="g6820" />
+      <g
+         id="g6822" />
+      <g
+         id="g6824" />
+      <g
+         id="g6826" />
+      <g
+         id="g6828" />
+      <g
+         id="g6830" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="2974.4551"
+       y="1614.3695"
+       id="text6864"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6866"
+         x="2974.4551"
+         y="1614.3695"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:87.5px;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';fill:#eeeeef;fill-opacity:0.94117647">Tóm tắt dự án</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="3011.8108"
+       y="1594.4882"
+       id="text6868"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6870"
+         x="3011.8108"
+         y="1594.4882" /></text>
   </g>
   <g
      inkscape:groupmode="layer"
