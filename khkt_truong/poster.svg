@@ -7788,11 +7788,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.22627417"
-     inkscape:cx="5285.8399"
-     inkscape:cy="4290.1919"
+     inkscape:zoom="0.11313709"
+     inkscape:cx="4367.6029"
+     inkscape:cy="2211.4474"
      inkscape:document-units="px"
-     inkscape:current-layer="layer9"
+     inkscape:current-layer="layer6"
      showgrid="true"
      units="m"
      inkscape:window-width="1366"
@@ -7936,14 +7936,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.6597538px;line-height:125%;font-family:Sans;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="5045.1011"
-       y="2828.7812"
+       x="3880.7891"
+       y="2731.8833"
        id="text20930"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan20932"
-         x="5045.1011"
-         y="2828.7812">a</tspan></text>
+         x="3880.7891"
+         y="2731.8833">a</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -7958,7 +7958,7 @@
          style="fill:#eeeeee;fill-opacity:1">Mục đích nghiên cứu</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.65863734px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 4828.6134,3762.1602 0,140.0252 630.1138,0"
+       d="m 3664.3013,3665.2623 0,140.0252 630.1138,0"
        id="path6573"
        inkscape:connector-curvature="0" />
     <rect
@@ -7986,7 +7986,7 @@
          id="tspan8420"
          x="6295.7397"
          y="4471.3989"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:137.5px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#eeeeee;fill-opacity:1">Hạn chế và định hướng</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:150px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#eeeeee;fill-opacity:1">Hạn chế và định hướng</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot8422"
@@ -8012,7 +8012,8 @@
        x="2125.9839"
        y="4251.9688" />
     <g
-       id="g11972">
+       id="g11972"
+       transform="translate(812.50981,-17.719375)">
       <g
          transform="matrix(0.9228797,0,0,0.9228797,2409.446,4340.5541)"
          id="g11948">
@@ -8115,7 +8116,7 @@
        y="2834.1736" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:0.98999999;fill:#eeeeee;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:500;font-size:150px;line-height:125%;font-family:Roboto;letter-spacing:0px;word-spacing:0px;display:inline;opacity:0.98999999;fill:#eeeeee;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:'Roboto Medium';font-stretch:normal;font-variant:normal;"
        x="6295.7397"
        y="3053.6035"
        id="text8418-9"
@@ -8124,7 +8125,7 @@
          id="tspan8420-1"
          x="6295.7397"
          y="3053.6035"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:137.5px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#eeeeee;fill-opacity:1">Ứng dụng</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:150px;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';fill:#eeeeee;fill-opacity:1;">Ứng dụng</tspan></text>
     <rect
        style="display:inline;opacity:1;fill:#eeeeee;fill-opacity:1;stroke:none;stroke-width:15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter8406-6)"
        id="rect8402-8"
@@ -8161,11 +8162,39 @@
     <rect
        style="opacity:1;fill:#37474f;fill-opacity:1;stroke:none;stroke-width:15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect13768"
-       width="3897.6377"
-       height="354.33072"
+       width="3897.6379"
+       height="283.46457"
        x="2125.9839"
        y="1417.3229" />
-  </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="4712.5981"
+       y="1877.9528"
+       id="text7925"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan7927"
+         x="4712.5981"
+         y="1877.9528" /></text>
+    <flowRoot
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot7931"
+       transform="translate(69.674346,280.97256)"><flowRegion
+         id="flowRegion7933"><use
+           x="0"
+           y="0"
+           xlink:href="#rect13766"
+           id="use7935"
+           width="100%"
+           height="100%" /></flowRegion><flowPara
+         id="flowPara7937"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:100px;font-family:Roboto;-inkscape-font-specification:'Roboto Light'">Hệ thống có khả năng đo lường các số liệu liên quan tới ô nhiễm không khí và tự động đưa ra cảnh báo  khi mức độ ô nhiễm đạt mức nguy hiểm</flowPara><flowPara
+         id="flowPara7939"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:100px;font-family:Roboto;-inkscape-font-specification:'Roboto Light'">Gồm các thiết bị quan trắc có khả năng đo lường và gửi về máy chủ</flowPara><flowPara
+         id="flowPara7941"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:100px;font-family:Roboto;-inkscape-font-specification:'Roboto Light'">Gồm một máy chủ lưu trữ dữ liệu, hiển thị dữ liệu cho người dùng và đưa ra cảnh báo khi số đo nguy hiểm</flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer6"
@@ -8226,11 +8255,11 @@
          id="tspan3711"
          x="2215.061"
          y="487.19998"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:250px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:start;text-anchor:start;fill:#eeeeee;fill-opacity:1">Hệ thống theo dõi và cảnh báo</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:262.5px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:start;text-anchor:start;fill:#eeeeee;fill-opacity:1">Hệ thống theo dõi và cảnh báo</tspan><tspan
          sodipodi:role="line"
          x="2215.061"
          y="799.69995"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:250px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:start;text-anchor:start;fill:#eeeeee;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:262.5px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:start;text-anchor:start;fill:#eeeeee;fill-opacity:1"
          id="tspan3713">chất lượng không khí</tspan></text>
     <text
        xml:space="preserve"
@@ -8243,11 +8272,11 @@
          id="tspan4547"
          x="5945.0479"
          y="945.78455"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:137.5px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end;fill:#eeeeee;fill-opacity:1">Hồ Tuấn Kiệt</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:162.5px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:end;text-anchor:end;fill:#eeeeee;fill-opacity:1">Hồ Tuấn Kiệt</tspan><tspan
          sodipodi:role="line"
          x="5945.0479"
          y="1117.6595"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:137.5px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end;fill:#eeeeee;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:162.5px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:end;text-anchor:end;fill:#eeeeee;fill-opacity:1"
          id="tspan4549">Trường THPT Chuyên Lê Quý Đôn</tspan></text>
     <flowRoot
        xml:space="preserve"
@@ -8263,21 +8292,21 @@
          id="flowPara28133" /></flowRoot>    <rect
        style="display:inline;opacity:1;fill:#eeeeee;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter5602)"
        id="rect28135"
-       width="3897.6377"
-       height="1594.4877"
+       width="3011.811"
+       height="1771.6536"
        x="2125.9839"
-       y="2480.3149" />
+       y="2303.1497" />
     <rect
        style="display:inline;opacity:1;fill:#37474f;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect28137"
        width="3897.6379"
        height="354.33078"
        x="2125.9839"
-       y="2480.3149" />
+       y="2303.1497" />
     <g
        style="display:inline;opacity:0.98999999"
        id="g12824"
-       transform="matrix(4.6179435,0,0,4.6179435,4686.963,3336.4542)">
+       transform="matrix(4.6179435,0,0,4.6179435,3522.6509,3239.5563)">
       <g
          id="g12758"
          transform="translate(3.2609608,-3.5119582)">
@@ -8395,7 +8424,7 @@
     </g>
     <g
        id="g10805"
-       transform="matrix(0.65863738,0,0,0.65863738,2008.8988,1421.23)">
+       transform="matrix(0.65863738,0,0,0.65863738,844.58674,1324.3321)">
       <g
          transform="matrix(1.2878918,0,0,1.2878918,5302.1149,2882.546)"
          id="g11380"
@@ -8557,7 +8586,7 @@
     </g>
     <g
        id="g13389"
-       transform="matrix(0.55734198,0,0,0.55734198,4241.5672,2801.7244)"
+       transform="matrix(0.55734198,0,0,0.55734198,3077.2551,2704.8265)"
        inkscape:transform-center-x="413.79102"
        inkscape:transform-center-y="227.2463">
       <g
@@ -8601,7 +8630,7 @@
     </g>
     <g
        id="g13604"
-       transform="matrix(1.8964652,0,0,1.8964652,3831.3543,3342.0843)">
+       transform="matrix(1.8964652,0,0,1.8964652,2667.0422,3245.1864)">
       <g
          id="g13526">
         <g
@@ -8617,7 +8646,7 @@
                  style="fill:#263238" />
               <polygon
                  id="polygon13536"
-                 points="86.624,99.36 86.624,113.632 100.895,99.36 "
+                 points="86.624,113.632 100.895,99.36 86.624,99.36 "
                  style="fill:#263238" />
             </g>
             <g
@@ -8729,7 +8758,7 @@
     </g>
     <g
        id="g13945"
-       transform="translate(149.46824,885.82672)">
+       transform="translate(396.15185,708.26585)">
       <text
          sodipodi:linespacing="0.99999998%"
          id="text28139"
@@ -8737,7 +8766,7 @@
          x="2744.1514"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:0.99999998%;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;display:inline;opacity:0.98999999;fill:#eeeeee;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:180px;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';fill:#eeeeee;fill-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:150px;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';fill:#eeeeee;fill-opacity:1"
            y="1826.6732"
            x="2744.1514"
            id="tspan28141"
@@ -8866,7 +8895,7 @@
          x="557.46484"
          style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:137.5px;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';fill:#eeeeee;fill-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:150px;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';fill:#eeeeee;fill-opacity:1"
            y="1808.9492"
            x="557.46484"
            id="tspan14388"
@@ -8930,41 +8959,41 @@
            width="100%"
            height="100%" /></flowRegion><flowPara
          id="flowPara6652"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:115.81838732px;font-family:Roboto;-inkscape-font-specification:Roboto">Sự công nghiệp hoá đã mang lại nhiều lợi ích cho con người, tuy nhiên kèm theo đó là tình trạng ô nhiễm môi trường càng ngày càng nghiêm trọng, trong đó đặc biệt nhất là tình trạng ô nhiễm không khí trầm trọng ở nhiều quốc gia. Vì vậy, việc theo dõi mức độ ô nhiễm không khí là một điều cần thiết để cảnh báo kịp thời cho người dân khi mức độ ô nhiễm vượt quá giới hạn cho phép.</flowPara></flowRoot>    <text
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:115.81838989px;font-family:Roboto;-inkscape-font-specification:Roboto">Tình trạng ô nhiễm không khí trầm trọng ở nhiều quốc gia. Vì vậy, việc theo dõi mức độ ô nhiễm không khí là một điều cần thiết để cảnh báo kịp thời cho người dân khi mức độ ô nhiễm vượt quá giới hạn cho phép.</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:26.34549522px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="4715.731"
-       y="3692.1475"
+       x="3551.4189"
+       y="3595.2495"
        id="text10867"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan10869"
-         x="4715.731"
-         y="3692.1475"
+         x="3551.4189"
+         y="3595.2495"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:65.86373901px;font-family:Roboto;-inkscape-font-specification:'Roboto Medium'">Máy chủ</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:10.27536011;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker11206)"
-       d="m 5038.6513,3458.7721 403.9188,0"
+       d="m 3874.3392,3361.8742 403.9188,0"
        id="path10975"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:9.87956047;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
-       d="m 4828.6134,3762.1602 0,140.0252 630.1138,0"
+       d="m 3664.3013,3665.2623 0,140.0252 630.1138,0"
        id="path6575"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:9.87956047;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker7757)"
-       d="m 4828.6134,3248.7342 0,-163.3629 630.1138,0"
+       d="m 3664.3013,3151.8363 0,-163.3629 630.1138,0"
        id="path7749"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:9.87956047;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker7964)"
-       d="m 4175.1622,3528.7847 490.0884,0"
+       d="m 3010.8501,3431.8868 490.0884,0"
        id="path7956"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:9.87956047;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker8177)"
-       d="m 4175.1622,3458.7721 210.038,0 0,-280.0506"
+       d="m 3010.8501,3361.8742 210.038,0 0,-280.0506"
        id="path8169"
        inkscape:connector-curvature="0" />
     <rect
@@ -8975,84 +9004,89 @@
        x="6377.9521"
        y="3897.6379" />
     <g
-       id="g6838"
-       transform="matrix(0.68333587,0,0,0.68333587,2480.3147,1436.819)">
+       id="g7883"
+       transform="translate(770.8587,-7.9632903)">
       <g
-         id="g6784">
+         transform="matrix(0.39408633,0,0,0.39408633,2676.9762,1470.4673)"
+         id="g6838">
         <g
-           id="g6786">
+           transform="translate(96.42557,0)"
+           id="g6784">
           <g
-             id="g6788">
-            <path
-               id="path6790"
-               d="M 245,490 C 109.9,490 0,380.1 0,245 0,109.9 109.9,0 245,0 380.1,0 490,109.9 490,245 490,380.1 380.1,490 245,490 Z M 245,62 C 144.1,62 62,144.1 62,245 62,345.9 144.1,428 245,428 345.9,428 428,345.9 428,245 428,144.1 345.9,62 245,62 Z"
-               inkscape:connector-curvature="0"
-               style="fill:#eeeeee" />
-          </g>
-          <g
-             id="g6792">
+             id="g6786">
             <g
-               id="g6794">
-              <circle
-                 id="circle6796"
-                 r="29.1"
-                 cy="159.2"
-                 cx="241.3"
-                 style="fill:#eeeeee" />
+               id="g6788">
+              <path
+                 style="fill:#eeeeee"
+                 inkscape:connector-curvature="0"
+                 d="M 245,490 C 109.9,490 0,380.1 0,245 0,109.9 109.9,0 245,0 380.1,0 490,109.9 490,245 490,380.1 380.1,490 245,490 Z M 245,62 C 144.1,62 62,144.1 62,245 62,345.9 144.1,428 245,428 345.9,428 428,345.9 428,245 428,144.1 345.9,62 245,62 Z"
+                 id="path6790" />
             </g>
             <g
-               id="g6798">
-              <polygon
-                 id="polygon6800"
-                 points="219.6,321 219.6,254.8 205.1,254.8 205.1,215.9 219.6,215.9 263.1,215.9 270.4,215.9 270.4,321 285.1,321 285.1,359.9 270.4,359.9 219.6,359.9 204.9,359.9 204.9,321 "
-                 style="fill:#eeeeee" />
+               id="g6792">
+              <g
+                 id="g6794">
+                <circle
+                   style="fill:#eeeeee"
+                   cx="241.3"
+                   cy="159.2"
+                   r="29.1"
+                   id="circle6796" />
+              </g>
+              <g
+                 id="g6798">
+                <polygon
+                   style="fill:#eeeeee"
+                   points="270.4,321 285.1,321 285.1,359.9 270.4,359.9 219.6,359.9 204.9,359.9 204.9,321 219.6,321 219.6,254.8 205.1,254.8 205.1,215.9 219.6,215.9 263.1,215.9 270.4,215.9 "
+                   id="polygon6800" />
+              </g>
             </g>
           </g>
         </g>
+        <g
+           id="g6802" />
+        <g
+           id="g6804" />
+        <g
+           id="g6806" />
+        <g
+           id="g6808" />
+        <g
+           id="g6810" />
+        <g
+           id="g6812" />
+        <g
+           id="g6814" />
+        <g
+           id="g6816" />
+        <g
+           id="g6818" />
+        <g
+           id="g6820" />
+        <g
+           id="g6822" />
+        <g
+           id="g6824" />
+        <g
+           id="g6826" />
+        <g
+           id="g6828" />
+        <g
+           id="g6830" />
       </g>
-      <g
-         id="g6802" />
-      <g
-         id="g6804" />
-      <g
-         id="g6806" />
-      <g
-         id="g6808" />
-      <g
-         id="g6810" />
-      <g
-         id="g6812" />
-      <g
-         id="g6814" />
-      <g
-         id="g6816" />
-      <g
-         id="g6818" />
-      <g
-         id="g6820" />
-      <g
-         id="g6822" />
-      <g
-         id="g6824" />
-      <g
-         id="g6826" />
-      <g
-         id="g6828" />
-      <g
-         id="g6830" />
-    </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="2974.4551"
-       y="1614.3695"
-       id="text6864"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan6866"
-         x="2974.4551"
+      <text
+         sodipodi:linespacing="125%"
+         id="text6864"
          y="1614.3695"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:87.5px;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';fill:#eeeeef;fill-opacity:0.94117647">Tóm tắt dự án</tspan></text>
+         x="2974.4551"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:150px;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';fill:#eeeeef;fill-opacity:0.94117647"
+           y="1614.3695"
+           x="2974.4551"
+           id="tspan6866"
+           sodipodi:role="line">Tóm tắt dự án</tspan></text>
+    </g>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
