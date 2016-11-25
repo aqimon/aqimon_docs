@@ -25,6 +25,36 @@
   <defs
      id="defs4">
     <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker11206"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6,-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path11208"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker10995"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path10997"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
        inkscape:stockid="Arrow2Mend"
        orient="auto"
        refY="0.0"
@@ -7123,7 +7153,8 @@
        refX="0"
        id="marker14848"
        style="overflow:visible"
-       inkscape:isstock="true">
+       inkscape:isstock="true"
+       inkscape:collect="always">
       <path
          inkscape:connector-curvature="0"
          id="path14850"
@@ -7185,7 +7216,8 @@
        refX="0"
        refY="0"
        orient="auto"
-       inkscape:stockid="Arrow1Mstart">
+       inkscape:stockid="Arrow1Mstart"
+       inkscape:collect="always">
       <path
          inkscape:connector-curvature="0"
          transform="matrix(0.4,0,0,0.4,4,0)"
@@ -7612,11 +7644,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.11"
-     inkscape:cx="4475.6745"
-     inkscape:cy="2429.586"
+     inkscape:zoom="0.31112698"
+     inkscape:cx="4589.5697"
+     inkscape:cy="2704.4153"
      inkscape:document-units="px"
-     inkscape:current-layer="layer9"
+     inkscape:current-layer="layer6"
      showgrid="true"
      units="m"
      inkscape:window-width="1366"
@@ -7780,6 +7812,30 @@
          x="602.36194"
          y="1771.6536"
          style="fill:#eeeeee;fill-opacity:1">Mục đích nghiên cứu</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="4429.1333"
+       y="2303.1497"
+       id="text10963"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan10965"
+         x="4429.1333"
+         y="2303.1497"
+         style="-inkscape-font-specification:Roboto;font-family:Roboto;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;fill:#000000;fill-opacity:1">Xem dữ liệu cũ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="4535.4326"
+       y="2409.449"
+       id="text10967"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan10969"
+         x="4535.4326"
+         y="2409.449"
+         style="fill:#008080">Xem dữ liẹu cũ</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -7880,7 +7936,7 @@
        id="rect28135"
        width="3897.6382"
        height="2125.9844"
-       x="2125.9839"
+       x="2127.9839"
        y="1948.819" />
     <rect
        style="display:inline;opacity:1;fill:#37474f;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -7892,7 +7948,7 @@
     <g
        style="display:inline;opacity:0.98999999"
        id="g12824"
-       transform="matrix(7.7019741,0,0,7.7019741,4235.1831,2807.8049)">
+       transform="matrix(7.0113597,0,0,7.0113597,4214.0677,2826.0976)">
       <g
          id="g12758"
          transform="translate(3.2609608,-3.5119582)">
@@ -8009,10 +8065,10 @@
          id="g12816" />
     </g>
     <g
-       id="g7691"
-       transform="translate(0,-25.9999)">
+       id="g10805"
+       transform="translate(148,-81.760849)">
       <g
-         transform="matrix(1.414748,0,0,1.414748,5505.0999,2805.9985)"
+         transform="matrix(1.2878918,0,0,1.2878918,5302.1149,2882.546)"
          id="g11380"
          style="display:inline;opacity:0.98999999">
         <g
@@ -8080,7 +8136,7 @@
            id="g11372" />
       </g>
       <g
-         transform="matrix(0.85927034,0,0,0.85927034,5487.384,2106.7712)"
+         transform="matrix(0.78222184,0,0,0.78222184,5285.9876,2246.0159)"
          id="g12406"
          style="display:inline;opacity:0.98999999">
         <g
@@ -8123,7 +8179,7 @@
            id="g12398" />
       </g>
       <g
-         transform="matrix(8.2249479,0,0,8.2249479,5487.3799,3489.0078)"
+         transform="matrix(7.4874399,0,0,7.4874399,5285.9839,3504.3112)"
          id="g13249">
         <g
            id="g13207">
@@ -8172,9 +8228,9 @@
     </g>
     <g
        id="g13389"
-       transform="matrix(0.92955524,0,0,0.92955524,3415.8224,1968.315)"
-       inkscape:transform-center-x="690.13625"
-       inkscape:transform-center-y="379.00925">
+       transform="matrix(0.84620461,0,0,0.84620461,3400.1775,2143.6435)"
+       inkscape:transform-center-x="628.25307"
+       inkscape:transform-center-y="345.02491">
       <g
          id="g13349">
         <path
@@ -8216,7 +8272,7 @@
     </g>
     <g
        id="g13604"
-       transform="matrix(3.1629932,0,0,3.1629932,3224.9033,2834.6457)">
+       transform="matrix(2.8793767,0,0,2.8793767,3226.3767,2932.2925)">
       <g
          id="g13526">
         <g
@@ -8232,7 +8288,7 @@
                  style="fill:#263238" />
               <polygon
                  id="polygon13536"
-                 points="86.624,99.36 86.624,113.632 100.895,99.36 "
+                 points="100.895,99.36 86.624,99.36 86.624,113.632 "
                  style="fill:#263238" />
             </g>
             <g
@@ -8546,7 +8602,43 @@
            width="100%"
            height="100%" /></flowRegion><flowPara
          id="flowPara6652"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:115.81838732px;font-family:Roboto;-inkscape-font-specification:Roboto">Sự công nghiệp hoá đã mang lại nhiều lợi ích cho con người, tuy nhiên kèm theo đó là tình trạng ô nhiễm môi trường càng ngày càng nghiêm trọng, trong đó đặc biệt nhất là tình trạng ô nhiễm không khí trầm trọng ở nhiều quốc gia. Vì vậy, việc theo dõi mức độ ô nhiễm không khí là một điều cần thiết để cảnh báo kịp thời cho người dân khi mức độ ô nhiễm vượt quá giới hạn cho phép.</flowPara></flowRoot>  </g>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:115.81838732px;font-family:Roboto;-inkscape-font-specification:Roboto">Sự công nghiệp hoá đã mang lại nhiều lợi ích cho con người, tuy nhiên kèm theo đó là tình trạng ô nhiễm môi trường càng ngày càng nghiêm trọng, trong đó đặc biệt nhất là tình trạng ô nhiễm không khí trầm trọng ở nhiều quốc gia. Vì vậy, việc theo dõi mức độ ô nhiễm không khí là một điều cần thiết để cảnh báo kịp thời cho người dân khi mức độ ô nhiễm vượt quá giới hạn cho phép.</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="4257.7461"
+       y="3366.1418"
+       id="text10867"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan10869"
+         x="4257.7461"
+         y="3366.1418"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:100px;font-family:Roboto;-inkscape-font-specification:'Roboto Medium'">Máy chủ</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:15;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-start:url(#marker6835);marker-end:url(#marker14848)"
+       d="m 4429.1336,2728.3465 c 25.2004,-244.6039 166.7542,-325.5826 885.8268,-318.8976"
+       id="path10871"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="4274.2598"
+       y="2975.5654"
+       id="text10971"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.99236388,-0.1233448,0.1233448,0.99236388,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan10973"
+         x="4274.2598"
+         y="2975.5654"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75px;font-family:Roboto;-inkscape-font-specification:Roboto">Xem dữ liệu cũ</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:15.60093689;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker11206)"
+       d="m 4748.0312,3011.8111 613.2643,0"
+       id="path10975"
+       inkscape:connector-curvature="0" />
+  </g>
   <g
      inkscape:groupmode="layer"
      id="layer5"
