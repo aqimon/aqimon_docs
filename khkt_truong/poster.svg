@@ -663,10 +663,10 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.14381063"
-     inkscape:cx="4669.6214"
-     inkscape:cy="4584.072"
+     inkscape:cx="5104.1117"
+     inkscape:cy="2839.1104"
      inkscape:document-units="px"
-     inkscape:current-layer="layer6"
+     inkscape:current-layer="layer5"
      showgrid="true"
      units="m"
      inkscape:window-width="1366"
@@ -2072,21 +2072,21 @@
     <rect
        style="display:inline;opacity:1;fill:#eeeeee;fill-opacity:1;stroke:none;stroke-width:15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter8406-3);enable-background:new"
        id="rect8402-6"
-       width="1771.6536"
-       height="2480.3149"
+       width="1771.6533"
+       height="2586.6143"
        x="6200.7871"
-       y="1594.4883" />
+       y="1488.189" />
     <rect
        style="display:inline;opacity:1;fill:#37474f;fill-opacity:1;stroke:none;stroke-width:15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
        id="rect8404-2"
        width="1771.6536"
        height="354.33072"
        x="6200.7871"
-       y="1594.4883" />
+       y="1488.1891" />
     <g
        style="display:inline;opacity:0.98999999;enable-background:new"
        id="g15784"
-       transform="translate(-100.48999,8.145)">
+       transform="translate(-100.49012,-98.154261)">
       <text
          sodipodi:linespacing="125%"
          id="text8418-3"
@@ -2159,7 +2159,7 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;opacity:0.98999999;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new"
        id="flowRoot8310"
-       transform="translate(-1.6604767,345.61906)"><flowRegion
+       transform="matrix(0.89944932,0,0,0.89944932,712.34374,529.08677)"><flowRegion
          id="flowRegion8312"><use
            x="0"
            y="0"
@@ -2168,15 +2168,15 @@
            width="100%"
            height="100%" /></flowRegion><flowPara
          id="flowPara8316"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:justify;text-anchor:start">Nghiên cứu đã thành công trong việc thiết kế và chế tạo một hệ thống theo dõi và cảnh báo chất lượng không khí với các chức năng cơ bản như: báo động lân cận, gửi cảnh báo qua email và SMS, ...</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:justify;text-anchor:start"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:111.17913818px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:justify;text-anchor:start">Nghiên cứu đã thành công trong việc thiết kế và chế tạo một hệ thống theo dõi và cảnh báo chất lượng không khí với các chức năng cơ bản như: báo động lân cận, gửi cảnh báo qua email và SMS, ...</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:111.17913818px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:justify;text-anchor:start"
          id="flowPara4814" /><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:justify;text-anchor:start"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:111.17913818px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:justify;text-anchor:start"
          id="flowPara8320">Hệ thống này có thể được áp dụng để kiểm soát nồng độ khí thải ở các nhà máy, khu công nghiệp, hoặc dùng để theo dõi chất lượng không khí ở những nơi có nguy cơ cao.</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:justify;text-anchor:start"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:111.17913818px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:justify;text-anchor:start"
          id="flowPara4816" /><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:justify;text-anchor:start"
-         id="flowPara8328">Hệ thống này có nhiều điểm ưu việt hơn so với các hệ thống khác ở các mặt  như giá thành rẻ hơn , tính năng tự động cảnh báo, ...</flowPara></flowRoot>    <g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:111.17913818px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:justify;text-anchor:start"
+         id="flowPara8328">Hệ thống này có nhiều điểm ưu việt hơn so với các hệ thống khác ở các mặt như giá thành rẻ hơn, tính năng tự động cảnh báo, ...</flowPara></flowRoot>    <g
        style="display:inline;enable-background:new"
        id="g17984"
        transform="translate(-7.4279948,-42.60614)">
@@ -2421,14 +2421,14 @@
     <rect
        style="display:inline;opacity:1;fill:#eeeeee;fill-opacity:1;stroke:none;stroke-width:5.19899988;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter8388);enable-background:new"
        id="rect13968"
-       width="1771.6536"
-       height="2480.3149"
-       x="177.16498"
-       y="1596.5198" />
+       width="1771.6534"
+       height="2588.646"
+       x="177.16512"
+       y="1488.189" />
     <g
        style="display:inline;enable-background:new"
        id="g13539"
-       transform="matrix(1.0368366,0,0,1.0368366,-59.34481,-255.53519)">
+       transform="matrix(1.0642061,0,0,1.0642061,-88.971234,-398.08207)">
       <g
          transform="matrix(0.08539953,0,0,0.08539953,311.01083,3024.888)"
          id="g12289"
@@ -2643,7 +2643,7 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:34.5368309px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new"
        id="flowRoot6646"
-       transform="matrix(0.79468526,0,0,0.79468526,215.0943,1136.3866)"><flowRegion
+       transform="matrix(0.79468526,0,0,0.79468526,215.0943,1122.3866)"><flowRegion
          id="flowRegion6648"><use
            x="0"
            y="0"
@@ -2658,12 +2658,12 @@
        id="rect13995"
        width="1771.6536"
        height="354.33072"
-       x="177.16507"
-       y="1595.6536" />
+       x="177.16512"
+       y="1488.1891" />
     <g
        style="display:inline;enable-background:new"
        id="g12018"
-       transform="translate(61.076236,1.16524)">
+       transform="translate(61.076275,-106.2993)">
       <g
          transform="matrix(5.640233,0,0,5.640233,318.78035,1683.0569)"
          id="g14360">
