@@ -29,12 +29,12 @@
        orient="auto"
        refY="0"
        refX="0"
-       id="marker7408"
+       id="marker8084"
        style="overflow:visible"
        inkscape:isstock="true">
       <path
          inkscape:connector-curvature="0"
-         id="path7410"
+         id="path8086"
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
          transform="scale(-0.6,-0.6)" />
@@ -42,7 +42,7 @@
     <marker
        inkscape:isstock="true"
        style="overflow:visible"
-       id="marker12994"
+       id="marker7929"
        refX="0"
        refY="0"
        orient="auto"
@@ -52,8 +52,24 @@
          transform="scale(-0.6,-0.6)"
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
-         id="path12996"
+         id="path7931"
          inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker7863"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         id="path7865"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
     </marker>
     <marker
        inkscape:isstock="true"
@@ -646,9 +662,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.28762126"
-     inkscape:cx="3389.9441"
-     inkscape:cy="2012.4"
+     inkscape:zoom="0.20337894"
+     inkscape:cx="2910.8146"
+     inkscape:cy="2018.2792"
      inkscape:document-units="px"
      inkscape:current-layer="layer6"
      showgrid="true"
@@ -1223,7 +1239,7 @@
        width="3897.6379"
        height="1771.6536"
        x="2125.9839"
-       y="2495.748" />
+       y="2480.3149" />
     <rect
        style="display:inline;opacity:1;fill:#37474f;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect28137"
@@ -1554,7 +1570,7 @@
     </g>
     <g
        id="g13604"
-       transform="matrix(2.1407661,0,0,2.1407661,2900.6895,3347.5749)">
+       transform="matrix(2.1407661,0,0,2.1407661,3036.6895,3347.5749)">
       <g
          id="g13526">
         <g
@@ -2435,7 +2451,7 @@
     <a
        style="display:inline;opacity:0.98999999;enable-background:new"
        id="a10544-36"
-       transform="translate(-1996.3005,167.30257)">
+       transform="translate(-1969.0915,228.67517)">
       <text
          sodipodi:linespacing="125%"
          id="text10540-7"
@@ -2464,42 +2480,42 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new"
-       x="2842.8574"
+       x="3210.0098"
        y="3781.5564"
        id="text7071-3"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan7073-5"
-         x="2842.8574"
+         x="3219.3848"
          y="3781.5564"
-         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:75px;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy'">Arduino Nano</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:75px;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy';text-align:center;text-anchor:middle">Arduino </tspan><tspan
+         sodipodi:role="line"
+         x="3210.0098"
+         y="3875.3064"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:75px;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy';text-align:center;text-anchor:middle"
+         id="tspan7993">Nano</tspan></text>
     <a
        style="display:inline;opacity:0.98999999;enable-background:new"
        id="a10544-36-6"
-       transform="translate(-2069.3223,-119.3641)">
+       transform="translate(-2220.9155,-413.09631)">
       <text
          sodipodi:linespacing="125%"
          id="text10540-7-2"
-         y="3627.2109"
-         x="5653.6943"
+         y="3815.8679"
+         x="5858.958"
          style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:75px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:center;text-anchor:middle;fill:#000000"
-           y="3627.2109"
-           x="5653.6943"
+           y="3815.8679"
+           x="5858.958"
            sodipodi:role="line"
-           id="tspan7324">Cảnh báo lân cận</tspan></text>
+           id="tspan7324">Cảnh báo</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:75px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:center;text-anchor:middle;fill:#000000"
+           y="3909.6179"
+           x="5858.958"
+           sodipodi:role="line"
+           id="tspan7995">lân cận</tspan></text>
     </a>
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:12;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#marker7408)"
-       d="m 3295.2754,3578.7401 956.6929,0"
-       id="path7392"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:12;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#marker12994)"
-       d="m 3295.2754,3543.307 602.3622,0 0,-283.4645"
-       id="path7394"
-       inkscape:connector-curvature="0" />
     <a
        style="display:inline;opacity:0.98999999;enable-background:new"
        id="a10544-36-6-1"
@@ -2517,6 +2533,79 @@
            sodipodi:role="line"
            id="tspan7324-7">(đèn, loa, màn hình, ...)</tspan></text>
     </a>
+    <g
+       id="g8063"
+       transform="translate(40,0)">
+      <rect
+         ry="106.29929"
+         y="3153.5432"
+         x="2125.9839"
+         height="744.09448"
+         width="602.36218"
+         id="rect8061"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:15, 5;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text7537"
+         y="3261.9861"
+         x="2198.2832"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:75px;font-family:Roboto;-inkscape-font-specification:'Roboto Light'"
+           y="3261.9861"
+           x="2198.2832"
+           id="tspan7539"
+           sodipodi:role="line">Các cảm biến</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:75px;font-family:Roboto;-inkscape-font-specification:'Roboto Light'"
+           id="tspan7541"
+           y="3355.7361"
+           x="2198.2832"
+           sodipodi:role="line">- Nhiệt độ</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:75px;font-family:Roboto;-inkscape-font-specification:'Roboto Light'"
+           id="tspan7545"
+           y="3449.4861"
+           x="2198.2832"
+           sodipodi:role="line">- Độ ẩm</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:75px;font-family:Roboto;-inkscape-font-specification:'Roboto Light'"
+           id="tspan7549"
+           y="3543.2361"
+           x="2198.2832"
+           sodipodi:role="line">- Nồng độ CO</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:75px;font-family:Roboto;-inkscape-font-specification:'Roboto Light'"
+           id="tspan7559"
+           y="3636.9861"
+           x="2198.2832"
+           sodipodi:role="line">- Nồng độ bụi</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:75px;font-family:Roboto;-inkscape-font-specification:'Roboto Light'"
+           id="tspan7551"
+           y="3730.7361"
+           x="2198.2832"
+           sodipodi:role="line">- Nồng độ NO<tspan
+   id="tspan7563"
+   style="font-size:64.99999762%;baseline-shift:sub">x</tspan></tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:75px;font-family:Roboto;-inkscape-font-specification:'Roboto Light'"
+           id="tspan7561"
+           y="3824.4861"
+           x="2198.2832"
+           sodipodi:role="line">- Nồng độ O<tspan
+   id="tspan7565"
+   style="font-size:64.99999762%;baseline-shift:sub">3</tspan></tspan></text>
+    </g>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:12;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#marker7863)"
+       d="m 3401.5746,3614.1732 850.3937,0"
+       id="path7855"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:12;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#marker7929)"
+       d="m 3401.5746,3543.307 496.063,0 0,-283.4645"
+       id="path7921"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:12.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#marker8084)"
+       d="m 2799.2124,3507.874 212.5984,0"
+       id="path8076"
+       inkscape:connector-curvature="0" />
   </g>
   <g
      inkscape:groupmode="layer"
