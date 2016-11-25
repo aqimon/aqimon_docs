@@ -662,11 +662,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.20337894"
-     inkscape:cx="2910.8146"
-     inkscape:cy="2018.2792"
+     inkscape:zoom="0.28762126"
+     inkscape:cx="1569.2068"
+     inkscape:cy="761.03101"
      inkscape:document-units="px"
-     inkscape:current-layer="layer6"
+     inkscape:current-layer="layer9"
      showgrid="true"
      units="m"
      inkscape:window-width="1366"
@@ -839,8 +839,8 @@
     <rect
        style="opacity:1;fill:#eeeeee;fill-opacity:1;stroke:none;stroke-width:15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter8406)"
        id="rect8402"
-       width="1771.6533"
-       height="1240.1575"
+       width="1771.6536"
+       height="1346.4564"
        x="6200.7871"
        y="4251.9688" />
     <rect
@@ -863,8 +863,8 @@
          id="flowPara8428" /></flowRoot>    <rect
        style="opacity:1;fill:#eeeeee;fill-opacity:1;stroke:none;stroke-width:15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter18082)"
        id="rect8430"
-       width="3897.6377"
-       height="1133.8583"
+       width="3897.6379"
+       height="1240.1576"
        x="2125.9839"
        y="4358.2676" />
     <rect
@@ -939,18 +939,18 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="6367.8882"
-       y="4741.0659"
+       x="6407.8174"
+       y="4749.0659"
        id="text12043"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="6367.8882"
-         y="4741.0659"
+         x="6407.8174"
+         y="4749.0659"
          id="tspan12053"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.25px;font-family:Roboto;-inkscape-font-specification:Roboto">- Bổ sung thêm các cảm biến</tspan><tspan
          sodipodi:role="line"
-         x="6367.8882"
-         y="4873.8784"
+         x="6407.8174"
+         y="4881.8784"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.25px;font-family:Roboto;-inkscape-font-specification:Roboto"
          id="tspan13386">khác như NO<tspan
    style="font-size:64.99999762%;baseline-shift:sub"
@@ -958,23 +958,23 @@
    style="font-size:64.99999762%;baseline-shift:sub"
    id="tspan18110">X</tspan>, ...</tspan><tspan
          sodipodi:role="line"
-         x="6367.8882"
-         y="5006.6909"
+         x="6407.8174"
+         y="5014.6909"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.25px;font-family:Roboto;-inkscape-font-specification:Roboto"
          id="tspan13382">- Tìm hiểu các phương thức</tspan><tspan
          sodipodi:role="line"
-         x="6367.8882"
-         y="5139.5034"
+         x="6407.8174"
+         y="5147.5034"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.25px;font-family:Roboto;-inkscape-font-specification:Roboto"
          id="tspan13388">truyền tin diện rộng</tspan><tspan
          sodipodi:role="line"
-         x="6367.8882"
-         y="5272.3159"
+         x="6407.8174"
+         y="5280.3159"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.25px;font-family:Roboto;-inkscape-font-specification:Roboto"
          id="tspan13384">- Trau chuốt lại thiết kế của</tspan><tspan
          sodipodi:role="line"
-         x="6367.8882"
-         y="5405.1284"
+         x="6407.8174"
+         y="5413.1284"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.25px;font-family:Roboto;-inkscape-font-specification:Roboto"
          id="tspan13390">thiết bị và trang web</tspan></text>
     <rect
@@ -1020,7 +1020,7 @@
        style="opacity:1;fill:#eeeeee;fill-opacity:1;stroke:none;stroke-width:12;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter18040)"
        id="rect12605"
        width="1771.6536"
-       height="1240.1575"
+       height="1346.4564"
        x="177.16507"
        y="4251.9688" />
     <rect
@@ -1137,7 +1137,24 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:justify;text-anchor:start"
          id="flowPara4816" /><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:justify;text-anchor:start"
-         id="flowPara8328">Hệ thống này có nhiều điểm ưu việt hơn so với các hệ thống khác ở các mặt  như giá thành rẻ hơn , tính năng tự động cảnh báo, ...</flowPara></flowRoot>  </g>
+         id="flowPara8328">Hệ thống này có nhiều điểm ưu việt hơn so với các hệ thống khác ở các mặt  như giá thành rẻ hơn , tính năng tự động cảnh báo, ...</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot8152"
+       transform="matrix(0.92619164,0,0,0.92619164,77.5541,701.66674)"><flowRegion
+         id="flowRegion8154"><use
+           x="0"
+           y="0"
+           xlink:href="#rect12605"
+           id="use8156"
+           width="100%"
+           height="100%" /></flowRegion><flowPara
+         id="flowPara8158"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:107.96901703px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:justify;text-anchor:start">- Hệ thống có khả năng tự động gửi cảnh báo khi nhận thấy ô nhiễm đang ở mức nguy hiểm</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:107.96901703px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:justify;text-anchor:start"
+         id="flowPara8160">- Giá thành rẻ, phù hợp với người Việt</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:107.96901703px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:justify;text-anchor:start"
+         id="flowPara8162">- Khả năng dễ sử dụng, người dùng không cần phải vật lộn với các tuỳ chỉnh phức tạp để thiết lập hệ thống.</flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer6"
