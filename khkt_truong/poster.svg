@@ -662,11 +662,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.10168947"
-     inkscape:cx="4241.958"
-     inkscape:cy="2030.2122"
+     inkscape:zoom="0.14381063"
+     inkscape:cx="4335.963"
+     inkscape:cy="3714.6607"
      inkscape:document-units="px"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer6"
      showgrid="true"
      units="m"
      inkscape:window-width="1366"
@@ -1781,9 +1781,9 @@
            width="100%"
            height="100%" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:start;text-anchor:start"
-         id="flowPara12974">Hệ thống có khả năng đo lường các số liệu liên quan tới ô nhiễm không khí và tự động đưa ra cảnh báo khi mức độ ô nhiễm đạt mức nguy hiểm</flowPara><flowPara
+         id="flowPara12974">Hệ thống có khả năng đo lường các số liệu liên quan tới ô nhiễm không khí và tự động đưa ra cảnh báo khi mức độ ô nhiễm đạt mức nguy hiểm.</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:start;text-anchor:start"
-         id="flowPara12976">Hệ thống bao gồm các thiết bị quan trắc có khả năng đo lường và gửi về máy chủ và một máy chủ lưu trữ dữ liệu, hiển thị dữ liệu cho người dùng và đưa ra cảnh báo khi số đo nguy hiểm</flowPara></flowRoot>    <g
+         id="flowPara12976">Hệ thống bao gồm các thiết bị quan trắc có khả năng đo lường và gửi về máy chủ và một máy chủ lưu trữ dữ liệu, hiển thị dữ liệu cho người dùng và đưa ra cảnh báo khi số đo nhận được ở mức nguy hiểm.</flowPara></flowRoot>    <g
        id="g7883"
        transform="translate(582.91925,27.469771)">
       <g
