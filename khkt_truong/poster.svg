@@ -19,8 +19,8 @@
    inkscape:version="0.91 r13725"
    sodipodi:docname="poster.svg"
    inkscape:export-filename="/home/tuankiet65/Documents/xxx.png"
-   inkscape:export-xdpi="11.043478"
-   inkscape:export-ydpi="11.043478"
+   inkscape:export-xdpi="33.130436"
+   inkscape:export-ydpi="33.130436"
    style="enable-background:new">
   <defs
      id="defs4">
@@ -662,9 +662,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.10168947"
-     inkscape:cx="4117.4828"
-     inkscape:cy="1329.4615"
+     inkscape:zoom="0.14381063"
+     inkscape:cx="4669.6214"
+     inkscape:cy="4584.072"
      inkscape:document-units="px"
      inkscape:current-layer="layer6"
      showgrid="true"
@@ -894,23 +894,6 @@
        x="2124.8362"
        y="221.4507"
        ry="0" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:250px;line-height:125%;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;display:inline;fill:#eeeeee;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="2213.9133"
-       y="529.48523"
-       id="text3709"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3711"
-         x="2213.9133"
-         y="529.48523"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:250px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:start;text-anchor:start;fill:#eeeeee;fill-opacity:1">Hệ thống theo dõi và cảnh báo</tspan><tspan
-         sodipodi:role="line"
-         x="2213.9133"
-         y="841.98523"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:250px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:start;text-anchor:start;fill:#eeeeee;fill-opacity:1"
-         id="tspan3713">chất lượng không khí</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;display:inline;fill:#eeeeee;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2005,6 +1988,23 @@
          y="5607.8975"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100px;font-family:Roboto;-inkscape-font-specification:Roboto"
          id="tspan8969-0" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:250px;line-height:125%;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;display:inline;fill:#eeeeee;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="2191.9133"
+       y="501.48523"
+       id="text3709"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3711"
+         x="2191.9133"
+         y="501.48523"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:250px;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:start;text-anchor:start;fill:#eeeeee;fill-opacity:1">Hệ thống theo dõi và cảnh báo</tspan><tspan
+         sodipodi:role="line"
+         x="2191.9133"
+         y="813.98523"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:250px;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:start;text-anchor:start;fill:#eeeeee;fill-opacity:1"
+         id="tspan3713">chất lượng không khí</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
