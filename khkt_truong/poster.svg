@@ -662,9 +662,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.14381063"
-     inkscape:cx="5104.1117"
-     inkscape:cy="2839.1104"
+     inkscape:zoom="0.28762126"
+     inkscape:cx="7138.7049"
+     inkscape:cy="494.71303"
      inkscape:document-units="px"
      inkscape:current-layer="layer5"
      showgrid="true"
@@ -1785,7 +1785,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:start;text-anchor:start"
          id="flowPara12976">Hệ thống bao gồm các thiết bị quan trắc có khả năng đo lường và gửi về máy chủ và một máy chủ lưu trữ dữ liệu, hiển thị dữ liệu cho người dùng và đưa ra cảnh báo khi số đo nguy hiểm</flowPara></flowRoot>    <g
        id="g7883"
-       transform="translate(770.8587,27.469771)">
+       transform="translate(582.91925,27.469771)">
       <g
          transform="matrix(0.39408633,0,0,0.39408633,2676.9762,1293.302)"
          id="g6838">
@@ -1817,7 +1817,7 @@
                  id="g6798">
                 <polygon
                    style="fill:#eeeeee"
-                   points="270.4,321 285.1,321 285.1,359.9 270.4,359.9 219.6,359.9 204.9,359.9 204.9,321 219.6,321 219.6,254.8 205.1,254.8 205.1,215.9 219.6,215.9 263.1,215.9 270.4,215.9 "
+                   points="285.1,359.9 270.4,359.9 219.6,359.9 204.9,359.9 204.9,321 219.6,321 219.6,254.8 205.1,254.8 205.1,215.9 219.6,215.9 263.1,215.9 270.4,215.9 270.4,321 285.1,321 "
                    id="polygon6800" />
               </g>
             </g>
@@ -1865,7 +1865,7 @@
            y="1437.2042"
            x="2974.4551"
            id="tspan6866"
-           sodipodi:role="line">Tóm tắt dự án</tspan></text>
+           sodipodi:role="line">Tóm tắt nghiên cứu </tspan></text>
     </g>
     <text
        xml:space="preserve"
@@ -1907,43 +1907,43 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new"
-       x="3582.1729"
-       y="4863.7759"
+       x="3593.5781"
+       y="4859.7759"
        id="text8906-0"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan8908-9"
-         x="3582.1729"
-         y="4863.7759"
+         x="3593.5781"
+         y="4859.7759"
          style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:100px;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy'">Phần mềm máy chủ:</tspan><tspan
          sodipodi:role="line"
-         x="3582.1729"
-         y="4988.7759"
+         x="3593.5781"
+         y="4984.7759"
          id="tspan8918-2"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100px;font-family:Roboto;-inkscape-font-specification:Roboto">- Ngôn ngữ Python</tspan><tspan
          sodipodi:role="line"
-         x="3582.1729"
-         y="5113.7759"
+         x="3593.5781"
+         y="5109.7759"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100px;font-family:Roboto;-inkscape-font-specification:Roboto"
          id="tspan8967">- Các thư viện:</tspan><tspan
          sodipodi:role="line"
-         x="3582.1729"
-         y="5238.7759"
+         x="3593.5781"
+         y="5234.7759"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100px;font-family:Roboto;-inkscape-font-specification:Roboto"
          id="tspan8971">    - Flask</tspan><tspan
          sodipodi:role="line"
-         x="3582.1729"
-         y="5363.7759"
+         x="3593.5781"
+         y="5359.7759"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100px;font-family:Roboto;-inkscape-font-specification:Roboto"
          id="tspan8975">    - Peewee</tspan><tspan
          sodipodi:role="line"
-         x="3582.1729"
-         y="5488.7759"
+         x="3593.5781"
+         y="5484.7759"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100px;font-family:Roboto;-inkscape-font-specification:Roboto"
          id="tspan9012">    - bcrypt, boto, ...</tspan><tspan
          sodipodi:role="line"
-         x="3582.1729"
-         y="5613.7759"
+         x="3593.5781"
+         y="5609.7759"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100px;font-family:Roboto;-inkscape-font-specification:Roboto"
          id="tspan8969" /></text>
     <text
@@ -2026,49 +2026,6 @@
        height="354.33072"
        x="6200.7871"
        y="4251.9688" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:0.98999999;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new"
-       x="6407.8174"
-       y="4790.6543"
-       id="text12043"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="6407.8174"
-         y="4790.6543"
-         id="tspan12053"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.25px;font-family:Roboto;-inkscape-font-specification:Roboto">- Bổ sung thêm các cảm biến</tspan><tspan
-         sodipodi:role="line"
-         x="6407.8174"
-         y="4923.4668"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.25px;font-family:Roboto;-inkscape-font-specification:Roboto"
-         id="tspan13386">khác như NO<tspan
-   style="font-size:64.99999762%;baseline-shift:sub"
-   id="tspan18108">X</tspan>, SO<tspan
-   style="font-size:64.99999762%;baseline-shift:sub"
-   id="tspan18110">X</tspan>, O<tspan
-   style="font-size:64.99999762%;baseline-shift:sub"
-   id="tspan8164">3</tspan>, ...</tspan><tspan
-         sodipodi:role="line"
-         x="6407.8174"
-         y="5056.2793"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.25px;font-family:Roboto;-inkscape-font-specification:Roboto"
-         id="tspan13382">- Tìm hiểu các phương thức</tspan><tspan
-         sodipodi:role="line"
-         x="6407.8174"
-         y="5189.0918"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.25px;font-family:Roboto;-inkscape-font-specification:Roboto"
-         id="tspan13388">truyền tin diện rộng</tspan><tspan
-         sodipodi:role="line"
-         x="6407.8174"
-         y="5321.9043"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.25px;font-family:Roboto;-inkscape-font-specification:Roboto"
-         id="tspan13384">- Trau chuốt lại thiết kế của</tspan><tspan
-         sodipodi:role="line"
-         x="6407.8174"
-         y="5454.7168"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.25px;font-family:Roboto;-inkscape-font-specification:Roboto"
-         id="tspan13390">thiết bị và trang web</tspan></text>
     <rect
        style="display:inline;opacity:1;fill:#eeeeee;fill-opacity:1;stroke:none;stroke-width:15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter8406-3);enable-background:new"
        id="rect8402-6"
@@ -2302,7 +2259,30 @@
         </g>
       </g>
     </g>
-  </g>
+    <flowRoot
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:0.98999999;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new"
+       id="flowRoot9315"
+       transform="translate(-1.0742345,449.55111)"><flowRegion
+         id="flowRegion9317"><use
+           x="0"
+           y="0"
+           xlink:href="#rect8402"
+           id="use9319"
+           width="100%"
+           height="100%" /></flowRegion><flowPara
+         id="flowPara9321"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100px;font-family:Roboto;-inkscape-font-specification:Roboto">- Bổ sung thêm các cảm biến khác như NO<flowSpan
+   style="font-size:65%;baseline-shift:sub"
+   id="flowSpan9327">X</flowSpan>, SO<flowSpan
+   style="font-size:65%;baseline-shift:sub"
+   id="flowSpan9329">X</flowSpan>, O<flowSpan
+   style="font-size:65%;baseline-shift:sub"
+   id="flowSpan9331">3,</flowSpan> ...</flowPara><flowPara
+         id="flowPara9323"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100px;font-family:Roboto;-inkscape-font-specification:Roboto">- Chuyển đổi từ truyền tin thông qua Wifi sang các công nghệ khác cho phép khoảng cách truyền tin lớn hơn</flowPara><flowPara
+         id="flowPara9325"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100px;font-family:Roboto;-inkscape-font-specification:Roboto">- Trau chuốt lại thiết kế của thiết bị và trang web</flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer1"
@@ -2624,18 +2604,18 @@
       <text
          sodipodi:linespacing="125%"
          id="text13464"
-         y="3989.083"
+         y="4007.877"
          x="1062.4121"
          style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:84.39131165px;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy';text-align:center;text-anchor:middle"
-           y="3989.083"
+           y="4007.877"
            x="1062.4121"
            id="tspan13466"
            sodipodi:role="line">Tình trạng ô nhiễm không khí ở</tspan><tspan
            style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:84.39131165px;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy';text-align:center;text-anchor:middle"
            id="tspan13468"
-           y="4094.5723"
+           y="4113.3662"
            x="1062.4121"
            sodipodi:role="line">Bắc Kinh, Trung Quốc năm 2015</tspan></text>
     </g>
