@@ -7947,9 +7947,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.14381063"
-     inkscape:cx="2862.3794"
-     inkscape:cy="2584.6017"
+     inkscape:zoom="0.10168947"
+     inkscape:cx="3525.0212"
+     inkscape:cy="3387.873"
      inkscape:document-units="px"
      inkscape:current-layer="layer9"
      showgrid="true"
@@ -7992,7 +7992,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by/3.0/" />
       </cc:Work>
@@ -8404,20 +8404,20 @@
        style="display:inline;opacity:1;fill:#eeeeee;fill-opacity:1;stroke:none;stroke-width:15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter8406-3-0)"
        id="rect8402-6-7"
        width="1771.6536"
-       height="1240.1575"
+       height="1062.9922"
        x="6200.7871"
-       y="2958.6614" />
+       y="3011.811" />
     <rect
        style="display:inline;opacity:1;fill:#37474f;fill-opacity:1;stroke:none;stroke-width:15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect8404-2-6"
        width="1771.6536"
        height="354.33072"
        x="6200.7871"
-       y="2958.6614" />
+       y="3011.811" />
     <g
        style="display:inline;opacity:0.98999999"
        id="g15784-5"
-       transform="translate(-64.74792,1358.3183)">
+       transform="translate(-64.747952,1411.468)">
       <text
          sodipodi:linespacing="125%"
          id="text8418-3-6"
@@ -8429,7 +8429,7 @@
            y="1823.0287"
            x="6615.144"
            id="tspan8420-7-9"
-           sodipodi:role="line">Kết quả nghiên cứu </tspan></text>
+           sodipodi:role="line">Ứng dụng &amp; ưu điểm</tspan></text>
       <g
          transform="matrix(7.1417336,0,0,7.1417336,6359.7628,1663.2409)"
          id="g15762-3">
