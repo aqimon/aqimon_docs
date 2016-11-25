@@ -12,8 +12,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="230cm"
-   height="160cm"
-   viewBox="0 0 8149.6061 5669.2916"
+   height="154cm"
+   viewBox="0 0 8149.6061 5456.693"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -21,7 +21,7 @@
    inkscape:export-filename="/home/tuankiet65/Documents/xxx.png"
    inkscape:export-xdpi="11.043478"
    inkscape:export-ydpi="11.043478"
-   enable-background="new">
+   style="enable-background:new">
   <defs
      id="defs4">
     <marker
@@ -142,7 +142,7 @@
          id="stop5567" />
     </linearGradient>
     <filter
-       style="color-interpolation-filters:sRGB;"
+       style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
        id="filter4722">
       <feFlood
@@ -208,11 +208,11 @@
     </filter>
     <filter
        inkscape:collect="always"
-       style="color-interpolation-filters:sRGB;"
+       style="color-interpolation-filters:sRGB"
        id="filter7792"
        x="-0.02965086"
        width="1.0593017"
-       y="-0.042113368"
+       y="-0.042113367"
        height="1.0842267"
        inkscape:label="Drop Shadow">
       <feGaussianBlur
@@ -255,7 +255,7 @@
          result="composite2" />
     </filter>
     <filter
-       style="color-interpolation-filters:sRGB;"
+       style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
        id="filter8432">
       <feFlood
@@ -287,7 +287,7 @@
          id="feComposite8442" />
     </filter>
     <filter
-       style="color-interpolation-filters:sRGB;"
+       style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
        id="filter9056">
       <feFlood
@@ -319,7 +319,7 @@
          id="feComposite9066" />
     </filter>
     <filter
-       style="color-interpolation-filters:sRGB;"
+       style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
        id="filter9176">
       <feFlood
@@ -351,7 +351,7 @@
          id="feComposite9186" />
     </filter>
     <filter
-       style="color-interpolation-filters:sRGB;"
+       style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
        id="filter5590">
       <feFlood
@@ -383,7 +383,7 @@
          id="feComposite5600" />
     </filter>
     <filter
-       style="color-interpolation-filters:sRGB;"
+       style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
        id="filter5602">
       <feFlood
@@ -415,7 +415,7 @@
          id="feComposite5612" />
     </filter>
     <filter
-       style="color-interpolation-filters:sRGB;"
+       style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
        id="filter8388">
       <feFlood
@@ -447,7 +447,7 @@
          id="feComposite8398" />
     </filter>
     <filter
-       style="color-interpolation-filters:sRGB;"
+       style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
        id="filter8406">
       <feFlood
@@ -511,7 +511,7 @@
          id="feComposite8416-5" />
     </filter>
     <filter
-       style="color-interpolation-filters:sRGB;"
+       style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
        id="filter18028">
       <feFlood
@@ -543,7 +543,7 @@
          id="feComposite18038" />
     </filter>
     <filter
-       style="color-interpolation-filters:sRGB;"
+       style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
        id="filter18040">
       <feFlood
@@ -575,7 +575,7 @@
          id="feComposite18050" />
     </filter>
     <filter
-       style="color-interpolation-filters:sRGB;"
+       style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
        id="filter18082">
       <feFlood
@@ -646,9 +646,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.20337894"
-     inkscape:cx="8490.1348"
-     inkscape:cy="4972.8429"
+     inkscape:zoom="0.10168947"
+     inkscape:cx="4440.5082"
+     inkscape:cy="3175.5295"
      inkscape:document-units="px"
      inkscape:current-layer="layer9"
      showgrid="true"
@@ -714,7 +714,8 @@
      inkscape:groupmode="layer"
      id="layer9"
      inkscape:label="Background"
-     style="display:inline;opacity:0.98999999">
+     style="display:inline;opacity:0.98999999"
+     transform="translate(0,-212.59842)">
     <path
        style="opacity:1;fill:#04a0b9;fill-opacity:1;fill-rule:evenodd;stroke:none"
        d="M 204.99976,-0.70866142 3684.9998,3889.2913 l -180,250 L -2.4414063e-4,219.29134 l 0,-220.00000142 c -68.33333485937,0 273.33333414063,0 205.00000414063,0 z"
@@ -836,7 +837,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot8422"
-       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
          id="flowRegion8424"><rect
            id="rect8426"
            width="531.49603"
@@ -933,31 +934,31 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.25px;font-family:Roboto;-inkscape-font-specification:Roboto">- Bổ sung thêm các cảm biến</tspan><tspan
          sodipodi:role="line"
          x="6367.8882"
-         y="4881.6909"
+         y="4873.8784"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.25px;font-family:Roboto;-inkscape-font-specification:Roboto"
          id="tspan13386">khác như NO<tspan
-   style="font-size:65%;baseline-shift:sub"
+   style="font-size:64.99999762%;baseline-shift:sub"
    id="tspan18108">X</tspan>, SO<tspan
-   style="font-size:65%;baseline-shift:sub"
+   style="font-size:64.99999762%;baseline-shift:sub"
    id="tspan18110">X</tspan>, ...</tspan><tspan
          sodipodi:role="line"
          x="6367.8882"
-         y="5022.3159"
+         y="5006.6909"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.25px;font-family:Roboto;-inkscape-font-specification:Roboto"
          id="tspan13382">- Tìm hiểu các phương thức</tspan><tspan
          sodipodi:role="line"
          x="6367.8882"
-         y="5162.9409"
+         y="5139.5034"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.25px;font-family:Roboto;-inkscape-font-specification:Roboto"
          id="tspan13388">truyền tin diện rộng</tspan><tspan
          sodipodi:role="line"
          x="6367.8882"
-         y="5303.5659"
+         y="5272.3159"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.25px;font-family:Roboto;-inkscape-font-specification:Roboto"
          id="tspan13384">- Trau chuốt lại thiết kế của</tspan><tspan
          sodipodi:role="line"
          x="6367.8882"
-         y="5444.1909"
+         y="5405.1284"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.25px;font-family:Roboto;-inkscape-font-specification:Roboto"
          id="tspan13390">thiết bị và trang web</tspan></text>
     <rect
@@ -1118,18 +1119,19 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100px;font-family:Roboto;-inkscape-font-specification:Roboto"
          id="flowPara8320">Hệ thống này có thể được áp dụng để kiểm soát nồng độ khí thải ở các nhà máy, khu công nghiệp, hoặc dùng để theo dõi chất lượng không khí ở những nơi có nguy cơ cao.</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100px;font-family:Roboto;-inkscape-font-specification:Roboto"
-         id="flowPara8324"></flowPara><flowPara
+         id="flowPara8324" /><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100px;font-family:Roboto;-inkscape-font-specification:Roboto"
          id="flowPara8328">Hệ thống này có nhiều điểm ưu việt hơn so với các hệ thống khác ở các mặt  như giá thành rẻ, tính năng tự động cảnh báo, ...</flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="Main panel"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(0,-212.59842)">
     <flowRoot
        xml:space="preserve"
        id="flowRoot4527"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Roboto;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:Roboto;font-stretch:normal;font-variant:normal;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        transform="translate(-2.4414063e-4,0)"><flowRegion
          id="flowRegion4529"><rect
            id="rect4531"
@@ -1137,7 +1139,7 @@
            height="177.16536"
            x="3720.4724"
            y="708.6615"
-           style="-inkscape-font-specification:Roboto;font-family:Roboto;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto" /></flowRegion><flowPara
          id="flowPara4533" /></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:312.5px;line-height:125%;font-family:Lato;-inkscape-font-specification:Lato;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1152,7 +1154,7 @@
          style="font-weight:bold;font-size:187.5px" /></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Roboto;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:Roboto;font-stretch:normal;font-variant:normal;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="3964.0618"
        y="510.04953"
        id="text4496-3"
@@ -1160,7 +1162,7 @@
          sodipodi:role="line"
          x="3964.0618"
          y="510.04953"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:187.5px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;text-anchor:middle;fill:#ffffff;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:187.5px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;text-anchor:middle;fill:#ffffff"
          id="tspan4522-7" /></text>
     <rect
        style="display:inline;fill:#37474f;fill-opacity:1;stroke-width:35.43307114;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter4722)"
@@ -1207,14 +1209,14 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot28127"
-       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Roboto;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Roboto;font-stretch:normal;font-variant:normal;"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
          id="flowRegion28129"><rect
            id="rect28131"
            width="17.88978"
            height="140.97643"
            x="3118.1101"
            y="-282.70862"
-           style="-inkscape-font-specification:Roboto;font-family:Roboto;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto" /></flowRegion><flowPara
          id="flowPara28133" /></flowRoot>    <rect
        style="display:inline;opacity:1;fill:#eeeeee;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter5602)"
        id="rect28135"
@@ -1882,7 +1884,7 @@
                  id="g6798">
                 <polygon
                    style="fill:#eeeeee"
-                   points="204.9,321 219.6,321 219.6,254.8 205.1,254.8 205.1,215.9 219.6,215.9 263.1,215.9 270.4,215.9 270.4,321 285.1,321 285.1,359.9 270.4,359.9 219.6,359.9 204.9,359.9 "
+                   points="270.4,321 285.1,321 285.1,359.9 270.4,359.9 219.6,359.9 204.9,359.9 204.9,321 219.6,321 219.6,254.8 205.1,254.8 205.1,215.9 219.6,215.9 263.1,215.9 270.4,215.9 "
                    id="polygon6800" />
               </g>
             </g>
@@ -2097,12 +2099,12 @@
       </g>
     </g>
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:12;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#marker12994)"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:12;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker12994)"
        d="m 3401.5746,3649.6063 779.5275,0"
        id="path12978"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:12;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#marker11147)"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:12;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker11147)"
        d="m 3401.5746,3543.3071 425.1968,0 0,-248.0315"
        id="path12980"
        inkscape:connector-curvature="0" />
@@ -2308,14 +2310,14 @@
          x="1062.4121"
          style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:84.39131103px;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy';text-align:center;text-anchor:middle"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:84.39131165px;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy';text-align:center;text-anchor:middle"
            y="3950.5039"
            x="1062.4121"
            id="tspan13466"
            sodipodi:role="line">Tình trạng ô nhiễm không khí ở</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:84.39131103px;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy';text-align:center;text-anchor:middle"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:84.39131165px;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy';text-align:center;text-anchor:middle"
            id="tspan13468"
-           y="4059.8789"
+           y="4055.9932"
            x="1062.4121"
            sodipodi:role="line">Bắc Kinh, Trung Quốc năm 2015</tspan></text>
     </g>
@@ -2449,32 +2451,12 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="Right panel"
-     style="display:none" />
+     style="display:inline"
+     transform="translate(0,-212.59842)" />
   <g
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="Left panel"
-     style="display:none">
-    <rect
-       style="display:inline;opacity:1;fill:#eeeeee;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect4551"
-       width="1594.4882"
-       height="1169.2913"
-       x="177.16512"
-       y="1594.4883" />
-    <rect
-       style="display:inline;opacity:1;fill:#eeeeee;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect4551-3"
-       width="1594.4882"
-       height="1169.2914"
-       x="177.16512"
-       y="2940.9448" />
-    <rect
-       style="display:inline;opacity:1;fill:#eeeeee;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect4551-3-6"
-       width="1594.4882"
-       height="1169.2915"
-       x="177.16512"
-       y="4287.4014" />
-  </g>
+     style="display:inline"
+     transform="translate(0,-212.59842)" />
 </svg>
