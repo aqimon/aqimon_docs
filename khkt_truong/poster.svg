@@ -7804,8 +7804,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.11313709"
-     inkscape:cx="3755.4522"
-     inkscape:cy="1781.4517"
+     inkscape:cx="4448.1552"
+     inkscape:cy="3326.2475"
      inkscape:document-units="px"
      inkscape:current-layer="layer9"
      showgrid="true"
@@ -7951,14 +7951,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:12.03293324px;line-height:125%;font-family:Sans;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="5025.2168"
-       y="2685.5867"
+       x="5131.5161"
+       y="2862.752"
        id="text20930"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan20932"
-         x="5025.2168"
-         y="2685.5867">a</tspan></text>
+         x="5131.5161"
+         y="2862.752">a</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -7973,7 +7973,7 @@
          style="fill:#eeeeee;fill-opacity:1">Mục đích nghiên cứu</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.74348241px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 4780.8412,3739.2029 0,158.0632 711.2845,0"
+       d="m 4887.1405,3916.3683 0,158.0632 711.2845,0"
        id="path6573"
        inkscape:connector-curvature="0" />
     <rect
@@ -8016,19 +8016,19 @@
        style="opacity:1;fill:#eeeeee;fill-opacity:1;stroke:none;stroke-width:15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect8430"
        width="3897.6377"
-       height="1240.1575"
+       height="1062.9921"
        x="2125.9839"
-       y="4251.9688" />
+       y="4429.1338" />
     <rect
        style="opacity:1;fill:#37474f;fill-opacity:1;stroke:none;stroke-width:15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect8432"
-       width="3897.6377"
-       height="354.33072"
-       x="2125.9839"
-       y="4251.9688" />
+       width="3897.6382"
+       height="354.33096"
+       x="2125.9836"
+       y="4429.1338" />
     <g
        id="g11972"
-       transform="translate(812.50981,-17.719375)">
+       transform="translate(812.50981,159.44579)">
       <g
          transform="matrix(0.9228797,0,0,0.9228797,2409.446,4340.5541)"
          id="g11948">
@@ -8119,19 +8119,19 @@
        style="display:inline;opacity:1;fill:#eeeeee;fill-opacity:1;stroke:none;stroke-width:15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter8406-3)"
        id="rect8402-6"
        width="1771.6533"
-       height="1240.1575"
+       height="2479.8428"
        x="6200.7871"
-       y="2834.1736" />
+       y="1594.4883" />
     <rect
        style="display:inline;opacity:1;fill:#37474f;fill-opacity:1;stroke:none;stroke-width:15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect8404-2"
        width="1771.6536"
        height="354.33072"
        x="6200.7871"
-       y="2834.1736" />
+       y="1594.4883" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:500;font-size:150px;line-height:125%;font-family:Roboto;letter-spacing:0px;word-spacing:0px;display:inline;opacity:0.98999999;fill:#eeeeee;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:'Roboto Medium';font-stretch:normal;font-variant:normal;"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:150px;line-height:125%;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';letter-spacing:0px;word-spacing:0px;display:inline;opacity:0.98999999;fill:#eeeeee;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="6295.7397"
        y="3053.6035"
        id="text8418-9"
@@ -8140,7 +8140,7 @@
          id="tspan8420-1"
          x="6295.7397"
          y="3053.6035"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:150px;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';fill:#eeeeee;fill-opacity:1;">Ứng dụng</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:150px;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';fill:#eeeeee;fill-opacity:1">Kết quả nghiên cứu</tspan></text>
     <rect
        style="opacity:1;fill:#eeeeee;fill-opacity:1;stroke:none;stroke-width:15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect13766"
@@ -8170,7 +8170,7 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot7931"
-       transform="translate(69.674346,280.97256)"><flowRegion
+       transform="translate(101.36718,302.16649)"><flowRegion
          id="flowRegion7933"><use
            x="0"
            y="0"
@@ -8183,7 +8183,135 @@
          id="flowPara7939"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:100px;font-family:Roboto;-inkscape-font-specification:'Roboto Light'">Gồm các thiết bị quan trắc có khả năng đo lường và gửi về máy chủ</flowPara><flowPara
          id="flowPara7941"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:100px;font-family:Roboto;-inkscape-font-specification:'Roboto Light'">Gồm một máy chủ lưu trữ dữ liệu, hiển thị dữ liệu cho người dùng và đưa ra cảnh báo khi số đo nguy hiểm</flowPara></flowRoot>  </g>
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:100px;font-family:Roboto;-inkscape-font-specification:'Roboto Light'">Gồm một máy chủ lưu trữ dữ liệu, hiển thị dữ liệu cho người dùng và đưa ra cảnh báo khi số đo nguy hiểm</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="2267.8335"
+       y="4533.8477"
+       id="text12476"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="2267.8335"
+         y="4533.8477"
+         id="tspan12482">Thiết bị:</tspan><tspan
+         sodipodi:role="line"
+         x="2267.8335"
+         y="4583.8477"
+         id="tspan12501">Tự động nhận biết các chỉ số của không khí bao gồm nhiệt độ, độ ẩm không khí, nồng độ bụi và nồng độ khí CO trong không khí thông qua các cảm biến.</tspan><tspan
+         sodipodi:role="line"
+         x="2267.8335"
+         y="4633.8477"
+         id="tspan12489">Hiển thị các thông số đo được trên một màn hình LCD kích thước 20x4.</tspan><tspan
+         sodipodi:role="line"
+         x="2267.8335"
+         y="4683.8477"
+         id="tspan12491">Cảnh báo với người dùng thông qua các kênh:</tspan><tspan
+         sodipodi:role="line"
+         x="2267.8335"
+         y="4733.8477"
+         id="tspan12493">Đèn LED ba màu (xanh, vàng, đỏ ứng với mức độ cảnh báo)</tspan><tspan
+         sodipodi:role="line"
+         x="2267.8335"
+         y="4783.8477"
+         id="tspan12495">Email và SMS thông qua trang web</tspan><tspan
+         sodipodi:role="line"
+         x="2267.8335"
+         y="4833.8477"
+         id="tspan12497">Kết nối wifi thông qua module ESP-12 và tự động gửi thông tin lên máy chủ định kì trong một khoảng thời gian nhất định là 5 phút một lần.</tspan><tspan
+         sodipodi:role="line"
+         x="2267.8335"
+         y="4883.8477"
+         id="tspan12499">Cho phép người dùng chỉnh sửa các thông số của thiết bị ví dụ như tên và mật khẩu của trạm phát wifi mà thiết bị kết nối tới, địa chỉ IP tĩnh, vân vân.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:0.98999999;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="2303.2666"
+       y="4884.7212"
+       id="text12476-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="2303.2666"
+         y="4884.7212"
+         id="tspan12499-2">web:</tspan><tspan
+         sodipodi:role="line"
+         x="2303.2666"
+         y="4934.7212"
+         id="tspan12577">Cho phép hiển thị thông tin của các trạm một cách trục quan dưới dạng bản đồ (dựa trên Google Maps) và biểu mẫu, người dùng có thể chọn thời gian mà biểu mẫu biểu diễn. Sử dụng thư viện Socket.IO, thông tin cũng sẽ được cập nhật theo thời gian thực.</tspan><tspan
+         sodipodi:role="line"
+         x="2303.2666"
+         y="4984.7212"
+         id="tspan12579"></tspan><tspan
+         sodipodi:role="line"
+         x="2303.2666"
+         y="5034.7212"
+         id="tspan12581">Cho phép người dùng tạo tài khoản để phục vụ nhiều mục đích khác nhau, như:</tspan><tspan
+         sodipodi:role="line"
+         x="2303.2666"
+         y="5084.7212"
+         id="tspan12583">Cho phép người dùng thêm mới, quản lý và sửa đổi thông tin của các trạm quan trắc thuộc quyền sở hữu của mình.</tspan><tspan
+         sodipodi:role="line"
+         x="2303.2666"
+         y="5134.7212"
+         id="tspan12585">Cho phép người dùng đăng kí nhận tin khi một trạm quan trắc nào đó có số đo ở mức nguy hiểm thông qua việc gửi email và nhắn tin SMS tới người dùng.</tspan><tspan
+         sodipodi:role="line"
+         x="2303.2666"
+         y="5184.7212"
+         id="tspan12587">Cho phép ẩn một trạm, nghĩa là ngoài người chủ ra thì không ai có thể truy cập và xem thông tin về trạm đó.</tspan><tspan
+         sodipodi:role="line"
+         x="2303.2666"
+         y="5234.7212"
+         id="tspan12589">Cung cấp một số hàm API cho việc tích hợp trang web với các ứng dụng ngoài</tspan><tspan
+         sodipodi:role="line"
+         x="2303.2666"
+         y="5284.7212"
+         id="tspan12591">Cho phép truy cập vào cơ sở dữ liệu thông qua ba cách:</tspan><tspan
+         sodipodi:role="line"
+         x="2303.2666"
+         y="5334.7212"
+         id="tspan12593">Thông qua các hàm API đối với các truy vấn nhỏ.</tspan><tspan
+         sodipodi:role="line"
+         x="2303.2666"
+         y="5384.7212"
+         id="tspan12595">Cho phép xuất và tải về số liệu của các trạm dưới các định dạng JSON và CSV</tspan><tspan
+         sodipodi:role="line"
+         x="2303.2666"
+         y="5434.7212"
+         id="tspan12597">Cho phép người dùng thực thi truy vấn trực tiếp trong cơ sở dữ liệu của trang web thông qua việc viết các truy vấn SQL trả về kết quả.</tspan><tspan
+         sodipodi:role="line"
+         x="2303.2666"
+         y="5484.7212"
+         id="tspan12599">Cho phép phân loại các trạm theo các nhãn (tag)</tspan><tspan
+         sodipodi:role="line"
+         x="2303.2666"
+         y="5534.7212"
+         id="tspan12601">Cho phép tìm các trạm theo tên và theo nhãn, tìm nhãn và người dùng theo tên</tspan></text>
+    <rect
+       style="opacity:1;fill:#eeeeee;fill-opacity:1;stroke:none;stroke-width:12;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect12605"
+       width="1771.6536"
+       height="1240.1575"
+       x="177.16507"
+       y="4251.9688" />
+    <rect
+       style="opacity:1;fill:#37474f;fill-opacity:0.94117647;stroke:none;stroke-width:12;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect12603"
+       width="1771.6536"
+       height="354.33072"
+       x="177.16512"
+       y="4251.9688" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:0.98999999;fill:#eeeeee;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="6334.0278"
+       y="1740.4524"
+       id="text8418-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan8420-7"
+         x="6334.0278"
+         y="1740.4524"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:150px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#eeeeee;fill-opacity:1">Kết quả nghiên cứu </tspan></text>
+  </g>
   <g
      inkscape:groupmode="layer"
      id="layer6"
@@ -8284,18 +8412,18 @@
        width="3897.6379"
        height="1771.6536"
        x="2125.9839"
-       y="2303.1497" />
+       y="2481.748" />
     <rect
        style="display:inline;opacity:1;fill:#37474f;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect28137"
        width="3897.6379"
        height="354.33078"
        x="2125.9839"
-       y="2303.1497" />
+       y="2480.3149" />
     <g
        style="display:inline;opacity:0.98999999"
        id="g12824"
-       transform="matrix(5.2128226,0,0,5.2128226,4199.8037,3258.6579)">
+       transform="matrix(5.2128226,0,0,5.2128226,4306.1029,3435.8233)">
       <g
          id="g12758"
          transform="translate(3.2609608,-3.5119582)">
@@ -8413,7 +8541,7 @@
     </g>
     <g
        id="g10805"
-       transform="matrix(0.74348243,0,0,0.74348243,1597.8936,1096.7163)">
+       transform="matrix(0.74348243,0,0,0.74348243,1704.1929,1273.8817)">
       <g
          transform="matrix(1.2878918,0,0,1.2878918,5302.1149,2882.546)"
          id="g11380"
@@ -8575,7 +8703,7 @@
     </g>
     <g
        id="g13389"
-       transform="matrix(0.62913825,0,0,0.62913825,3565.0362,2725.5803)"
+       transform="matrix(0.62913825,0,0,0.62913825,3671.3355,2902.7457)"
        inkscape:transform-center-x="467.09519"
        inkscape:transform-center-y="256.51995">
       <g
@@ -8619,7 +8747,7 @@
     </g>
     <g
        id="g13604"
-       transform="matrix(2.1407661,0,0,2.1407661,2924.3902,3200.4095)">
+       transform="matrix(2.1407661,0,0,2.1407661,3030.6895,3377.5749)">
       <g
          id="g13526">
         <g
@@ -8635,7 +8763,7 @@
                  style="fill:#263238" />
               <polygon
                  id="polygon13536"
-                 points="86.624,99.36 86.624,113.632 100.895,99.36 "
+                 points="86.624,113.632 100.895,99.36 86.624,99.36 "
                  style="fill:#263238" />
             </g>
             <g
@@ -8747,7 +8875,7 @@
     </g>
     <g
        id="g13945"
-       transform="translate(396.15185,708.26585)">
+       transform="translate(396.15181,885.4312)">
       <text
          sodipodi:linespacing="0.99999998%"
          id="text28139"
@@ -9006,24 +9134,24 @@
          x="3011.8108"
          y="1594.4882" /></text>
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:12;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#marker9702)"
-       d="m 5492.1257,3047.2441 -1062.9921,0 0,141.7323"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:12;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9702)"
+       d="m 5598.425,3224.4095 -1062.9921,0 0,141.7323"
        id="path9682"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:12;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#marker9907)"
-       d="m 4606.299,3401.5748 885.8267,0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:12;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9907)"
+       d="m 4712.5983,3578.7402 885.8267,0"
        id="path9684"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:12;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#marker10118)"
-       d="m 4464.5667,3578.7402 0,212.5984 992.126,0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:12;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker10118)"
+       d="m 4570.866,3755.9056 0,212.5984 992.126,0"
        id="path9686"
        inkscape:connector-curvature="0" />
     <a
        style="display:inline;opacity:0.98999999"
        id="a10544"
-       transform="translate(-778.94417,-139.85527)">
+       transform="translate(-672.6449,37.310046)">
       <text
          sodipodi:linespacing="125%"
          id="text10540"
@@ -9040,7 +9168,7 @@
     <a
        style="display:inline;opacity:0.98999999"
        id="a10544-3"
-       transform="translate(-638.64494,-139.85532)">
+       transform="translate(-532.34567,37.309996)">
       <text
          sodipodi:linespacing="125%"
          id="text10540-6"
@@ -9057,7 +9185,7 @@
     <a
        style="display:inline;opacity:0.98999999"
        id="a10544-3-5"
-       transform="translate(-634.92388,745.97138)">
+       transform="translate(-528.62461,923.1367)">
       <text
          sodipodi:linespacing="125%"
          id="text10540-6-3"
@@ -9072,13 +9200,13 @@
            sodipodi:role="line">Ứng dụng ngoại lấy/lưu dữ liệu</tspan></text>
     </a>
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:12;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-start:url(#marker10995)"
-       d="m 5492.1257,2905.5118 -1204.7244,0 0,283.4646"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:12;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker10995)"
+       d="m 5598.425,3082.6772 -1204.7244,0 0,283.4646"
        id="path11139"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:12;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-start:url(#marker11414)"
-       d="m 4322.8344,3578.7402 0,354.3307 1133.8583,0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:12;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker11414)"
+       d="m 4429.1337,3755.9056 0,354.3307 1133.8583,0"
        id="path11394"
        inkscape:connector-curvature="0" />
     <g
@@ -9276,6 +9404,78 @@
          id="tspan12474"
          x="279.53854"
          y="3755.5505">Biểu đồ số ngày ở Bắc Kinh, Trung Quốc ứng với mức độ ô nhiễm không khí ngày đó</tspan></text>
+    <g
+       transform="translate(-141.6378,2746.0488)"
+       style="display:inline"
+       id="g12018-5">
+      <g
+         transform="matrix(5.640233,0,0,5.640233,318.78035,1683.0569)"
+         id="g14360-9">
+        <g
+           id="g14314-2">
+          <g
+             id="g14316-2">
+            <path
+               style="fill:#eeeeee"
+               inkscape:connector-curvature="0"
+               d="M 28.755,6.968 28.285,7.117 25.782,7.34 25.075,8.469 24.562,8.306 22.57,6.51 22.281,5.576 21.894,4.58 20.642,3.457 19.165,3.168 19.131,3.844 20.578,5.256 21.286,6.09 20.49,6.506 19.842,6.315 18.871,5.91 18.904,5.127 17.63,4.603 l -0.423,1.841 -1.284,0.291 0.127,1.027 1.673,0.322 0.289,-1.641 1.381,0.204 0.642,0.376 1.03,0 0.705,1.412 1.869,1.896 -0.137,0.737 -1.507,-0.192 -2.604,1.315 -1.875,2.249 -0.244,0.996 -0.673,0 -1.254,-0.578 -1.218,0.578 0.303,1.285 0.53,-0.611 0.932,-0.029 -0.065,1.154 0.772,0.226 0.771,0.866 1.259,-0.354 1.438,0.227 1.67,0.449 0.834,0.098 1.414,1.605 2.729,1.605 -1.765,3.372 -1.863,0.866 -0.707,1.927 -2.696,1.8 -0.287,1.038 C 26.288,29.3 31.415,23.109 31.415,15.707 31.413,12.474 30.433,9.465 28.755,6.968 Z"
+               id="path14318-8" />
+            <path
+               style="fill:#eeeeee"
+               inkscape:connector-curvature="0"
+               d="m 17.515,23.917 -1.144,-2.121 1.05,-2.188 -1.05,-0.314 -1.179,-1.184 -2.612,-0.586 -0.867,-1.814 0,1.077 -0.382,0 -2.251,-3.052 0,-2.507 L 7.43,8.545 4.81,9.012 3.045,9.012 2.157,8.43 3.29,7.532 2.16,7.793 c -1.362,2.326 -2.156,5.025 -2.156,7.916 0,8.673 7.031,15.707 15.705,15.707 0.668,0 1.323,-0.059 1.971,-0.137 l -0.164,-1.903 c 0,0 0.721,-2.826 0.721,-2.922 -10e-4,-0.097 -0.722,-2.537 -0.722,-2.537 z"
+               id="path14320-9" />
+            <path
+               style="fill:#eeeeee"
+               inkscape:connector-curvature="0"
+               d="M 5.84,5.065 8.63,4.676 9.916,3.971 11.363,4.388 13.675,4.26 14.467,3.015 15.622,3.205 18.427,2.942 19.2,2.09 20.29,1.362 21.832,1.594 22.394,1.509 C 20.363,0.553 18.103,0 15.708,0 10.833,0 6.474,2.222 3.596,5.711 l 0.008,0 L 5.84,5.065 Z M 16.372,1.562 17.976,0.679 19.006,1.274 17.515,2.409 16.091,2.552 15.45,2.136 16.372,1.562 Z m -4.751,0.129 0.708,0.295 0.927,-0.295 0.505,0.875 -2.14,0.562 -1.029,-0.602 c -0.001,0 1.006,-0.648 1.029,-0.835 z"
+               id="path14322-7" />
+          </g>
+        </g>
+        <g
+           id="g14324-3" />
+        <g
+           id="g14326-6" />
+        <g
+           id="g14328-1" />
+        <g
+           id="g14330-2" />
+        <g
+           id="g14332-9" />
+        <g
+           id="g14334-3" />
+        <g
+           id="g14336-1" />
+        <g
+           id="g14338-9" />
+        <g
+           id="g14340-4" />
+        <g
+           id="g14342-7" />
+        <g
+           id="g14344-8" />
+        <g
+           id="g14346-4" />
+        <g
+           id="g14348-5" />
+        <g
+           id="g14350-0" />
+        <g
+           id="g14352-3" />
+      </g>
+      <text
+         sodipodi:linespacing="125%"
+         id="text14386-6"
+         y="1808.9492"
+         x="557.46484"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:150px;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';fill:#eeeeee;fill-opacity:1"
+           y="1808.9492"
+           x="557.46484"
+           id="tspan14388-1"
+           sodipodi:role="line">Mục tiêu nghiên cứu</tspan></text>
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
