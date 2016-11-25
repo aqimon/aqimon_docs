@@ -7724,9 +7724,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.22"
-     inkscape:cx="6965.4588"
-     inkscape:cy="1103.3284"
+     inkscape:zoom="0.15556349"
+     inkscape:cx="4146.0344"
+     inkscape:cy="1148.1073"
      inkscape:document-units="px"
      inkscape:current-layer="layer9"
      showgrid="true"
@@ -7957,7 +7957,14 @@
            height="177.16536"
            x="5669.2915"
            y="3188.9763" /></flowRegion><flowPara
-         id="flowPara8428"></flowPara></flowRoot>  </g>
+         id="flowPara8428"></flowPara></flowRoot>    <rect
+       style="opacity:1;fill:#eeeeee;fill-opacity:1;stroke:none;stroke-width:15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect8430"
+       width="3897.6377"
+       height="1240.1575"
+       x="2125.9839"
+       y="4251.9688" />
+  </g>
   <g
      inkscape:groupmode="layer"
      id="layer6"
@@ -8584,7 +8591,7 @@
        style="opacity:1;fill:#eeeeee;fill-opacity:1;stroke:none;stroke-width:5.19899988;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter8388)"
        id="rect13968"
        width="1771.6536"
-       height="2657.4802"
+       height="3897.6377"
        x="177.16512"
        y="1594.4883" />
     <rect
@@ -8668,7 +8675,7 @@
     <g
        style="stroke-width:28.22200012;stroke-linejoin:round"
        id="g14578"
-       transform="matrix(0.16777633,0,0,0.16777633,33.832507,3344.4534)">
+       transform="matrix(0.16777633,0,0,0.16777633,-107.89978,3875.9495)">
       <path
          id="path14534"
          d="m 6557,2030 c -289,0 -575,45 -849,134 -274,89 -532,221 -766,390 -169,123 -324,265 -461,424 l 2076,1797 0,0 0,0 0,0 0,-2745 z"
