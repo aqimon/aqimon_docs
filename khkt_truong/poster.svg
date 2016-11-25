@@ -662,11 +662,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.14381063"
-     inkscape:cx="4335.963"
-     inkscape:cy="3714.6607"
+     inkscape:zoom="1.150485"
+     inkscape:cx="703.66748"
+     inkscape:cy="2808.4426"
      inkscape:document-units="px"
-     inkscape:current-layer="layer6"
+     inkscape:current-layer="layer1"
      showgrid="true"
      units="m"
      inkscape:window-width="1366"
@@ -2305,9 +2305,9 @@
        y="4251.9688" />
     <flowRoot
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:0.98999999;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new"
+       style="font-style:normal;font-weight:normal;font-size:38.36349869px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:0.98999999;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new"
        id="flowRoot8152"
-       transform="matrix(0.92619164,0,0,0.92619164,77.5541,701.66674)"><flowRegion
+       transform="matrix(0.94182194,0,0,0.94182194,60.939213,654.38396)"><flowRegion
          id="flowRegion8154"><use
            x="0"
            y="0"
@@ -2316,11 +2316,11 @@
            width="100%"
            height="100%" /></flowRegion><flowPara
          id="flowPara8158"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:107.96901703px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:justify;text-anchor:start">- Hệ thống có khả năng tự động gửi cảnh báo khi nhận thấy ô nhiễm đang ở mức nguy hiểm</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:107.96901703px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:justify;text-anchor:start"
-         id="flowPara8160">- Giá thành rẻ, phù hợp với người Việt</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:107.96901703px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:justify;text-anchor:start"
-         id="flowPara8162">- Khả năng dễ sử dụng, người dùng không cần phải vật lộn với các tuỳ chỉnh phức tạp để thiết lập hệ thống</flowPara></flowRoot>    <g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.17718506px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:justify;text-anchor:start">- Hệ thống có khả năng tự động gửi cảnh báo khi nhận thấy ô nhiễm đang ở mức nguy hiểm.</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.17718506px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:justify;text-anchor:start"
+         id="flowPara8160">- Giá thành rẻ, phù hợp với người Việt.</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.17718506px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:justify;text-anchor:start"
+         id="flowPara8162">- Khả năng dễ sử dụng, người dùng không cần phải vật lộn với các tuỳ chỉnh phức tạp để thiết lập hệ thống.</flowPara></flowRoot>    <g
        style="display:inline;enable-background:new"
        id="g15557"
        transform="translate(-96.063243,0.56013)">
@@ -2439,7 +2439,7 @@
            d="m 6501,447 c -371,138 -721,325 -1041,557 -367,267 -689,589 -956,956 -40,56 -79,112 -117,169 l 3612,2370 0,0 0,0 0,0 L 6501,447 Z"
            id="path12275" />
         <path
-           style="fill:#000000;fill-opacity:1;stroke:none"
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:11.00319413;stroke-miterlimit:4;stroke-dasharray:none"
            inkscape:connector-curvature="0"
            d="m 7513,207 c -345,39 -685,120 -1012,240 l 1498,4052 0,0 -486,-4292 z"
            id="path12277" />
@@ -2449,7 +2449,7 @@
            d="m 7861,182 c -116,3 -232,12 -348,25 l 486,4292 0,0 -138,-4317 z"
            id="path12279" />
         <path
-           style="fill:#aecf00;stroke:none"
+           style="fill:#000000;stroke:#000000;fill-opacity:1;stroke-width:11.00319413;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            inkscape:connector-curvature="0"
            d="m 7999,180 c -46,0 -92,0 -138,2 l 138,4317 0,0 0,-4319 z"
            id="path12281" />
@@ -2563,8 +2563,9 @@
       <path
          inkscape:connector-curvature="0"
          id="path12416"
-         d="m 802.44646,3211.0119 -70.86614,-106.2992 -389.76377,0"
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         d="m 816.58757,3173.1889 -67.36281,-70.3701 -464.68326,0.7588"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:nodetypes="ccc" />
       <text
          sodipodi:linespacing="125%"
          id="text12390-3-0"
