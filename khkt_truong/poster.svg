@@ -7652,6 +7652,70 @@
          inkscape:connector-curvature="0"
          style="fill:#44aa00" />
     </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter8388">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood8390" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite8392" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="50"
+         result="blur"
+         id="feGaussianBlur8394" />
+      <feOffset
+         dx="0"
+         dy="0"
+         result="offset"
+         id="feOffset8396" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite8398" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter8406">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood8408" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite8410" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="50"
+         result="blur"
+         id="feGaussianBlur8412" />
+      <feOffset
+         dx="0"
+         dy="0"
+         result="offset"
+         id="feOffset8414" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite8416" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -7661,8 +7725,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.11"
-     inkscape:cx="3517.8142"
-     inkscape:cy="3356.3342"
+     inkscape:cx="4602.1267"
+     inkscape:cy="2335.8511"
      inkscape:document-units="px"
      inkscape:current-layer="layer9"
      showgrid="true"
@@ -7857,6 +7921,20 @@
        d="m 4429.1336,3472.441 0,212.5984 956.6929,0"
        id="path6573"
        inkscape:connector-curvature="0" />
+    <rect
+       style="opacity:1;fill:#eeeeee;fill-opacity:1;stroke:none;stroke-width:15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter8406)"
+       id="rect8402"
+       width="1771.6533"
+       height="1948.8188"
+       x="6200.7871"
+       y="3543.3071" />
+    <rect
+       style="opacity:1;fill:#37474f;fill-opacity:1;stroke:none;stroke-width:15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect8404"
+       width="1771.6536"
+       height="354.33072"
+       x="6200.7866"
+       y="3543.3071" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -7955,10 +8033,10 @@
          id="flowPara28133" /></flowRoot>    <rect
        style="display:inline;opacity:1;fill:#eeeeee;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter5602)"
        id="rect28135"
-       width="3897.6382"
-       height="2125.9844"
-       x="2125.9834"
-       y="1948.8186" />
+       width="3897.6377"
+       height="2480.3145"
+       x="2125.9839"
+       y="1594.4883" />
     <rect
        style="display:inline;opacity:1;fill:#37474f;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect28137"
@@ -8481,7 +8559,7 @@
       </g>
     </g>
     <rect
-       style="opacity:1;fill:#eeeeee;fill-opacity:1;stroke:none;stroke-width:5.19899988;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:#eeeeee;fill-opacity:1;stroke:none;stroke-width:5.19899988;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter8388)"
        id="rect13968"
        width="1771.6536"
        height="2657.4802"
@@ -8660,6 +8738,13 @@
        d="m 3437.0076,3011.8111 318.8977,0 0,-425.1969"
        id="path8169"
        inkscape:connector-curvature="0" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect8400"
+       width="1594.4882"
+       height="1594.4882"
+       x="6377.9521"
+       y="3897.6379" />
   </g>
   <g
      inkscape:groupmode="layer"
