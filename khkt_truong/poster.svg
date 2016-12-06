@@ -24,6 +24,21 @@
    style="enable-background:new">
   <defs
      id="defs4">
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker75100"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6,-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path75102"
+         inkscape:connector-curvature="0" />
+    </marker>
     <linearGradient
        id="linearGradient72400"
        osb:paint="solid">
@@ -39,7 +54,8 @@
        refX="0"
        id="marker8084"
        style="overflow:visible"
-       inkscape:isstock="true">
+       inkscape:isstock="true"
+       inkscape:collect="always">
       <path
          inkscape:connector-curvature="0"
          id="path8086"
@@ -654,11 +670,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.20337894"
-     inkscape:cx="4017.9296"
-     inkscape:cy="1285.7687"
+     inkscape:zoom="0.10168947"
+     inkscape:cx="4065.6515"
+     inkscape:cy="2413.6386"
      inkscape:document-units="px"
-     inkscape:current-layer="layer6"
+     inkscape:current-layer="layer1"
      showgrid="true"
      units="m"
      inkscape:window-width="1366"
@@ -2496,7 +2512,7 @@
       <path
          inkscape:connector-curvature="0"
          id="path7855"
-         d="m 3507.0018,3614.1732 667.5368,0"
+         d="m 3505.3063,3614.1732 667.5368,0"
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:10.63185024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker7863)" />
       <path
          inkscape:connector-curvature="0"
@@ -2882,6 +2898,13 @@
        x="2161.417"
        y="3011.811"
        ry="177.16499" />
+    <path
+       transform="matrix(0.96750244,0,0,0.96750244,137.32067,89.94489)"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:20.67178154;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:20.67178249, 20.67178249;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker75100);enable-background:new"
+       d="M 2320.0513,4113.4628 C 1546.93,5191.8317 2055.4608,5583.6356 2314.9692,5817.5725"
+       id="path75087"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
   </g>
   <g
      inkscape:groupmode="layer"
