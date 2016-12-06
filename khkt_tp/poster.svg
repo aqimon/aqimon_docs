@@ -11689,11 +11689,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.20337894"
-     inkscape:cx="1144.1393"
-     inkscape:cy="940.94891"
+     inkscape:zoom="0.14381063"
+     inkscape:cx="5407.0431"
+     inkscape:cy="1382.0252"
      inkscape:document-units="px"
-     inkscape:current-layer="g10092"
+     inkscape:current-layer="layer6"
      showgrid="true"
      units="m"
      inkscape:window-width="1366"
@@ -28852,24 +28852,7 @@
        height="354.33072"
        x="177.16512"
        y="3897.6379" />
-    <flowRoot
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:38.36349869px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:0.98999999;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new"
-       id="flowRoot8152"
-       transform="matrix(0.94182194,0,0,0.94182194,822.04016,2356.3305)"><flowRegion
-         id="flowRegion8154"><use
-           x="0"
-           y="0"
-           xlink:href="#rect12605"
-           id="use8156"
-           width="100%"
-           height="100%" /></flowRegion><flowPara
-         id="flowPara8158"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.17718506px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:justify;text-anchor:start">- Hệ thống có khả năng tự động gửi cảnh báo khi nhận thấy ô nhiễm đang ở mức nguy hiểm.</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.17718506px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:justify;text-anchor:start"
-         id="flowPara8160">- Giá thành rẻ, phù hợp với người Việt.</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.17718506px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:justify;text-anchor:start"
-         id="flowPara8162">- Khả năng dễ sử dụng, người dùng không cần phải vật lộn với các tuỳ chỉnh phức tạp để thiết lập hệ thống.</flowPara></flowRoot>    <g
+    <g
        style="display:inline;enable-background:new"
        id="g15557"
        transform="translate(-96.06325,-353.77079)">
@@ -28957,7 +28940,7 @@
     <g
        style="display:inline;enable-background:new"
        id="g13539"
-       transform="matrix(1.0642061,0,0,1.0642061,-3255.7368,-675.67794)">
+       transform="matrix(1.0642061,0,0,1.0642061,-111.18196,-861.31316)">
       <g
          transform="matrix(0.08539953,0,0,0.08539953,311.01083,3024.888)"
          id="g12289"
@@ -29173,7 +29156,7 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:27.4459095px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new"
        id="flowRoot6646"
-       transform="translate(-2424.2489,869.95239)"><flowRegion
+       transform="translate(-2544.3874,1119.4791)"><flowRegion
          id="flowRegion6648"><use
            x="0"
            y="0"
