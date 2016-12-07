@@ -11704,11 +11704,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.088388348"
-     inkscape:cx="6383.1656"
-     inkscape:cy="2748.9408"
+     inkscape:zoom="0.125"
+     inkscape:cx="1825.1212"
+     inkscape:cy="2635.8037"
      inkscape:document-units="px"
-     inkscape:current-layer="layer6"
+     inkscape:current-layer="g22593"
      showgrid="true"
      units="m"
      inkscape:window-width="1366"
@@ -11723,8 +11723,8 @@
      inkscape:snap-object-midpoints="false"
      inkscape:snap-bbox="true"
      inkscape:snap-intersection-paths="false"
-     inkscape:bbox-nodes="false"
-     inkscape:snap-nodes="false">
+     inkscape:bbox-nodes="true"
+     inkscape:snap-nodes="true">
     <inkscape:grid
        type="xygrid"
        id="grid4152"
@@ -35481,221 +35481,6 @@ gg==
        height="2232.2834"
        x="177.16512"
        y="1488.189" />
-    <g
-       style="display:inline;enable-background:new"
-       id="g13539"
-       transform="matrix(1.0642061,0,0,1.0642061,-88.971127,-743.31316)">
-      <g
-         transform="matrix(0.08539953,0,0,0.08539953,311.01083,3024.888)"
-         id="g12289"
-         style="stroke-width:28.22200012;stroke-linejoin:round">
-        <path
-           style="fill:#388e3c;fill-opacity:1;stroke:none"
-           inkscape:connector-curvature="0"
-           d="m 11263,1671 c -216,-249 -459,-473 -726,-667 C 10170,738 9764,531 9333,391 8902,251 8451,180 7999,180 l 0,4319 0,0 0,0 0,0 3264,-2828 z"
-           id="path12267" />
-        <path
-           style="fill:#fbc02d;fill-opacity:1;stroke:none"
-           inkscape:connector-curvature="0"
-           d="m 11070,7534 c 153,-155 295,-321 423,-497 266,-367 473,-773 613,-1204 140,-431 212,-882 212,-1334 0,-453 -72,-904 -212,-1335 -140,-431 -347,-837 -613,-1204 -73,-99 -149,-196 -230,-289 l -3264,2828 0,0 0,0 0,0 0,0 0,0 0,0 3071,3035 z"
-           id="path12269" />
-        <path
-           style="fill:#f57c00;fill-opacity:1;stroke:none"
-           inkscape:connector-curvature="0"
-           d="m 7815,8814 c 62,2 123,4 184,4 452,0 903,-72 1334,-212 431,-140 837,-347 1204,-613 190,-138 368,-292 533,-459 l -3071,-3035 0,0 0,0 0,0 0,0 -184,4315 z"
-           id="path12271" />
-        <path
-           style="fill:#d32f2f;fill-opacity:1;stroke:none"
-           inkscape:connector-curvature="0"
-           d="m 4387,2129 c -210,322 -377,670 -496,1035 -140,431 -211,882 -211,1335 0,452 71,903 211,1334 140,431 347,837 613,1204 267,367 589,689 956,956 367,266 773,473 1204,613 373,121 760,191 1151,208 l 184,-4315 0,0 0,0 0,0 0,0 0,0 0,0 0,0 -3612,-2370 z"
-           id="path12273" />
-        <path
-           style="fill:#311b92;fill-opacity:1;stroke:none"
-           inkscape:connector-curvature="0"
-           d="m 6501,447 c -371,138 -721,325 -1041,557 -367,267 -689,589 -956,956 -40,56 -79,112 -117,169 l 3612,2370 0,0 0,0 0,0 L 6501,447 Z"
-           id="path12275" />
-        <path
-           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:11.00319386;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           inkscape:connector-curvature="0"
-           d="m 7513,207 c -345,39 -685,120 -1012,240 l 1498,4052 0,0 -486,-4292 z"
-           id="path12277" />
-        <path
-           style="fill:#000000;fill-opacity:1;stroke:none"
-           inkscape:connector-curvature="0"
-           d="m 7861,182 c -116,3 -232,12 -348,25 l 486,4292 0,0 -138,-4317 z"
-           id="path12279" />
-        <path
-           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:11.00319386;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           inkscape:connector-curvature="0"
-           d="m 7999,180 c -46,0 -92,0 -138,2 l 138,4317 0,0 0,-4319 z"
-           id="path12281" />
-      </g>
-      <text
-         sodipodi:linespacing="125%"
-         id="text12300"
-         y="3092.7134"
-         x="1245.5344"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           y="3092.7134"
-           x="1245.5344"
-           id="tspan12302"
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.75px;font-family:Roboto;-inkscape-font-specification:Roboto">49 ngày</tspan></text>
-      <text
-         sodipodi:linespacing="125%"
-         id="text12300-6-9"
-         y="3871.5227"
-         x="1434.2633"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           y="3871.5227"
-           x="1434.2633"
-           id="tspan12302-2-1"
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.75px;font-family:Roboto;-inkscape-font-specification:Roboto">47 ngày</tspan></text>
-      <text
-         sodipodi:linespacing="125%"
-         id="text12300-6-9-2"
-         y="3761.3748"
-         x="344.17099"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           y="3761.3748"
-           x="344.17099"
-           id="tspan12302-2-1-7"
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.75px;font-family:Roboto;-inkscape-font-specification:Roboto">120 ngày </tspan></text>
-      <text
-         sodipodi:linespacing="125%"
-         id="text12300-6-9-2-0"
-         y="3157.8335"
-         x="457.43463"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           y="3157.8335"
-           x="457.43463"
-           id="tspan12302-2-1-7-9"
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.75px;font-family:Roboto;-inkscape-font-specification:Roboto">36 ngày</tspan></text>
-      <path
-         inkscape:connector-curvature="0"
-         id="path12376"
-         d="m 1085.9111,3175.5788 70.8661,-141.7322 354.3307,0"
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text12378"
-         y="3013.8032"
-         x="1247.0436"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           y="3013.8032"
-           x="1247.0436"
-           id="tspan12380"
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.75px;font-family:Roboto;-inkscape-font-specification:Roboto">An toàn</tspan></text>
-      <path
-         inkscape:connector-curvature="0"
-         id="path12382"
-         d="m 1263.0764,3352.7442 106.2992,-106.2992 483.038,-0.2681"
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         sodipodi:nodetypes="ccc" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path12388"
-         d="m 1085.9111,3671.6418 77.8457,144.2371 730.122,-1.5151"
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         sodipodi:nodetypes="ccc" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text12390"
-         y="3790.6104"
-         x="1161.1057"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           y="3790.6104"
-           x="1161.1057"
-           id="tspan12392"
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.75px;font-family:Roboto;-inkscape-font-specification:Roboto">Nguy hiểm với người nhạy cảm </tspan></text>
-      <path
-         inkscape:connector-curvature="0"
-         id="path12396"
-         d="m 802.44646,3600.7757 -106.29921,106.2992 -425.19685,0"
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text12390-3"
-         y="3683.4751"
-         x="327.5972"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           y="3683.4751"
-           x="327.5972"
-           id="tspan12392-6"
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.75px;font-family:Roboto;-inkscape-font-specification:Roboto">Nguy hiểm</tspan></text>
-      <path
-         inkscape:connector-curvature="0"
-         id="path12416"
-         d="m 816.58757,3173.1889 -67.36281,-70.3701 -464.68326,0.7588"
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         sodipodi:nodetypes="ccc" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text12390-3-0"
-         y="3077.8389"
-         x="382.13739"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           y="3077.8389"
-           x="382.13739"
-           id="tspan12392-6-6"
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.75px;font-family:Roboto;-inkscape-font-specification:Roboto">Rất nguy hiểm</tspan></text>
-      <text
-         sodipodi:linespacing="125%"
-         id="text12378-0"
-         y="3219.6169"
-         x="1372.9353"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           y="3219.6169"
-           x="1372.9353"
-           id="tspan12380-6"
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.75px;font-family:Roboto;-inkscape-font-specification:Roboto">Ô nhiễm trung bình</tspan></text>
-      <text
-         sodipodi:linespacing="125%"
-         id="text12378-0-3"
-         y="3304.2229"
-         x="1503.9641"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           y="3304.2229"
-           x="1503.9641"
-           id="tspan12380-6-2"
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.75px;font-family:Roboto;-inkscape-font-specification:Roboto">85 ngày</tspan></text>
-      <text
-         sodipodi:linespacing="125%"
-         id="text13464"
-         y="4007.877"
-         x="1062.4121"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:84.39131165px;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy';text-align:center;text-anchor:middle"
-           y="4007.877"
-           x="1062.4121"
-           id="tspan13466"
-           sodipodi:role="line">Tình trạng ô nhiễm không khí ở</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:84.39131165px;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy';text-align:center;text-anchor:middle"
-           id="tspan13468"
-           y="4113.3662"
-           x="1062.4121"
-           sodipodi:role="line">Bắc Kinh, Trung Quốc năm 2015</tspan></text>
-    </g>
     <flowRoot
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:27.4459095px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new"
@@ -36067,6 +35852,221 @@ gg==
              x="748.10846"
              y="5362.5171"
              style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:125px;font-family:Roboto;-inkscape-font-specification:'Roboto Light'">Sử dụng pin</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g22593"
+       transform="matrix(1.0716857,0,0,1.0716857,-73.310891,-262.55426)">
+      <g
+         id="g22709"
+         transform="matrix(0.9015207,0,0,0.9015207,104.4171,264.97892)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:42.56824493px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="1061.6543"
+           y="3643.894"
+           id="text13464"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="1061.6543"
+             y="3643.894"
+             id="tspan13468"
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:89.80974579px;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy';text-align:center;text-anchor:middle">Tình trạng ô nhiễm không khí ở Hà Nội</tspan><tspan
+             id="tspan22631"
+             sodipodi:role="line"
+             x="1061.6543"
+             y="3756.1562"
+             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:89.80974579px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:center;text-anchor:middle">(nguồn: aqivn.org)</tspan></text>
+        <g
+           id="g22552"
+           transform="translate(-55.846175,84)">
+          <g
+             transform="matrix(1.3785644,0,0,1.3785644,-145.46576,-972.03991)"
+             id="g22536">
+            <path
+               style="fill:#388e3c;fill-opacity:1;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
+               inkscape:connector-curvature="0"
+               d="m 1137.7398,3087.1892 c 21.9826,-8.6756 42.791,-20.0909 61.9034,-33.985 23.9394,-17.4164 44.9436,-38.4204 62.36,-62.3599 17.3512,-23.9394 30.8538,-50.4228 39.9861,-78.5371 9.1322,-28.1142 13.8288,-57.533 13.8288,-87.0169 0,-29.5493 -4.6966,-58.968 -13.8288,-87.0823 -9.1323,-28.1141 -22.6349,-54.5974 -39.9861,-78.537 -17.4164,-23.9394 -38.4206,-44.9436 -62.36,-62.36 -23.9395,-17.3512 -50.4229,-30.8537 -78.5371,-39.9861 -28.1142,-9.1321 -57.4677,-13.7634 -87.0169,-13.7634 l 0,281.7288 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 103.6506,261.8989 z"
+               id="path22360" />
+            <path
+               style="fill:#fbc02d;fill-opacity:1;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
+               inkscape:connector-curvature="0"
+               d="m 817.00335,3004.8036 c 15.06815,18.2645 32.35413,34.5067 51.46655,48.4006 23.93946,17.3512 50.42289,30.854 78.53706,39.9861 28.11417,9.1322 57.53294,13.8288 87.08224,13.8288 29.5492,0 58.9027,-4.6966 87.0169,-13.8288 5.6098,-1.8264 11.1544,-3.8486 16.6337,-6.0011 l -103.6506,-261.8989 0,0 0,0 0,0 0,0 0,0 -217.08585,179.5133 z"
+               id="path22362" />
+            <path
+               style="fill:#f57c00;fill-opacity:1;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
+               inkscape:connector-curvature="0"
+               d="m 754.57813,2790.0008 c -1.5003,11.6762 -2.21782,23.4828 -2.21782,35.2895 0,29.4839 4.63134,58.9027 13.76356,87.0169 9.13221,28.1143 22.63484,54.5977 39.98605,78.5371 3.52242,4.7617 7.11008,9.4583 10.89343,13.9593 l 217.08585,-179.5133 0,0 0,0 0,0 0,0 -279.51107,-35.2895 z"
+               id="path22364" />
+            <path
+               style="fill:#d32f2f;fill-opacity:1;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
+               inkscape:connector-curvature="0"
+               d="m 841.20372,2619.8806 c -12.91557,12.1329 -24.65698,25.4397 -35.0938,39.7904 -17.35121,23.9396 -30.85384,50.4229 -39.98605,78.537 -5.47934,16.8947 -9.32791,34.1807 -11.54574,51.7928 l 279.51107,35.2895 0,0 0,0 0,0 -192.88548,-205.4097 z"
+               id="path22366" />
+            <path
+               style="fill:#7e0021;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
+               inkscape:connector-curvature="0"
+               d="m 998.79967,2545.7793 c -17.61213,2.2178 -34.89812,6.0664 -51.79271,11.5456 -28.11417,9.1324 -54.5976,22.6349 -78.53706,39.9861 -9.5236,6.9796 -18.65582,14.481 -27.26618,22.5696 l 192.88548,205.4097 0,0 0,0 0,0 -35.28953,-279.511 z"
+               id="path22368" />
+            <path
+               style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
+               inkscape:connector-curvature="0"
+               d="m 1034.0892,2543.5615 c -11.8067,0 -23.6133,0.7174 -35.28953,2.2178 l 35.28953,279.511 0,0 0,-281.7288 z"
+               id="path22370" />
+          </g>
+          <text
+             sodipodi:linespacing="125%"
+             id="text12300"
+             y="3262.676"
+             x="572.20728"
+             style="font-style:normal;font-weight:normal;font-size:42.56824493px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               y="3262.676"
+               x="572.20728"
+               id="tspan12302"
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:57.20107651px;font-family:Roboto;-inkscape-font-specification:Roboto">13%</tspan></text>
+          <text
+             sodipodi:linespacing="125%"
+             id="text12300-6-9"
+             y="2908.3584"
+             x="593.90308"
+             style="font-style:normal;font-weight:normal;font-size:42.56824493px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               y="2908.3584"
+               x="593.90308"
+               id="tspan12302-2-1"
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:57.20107651px;font-family:Roboto;-inkscape-font-specification:Roboto">11%</tspan></text>
+          <text
+             sodipodi:linespacing="125%"
+             id="text12300-6-9-2"
+             y="2590.0261"
+             x="679.05017"
+             style="font-style:normal;font-weight:normal;font-size:42.56824493px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               y="2590.0261"
+               x="679.05017"
+               id="tspan12302-2-1-7"
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:57.20107651px;font-family:Roboto;-inkscape-font-specification:Roboto">10%</tspan></text>
+          <text
+             sodipodi:linespacing="125%"
+             id="text12300-6-9-2-0"
+             y="2621.4148"
+             x="1636.6975"
+             style="font-style:normal;font-weight:normal;font-size:42.56824493px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               y="2621.4148"
+               x="1636.6975"
+               id="tspan12302-2-1-7-9"
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:57.20107651px;font-family:Roboto;-inkscape-font-specification:Roboto">44%</tspan></text>
+          <text
+             sodipodi:linespacing="125%"
+             id="text12378"
+             y="2530.4211"
+             x="1592.5818"
+             style="font-style:normal;font-weight:normal;font-size:42.56824493px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               y="2530.4211"
+               x="1592.5818"
+               id="tspan12380"
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:57.20107651px;font-family:Roboto;-inkscape-font-specification:Roboto">An toàn</tspan></text>
+          <path
+             inkscape:connector-curvature="0"
+             id="path12388"
+             d="m 1238.6399,3222.7364 47.9858,128.22 591.4042,-1.6146"
+             style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             sodipodi:nodetypes="ccc" />
+          <text
+             sodipodi:linespacing="125%"
+             id="text12390"
+             y="3095.2002"
+             x="624.50659"
+             style="font-style:normal;font-weight:normal;font-size:42.56824493px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               y="3095.2002"
+               x="624.50659"
+               id="tspan12392"
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:57.20107651px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;text-anchor:middle">Nguy hiểm với</tspan><tspan
+               id="tspan22550"
+               y="3166.7017"
+               x="631.60083"
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:57.20107651px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;text-anchor:middle">nhóm nhạy cảm </tspan></text>
+          <path
+             sodipodi:nodetypes="ccc"
+             inkscape:connector-curvature="0"
+             id="path12396"
+             d="m 1006.6185,3060.7884 -119.82214,138.4286 -532.54966,0"
+             style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <text
+             sodipodi:linespacing="125%"
+             id="text12390-3"
+             y="2803.0071"
+             x="512.06757"
+             style="font-style:normal;font-weight:normal;font-size:42.56824493px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               y="2803.0071"
+               x="512.06757"
+               id="tspan12392-6"
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:57.20107651px;font-family:Roboto;-inkscape-font-specification:Roboto">Nguy hiểm</tspan></text>
+          <text
+             sodipodi:linespacing="125%"
+             id="text12390-3-0"
+             y="2484.1096"
+             x="552.20508"
+             style="font-style:normal;font-weight:normal;font-size:42.56824493px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               y="2484.1096"
+               x="552.20508"
+               id="tspan12392-6-6"
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:57.20107651px;font-family:Roboto;-inkscape-font-specification:Roboto">Rất nguy hiểm</tspan></text>
+          <text
+             sodipodi:linespacing="125%"
+             id="text12378-0"
+             y="3325.0759"
+             x="1473.5594"
+             style="font-style:normal;font-weight:normal;font-size:42.56824493px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               y="3325.0759"
+               x="1473.5594"
+               id="tspan12380-6"
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:57.20107651px;font-family:Roboto;-inkscape-font-specification:Roboto">Trung bình</tspan></text>
+          <text
+             sodipodi:linespacing="125%"
+             id="text12378-0-3"
+             y="3423.5994"
+             x="1554.2219"
+             style="font-style:normal;font-weight:normal;font-size:42.56824493px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               y="3423.5994"
+               x="1554.2219"
+               id="tspan12380-6-2"
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:57.20107651px;font-family:Roboto;-inkscape-font-specification:Roboto">20%</tspan></text>
+          <path
+             inkscape:connector-curvature="0"
+             id="path22544"
+             d="m 1123.8265,2622.0473 -106.2992,-106.2992 -531.49605,0"
+             style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path22546"
+             d="m 1478.1573,2657.4803 70.8661,-106.2992 318.8976,0"
+             style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path22548"
+             d="m 956.69266,2763.7796 -70.86614,70.8661 -496.06298,0"
+             style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        </g>
       </g>
     </g>
   </g>
