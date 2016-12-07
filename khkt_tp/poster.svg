@@ -11705,10 +11705,10 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.088388348"
-     inkscape:cx="3368.0623"
+     inkscape:cx="6383.1656"
      inkscape:cy="2748.9408"
      inkscape:document-units="px"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer6"
      showgrid="true"
      units="m"
      inkscape:window-width="1366"
@@ -28563,18 +28563,6 @@
        x="2161.417"
        y="3011.811"
        ry="177.16499" />
-    <path
-       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:20;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:20, 20;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker75100);enable-background:new"
-       d="m 2381.976,4011.7302 c -747.9968,1043.3245 -255.992,1422.3958 -4.917,1648.7303"
-       id="path75087"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:20;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:20, 20;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker75100-3);enable-background:new"
-       d="m 5760.8873,4222.6298 c 754.6325,738.0001 307.9893,1303.4373 -8.0536,1445.0145"
-       id="path75087-7"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -35376,6 +35364,17 @@ gg==
        preserveAspectRatio="none"
        height="899.33374"
        width="1594.4882" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="11879.394"
+       y="1053.2982"
+       id="text21902"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan21904"
+         x="11879.394"
+         y="1053.2982"> </tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
