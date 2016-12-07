@@ -11704,11 +11704,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.125"
-     inkscape:cx="1825.1212"
+     inkscape:zoom="0.1767767"
+     inkscape:cx="4385.1212"
      inkscape:cy="2635.8037"
      inkscape:document-units="px"
-     inkscape:current-layer="g22593"
+     inkscape:current-layer="layer6"
      showgrid="true"
      units="m"
      inkscape:window-width="1366"
@@ -28177,7 +28177,7 @@
       <path
          inkscape:connector-curvature="0"
          id="path7855"
-         d="m 3505.3063,3614.1732 667.5368,0"
+         d="m 3513.5751,3614.1732 667.5368,0"
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:10.63185024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker7863)" />
       <path
          inkscape:connector-curvature="0"
@@ -35876,7 +35876,7 @@ gg==
              sodipodi:role="line"
              x="1061.6543"
              y="3756.1562"
-             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:89.80974579px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:center;text-anchor:middle">(nguồn: aqivn.org)</tspan></text>
+             style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:89.80974579px;font-family:Roboto;-inkscape-font-specification:'Roboto Light Italic';text-align:center;text-anchor:middle">(nguồn: aqivn.org)</tspan></text>
         <g
            id="g22552"
            transform="translate(-55.846175,84)">
