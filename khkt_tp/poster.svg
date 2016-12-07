@@ -11704,9 +11704,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.125"
-     inkscape:cx="4451.0341"
-     inkscape:cy="3580.1688"
+     inkscape:zoom="0.1767767"
+     inkscape:cx="4771.0341"
+     inkscape:cy="1744.5963"
      inkscape:document-units="px"
      inkscape:current-layer="layer6"
      showgrid="true"
@@ -28456,7 +28456,7 @@
          id="tspan8908-9"
          x="3593.5781"
          y="4859.7759"
-         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:100px;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy'">Phần mềm máy chủ:</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:100px;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy'">Frontend:</tspan><tspan
          sodipodi:role="line"
          x="3593.5781"
          y="4984.7759"
@@ -28498,7 +28498,7 @@
          id="tspan8908-9-1"
          x="4584.2676"
          y="4857.8975"
-         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:100px;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy'">Trang web:</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:100px;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy'">Backend:</tspan><tspan
          sodipodi:role="line"
          x="4584.2676"
          y="4982.8975"
@@ -28563,15 +28563,14 @@
        y="3011.811"
        ry="177.16499" />
     <path
-       transform="matrix(0.96750244,0,0,0.96750244,137.32067,89.94489)"
-       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:20.67178154;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:20.67178249, 20.67178249;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker75100);enable-background:new"
-       d="M 2320.0513,4113.4628 C 1546.93,5191.8317 2055.4608,5583.6356 2314.9692,5817.5725"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:20;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:20, 20;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker75100);enable-background:new"
+       d="m 2381.976,4011.7302 c -747.9968,1043.3245 -255.992,1422.3958 -4.917,1648.7303"
        id="path75087"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:20;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:20, 20;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker75100-3);enable-background:new"
-       d="m 6076.5045,4176.3845 c -747.9968,1043.3245 -255.992,1422.3957 -4.917,1648.7302"
+       d="m 5760.8873,4222.6298 c 617.0651,560.8348 307.9893,1303.4373 -8.0536,1445.0145"
        id="path75087-7"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
