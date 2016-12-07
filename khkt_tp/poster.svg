@@ -19,8 +19,8 @@
    inkscape:version="0.91 r13725"
    sodipodi:docname="poster.svg"
    inkscape:export-filename="/home/tuankiet65/Documents/xxx.png"
-   inkscape:export-xdpi="22.617043"
-   inkscape:export-ydpi="22.617043"
+   inkscape:export-xdpi="50"
+   inkscape:export-ydpi="50"
    style="enable-background:new">
   <defs
      id="defs4">
@@ -11704,11 +11704,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.1767767"
-     inkscape:cx="4385.1212"
-     inkscape:cy="2635.8037"
+     inkscape:zoom="0.25"
+     inkscape:cx="1181.9274"
+     inkscape:cy="2522.6667"
      inkscape:document-units="px"
-     inkscape:current-layer="g74428"
+     inkscape:current-layer="layer1"
      showgrid="true"
      units="m"
      inkscape:window-width="1366"
@@ -35386,20 +35386,20 @@ gg==
        style="display:inline;opacity:1;fill:#eeeeee;fill-opacity:1;stroke:none;stroke-width:12;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter18040);enable-background:new"
        id="rect12605"
        width="1771.6536"
-       height="1593.0078"
+       height="1594.4883"
        x="177.16512"
-       y="3899.1182" />
+       y="4003.937" />
     <rect
        style="display:inline;opacity:1;fill:#37474f;fill-opacity:1;stroke:none;stroke-width:12;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
        id="rect12603"
        width="1771.6536"
        height="354.33072"
        x="177.16512"
-       y="3897.6379" />
+       y="4003.937" />
     <g
        style="display:inline;enable-background:new"
        id="g15557"
-       transform="translate(-96.06325,-353.77079)">
+       transform="translate(-96.063243,-247.47161)">
       <g
          transform="matrix(0.36450478,0,0,0.36450478,364.92788,4339.407)"
          id="g15514"
@@ -35478,7 +35478,7 @@ gg==
        style="display:inline;opacity:1;fill:#eeeeee;fill-opacity:1;stroke:none;stroke-width:5.19899988;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter8388);enable-background:new"
        id="rect13968"
        width="1771.6536"
-       height="2232.2834"
+       height="2338.5828"
        x="177.16512"
        y="1488.189" />
     <flowRoot
@@ -35633,7 +35633,7 @@ gg==
          y="4606.2993" /></text>
     <g
        id="g21836"
-       transform="translate(-16.427743,2.00002)">
+       transform="translate(-16.427743,97.55906)">
       <g
          transform="translate(-32.866112,0)"
          id="g21769">
@@ -35856,7 +35856,7 @@ gg==
     </g>
     <g
        id="g22593"
-       transform="matrix(1.0716857,0,0,1.0716857,-73.310891,-262.55426)">
+       transform="matrix(1.1885548,0,0,1.1885548,-197.2266,-593.91432)">
       <g
          id="g22709"
          transform="matrix(0.9015207,0,0,0.9015207,104.4171,264.97892)">
