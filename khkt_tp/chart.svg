@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="160mm" height="90mm" viewBox="0 0 16000 9000" version="1.1" xmlns="http://www.w3.org/2000/svg" stroke-width="28.222" stroke-linejoin="round" xml:space="preserve">
+ <path fill="rgb(255,255,255)" stroke="none" d="M 8000,8999 L 0,8999 0,0 15999,0 15999,8999 8000,8999 Z"/>
+ <path fill="rgb(0,69,134)" stroke="none" d="M 7529,180 C 7076,180 6625,251 6194,391 5763,531 5357,738 4990,1004 4623,1271 4301,1593 4034,1960 3768,2327 3561,2733 3421,3164 3281,3595 3210,4046 3210,4499 3210,4951 3281,5402 3421,5833 3561,6264 3768,6670 4034,7037 4301,7404 4623,7726 4990,7993 5283,8206 5602,8381 5939,8514 L 7529,4499 7529,4499 7529,4499 7529,4499 7529,4499 7529,4499 7529,4499 7529,4499 7529,4499 7529,4499 7529,180 Z"/>
+ <path fill="rgb(255,66,14)" stroke="none" d="M 5939,8514 C 6023,8547 6108,8578 6194,8606 6625,8746 7076,8818 7529,8818 7982,8818 8432,8746 8863,8606 9294,8466 9700,8259 10067,7993 10360,7780 10625,7531 10856,7251 L 7529,4499 7529,4499 7529,4499 7529,4499 7529,4499 7529,4499 5939,8514 Z"/>
+ <path fill="rgb(255,211,32)" stroke="none" d="M 10856,7251 C 10914,7182 10969,7110 11023,7037 11289,6670 11496,6264 11636,5833 11776,5402 11848,4951 11848,4499 11848,4318 11836,4137 11813,3958 L 7529,4499 7529,4499 7529,4499 7529,4499 7529,4499 10856,7251 Z"/>
+ <path fill="rgb(87,157,28)" stroke="none" d="M 11813,3958 C 11779,3688 11720,3423 11636,3164 11496,2733 11289,2327 11023,1960 10863,1740 10683,1536 10485,1350 L 7529,4499 7529,4499 7529,4499 7529,4499 11813,3958 Z"/>
+ <path fill="rgb(126,0,33)" stroke="none" d="M 10485,1350 C 10353,1226 10213,1111 10067,1004 9700,738 9294,531 8863,391 8604,307 8339,248 8069,214 L 7529,4499 7529,4499 7529,4499 7529,4499 10485,1350 Z"/>
+ <path fill="rgb(131,202,255)" stroke="none" d="M 8069,214 C 7891,191 7710,180 7529,180 L 7529,4499 7529,4499 8069,214 Z"/>
+ <path fill="rgb(0,69,134)" stroke="none" d="M 15281,3360 L 15175,3360 15175,3149 15386,3149 15386,3360 15281,3360 Z"/>
+ <path fill="rgb(255,66,14)" stroke="none" d="M 15281,3858 L 15175,3858 15175,3647 15386,3647 15386,3858 15281,3858 Z"/>
+ <path fill="rgb(255,211,32)" stroke="none" d="M 15281,4356 L 15175,4356 15175,4145 15386,4145 15386,4356 15281,4356 Z"/>
+ <path fill="rgb(87,157,28)" stroke="none" d="M 15281,4853 L 15175,4853 15175,4642 15386,4642 15386,4853 15281,4853 Z"/>
+ <path fill="rgb(126,0,33)" stroke="none" d="M 15281,5351 L 15175,5351 15175,5140 15386,5140 15386,5351 15281,5351 Z"/>
+ <path fill="rgb(131,202,255)" stroke="none" d="M 15281,5849 L 15175,5849 15175,5638 15386,5638 15386,5849 15281,5849 Z"/>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="15486" y="3374"><tspan fill="rgb(0,0,0)" stroke="none">1</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="15486" y="3872"><tspan fill="rgb(0,0,0)" stroke="none">2</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="15486" y="4370"><tspan fill="rgb(0,0,0)" stroke="none">3</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="15486" y="4867"><tspan fill="rgb(0,0,0)" stroke="none">4</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="15486" y="5365"><tspan fill="rgb(0,0,0)" stroke="none">5</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="15486" y="5863"><tspan fill="rgb(0,0,0)" stroke="none">6</tspan></tspan></tspan></text>
+</svg>
