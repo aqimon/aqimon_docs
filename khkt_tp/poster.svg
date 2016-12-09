@@ -11705,10 +11705,10 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.125"
-     inkscape:cx="6089.9274"
-     inkscape:cy="602.6667"
+     inkscape:cx="4381.9274"
+     inkscape:cy="3482.6667"
      inkscape:document-units="px"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer10"
      showgrid="true"
      units="m"
      inkscape:window-width="1366"
@@ -28080,7 +28080,7 @@
          d="m 4429.1337,3777.9056 0,354.3307 1133.8583,0"
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:12;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker11414)" />
       <a
-         transform="translate(-1923.6131,222.47363)"
+         transform="translate(-1844.5557,222.47363)"
          id="a10544-36"
          style="display:inline;opacity:0.98999999;enable-background:new">
         <text
@@ -28094,7 +28094,7 @@
              id="tspan10542-5"
              x="5400.7891"
              y="3493.5024"
-             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:75px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';fill:#000000">Gửi số liệu lên máy chủ</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:75px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';fill:#000000">Gửi số liệu qua wifi</tspan></text>
       </a>
       <text
          sodipodi:linespacing="125%"
@@ -29360,7 +29360,7 @@
              style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:89.80974579px;font-family:Roboto;-inkscape-font-specification:'Roboto Light Italic';text-align:center;text-anchor:middle">(nguồn: aqivn.org)</tspan></text>
         <g
            id="g22552"
-           transform="translate(-55.846175,84)">
+           transform="translate(-55.846175,89.59959)">
           <g
              transform="matrix(1.3785644,0,0,1.3785644,-145.46576,-972.03991)"
              id="g22536">
