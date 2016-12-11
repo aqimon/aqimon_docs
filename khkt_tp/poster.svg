@@ -11705,10 +11705,10 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.125"
-     inkscape:cx="4381.9274"
-     inkscape:cy="3482.6667"
+     inkscape:cx="541.9274"
+     inkscape:cy="1562.6667"
      inkscape:document-units="px"
-     inkscape:current-layer="layer10"
+     inkscape:current-layer="g21836"
      showgrid="true"
      units="m"
      inkscape:window-width="1366"
@@ -29262,77 +29262,6 @@
              x="767.48395"
              y="4969.4873"
              style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:125px;font-family:Roboto;-inkscape-font-specification:'Roboto Light'">Cài đặt đơn giản</tspan></text>
-      </g>
-      <g
-         id="g21810">
-        <g
-           id="g16681"
-           transform="matrix(0.7968754,0,0,0.7968754,287.04185,5114.5354)">
-          <g
-             id="g16633">
-            <g
-               id="g16635">
-              <path
-                 id="path16637"
-                 d="m 489.657,196.47 -26.229,0 0,-40.024 c 0,-18.48 -15.035,-33.515 -33.515,-33.515 l -396.398,0 C 15.035,122.931 0,137.965 0,156.445 l 0,199.109 c 0,18.48 15.035,33.515 33.515,33.515 l 396.399,0 c 18.48,0 33.515,-15.035 33.515,-33.515 l 0,-40.024 26.229,0 c 12.32,0 22.343,-10.023 22.343,-22.343 l 0,-74.375 C 512,206.493 501.977,196.47 489.657,196.47 Z m -376.28,170.256 -79.862,0 c -6.16,0 -11.172,-5.012 -11.172,-11.172 l 0,-199.109 c 0,-6.16 5.012,-11.172 11.172,-11.172 l 79.862,0 0,221.453 z m 327.708,-11.171 c 0,6.16 -5.012,11.172 -11.172,11.172 l -294.193,0 0,-221.453 294.194,0 c 6.16,0 11.172,5.012 11.172,11.172 l 0,199.109 z m 48.572,-62.368 -26.229,0 0,-74.375 26.229,0 0.015,74.375 c -0.002,-0.001 -0.006,0 -0.015,0 z"
-                 inkscape:connector-curvature="0"
-                 style="fill:#37474f" />
-            </g>
-          </g>
-          <g
-             id="g16639">
-            <g
-               id="g16641">
-              <path
-                 id="path16643"
-                 d="m 363.722,241.226 c -3.3,-5.21 -10.202,-6.761 -15.416,-3.459 l -48.733,30.871 0,-45.581 c 0,-4.073 -2.216,-7.823 -5.786,-9.787 -3.567,-1.963 -7.923,-1.829 -11.365,0.35 l -65.883,41.737 c -5.212,3.302 -6.761,10.204 -3.459,15.416 3.3,5.21 10.202,6.761 15.416,3.459 l 48.733,-30.873 0,45.581 c 0,4.073 2.216,7.823 5.786,9.787 1.68,0.925 3.535,1.384 5.386,1.384 2.08,0 4.158,-0.581 5.979,-1.734 l 65.883,-41.736 c 5.212,-3.302 6.762,-10.203 3.459,-15.415 z"
-                 inkscape:connector-curvature="0"
-                 style="fill:#37474f" />
-            </g>
-          </g>
-          <g
-             id="g16645" />
-          <g
-             id="g16647" />
-          <g
-             id="g16649" />
-          <g
-             id="g16651" />
-          <g
-             id="g16653" />
-          <g
-             id="g16655" />
-          <g
-             id="g16657" />
-          <g
-             id="g16659" />
-          <g
-             id="g16661" />
-          <g
-             id="g16663" />
-          <g
-             id="g16665" />
-          <g
-             id="g16667" />
-          <g
-             id="g16669" />
-          <g
-             id="g16671" />
-          <g
-             id="g16673" />
-        </g>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new"
-           x="748.10846"
-           y="5362.5171"
-           id="text9956-3-7"
-           sodipodi:linespacing="125%"><tspan
-             sodipodi:role="line"
-             id="tspan9958-6-5"
-             x="748.10846"
-             y="5362.5171"
-             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:125px;font-family:Roboto;-inkscape-font-specification:'Roboto Light'">Sử dụng pin</tspan></text>
       </g>
     </g>
     <g
