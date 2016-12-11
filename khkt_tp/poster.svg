@@ -27474,7 +27474,7 @@
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="Main panel"
-     style="display:inline;opacity:0.9"
+     style="display:inline;opacity:1"
      transform="translate(0,-212.59842)">
     <flowRoot
        xml:space="preserve"
@@ -28714,7 +28714,7 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="Right panel"
-     style="display:inline;opacity:0.9"
+     style="display:inline;opacity:1"
      transform="translate(0,-212.59842)">
     <rect
        style="display:inline;opacity:1;fill:#eeeeee;fill-opacity:1;stroke:none;stroke-width:15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter8406);enable-background:new"
@@ -29056,7 +29056,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="Left panel"
-     style="display:inline;opacity:0.9"
+     style="display:inline;opacity:1"
      transform="translate(0,-212.59842)">
     <rect
        style="display:inline;opacity:1;fill:#eeeeee;fill-opacity:1;stroke:none;stroke-width:12;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter18040);enable-background:new"
