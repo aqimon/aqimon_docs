@@ -11704,11 +11704,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.125"
-     inkscape:cx="3576.0004"
-     inkscape:cy="2715.3081"
+     inkscape:zoom="0.1767767"
+     inkscape:cx="2547.2367"
+     inkscape:cy="810.90628"
      inkscape:document-units="px"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer1"
      showgrid="true"
      units="m"
      inkscape:window-width="1366"
@@ -11723,7 +11723,7 @@
      inkscape:snap-object-midpoints="false"
      inkscape:snap-bbox="true"
      inkscape:snap-intersection-paths="false"
-     inkscape:bbox-nodes="true"
+     inkscape:bbox-nodes="false"
      inkscape:snap-nodes="true">
     <inkscape:grid
        type="xygrid"
@@ -29353,7 +29353,7 @@
            y="4145.6694" /></flowRegion><flowPara
          id="flowPara17714"></flowPara></flowRoot>    <g
        id="g18933"
-       transform="matrix(0.95390973,0,0,0.95390973,24.313435,241.24061)">
+       transform="matrix(0.96517777,0,0,0.96517777,40.507799,173.18919)">
       <text
          sodipodi:linespacing="125%"
          id="text9956"
@@ -29496,7 +29496,7 @@
            y="5452.1714"
            x="642.66119"
            id="tspan9958-6-7-4"
-           sodipodi:role="line">Mở rộng nhanh chóng</tspan></text>
+           sodipodi:role="line">Dễ dàng mở rộng</tspan></text>
       <g
          transform="matrix(0.52133562,0,0,0.52133562,283.46432,4316.1877)"
          id="g18401">
