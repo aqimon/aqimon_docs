@@ -11704,9 +11704,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.125"
-     inkscape:cx="6004.8334"
-     inkscape:cy="-214.29543"
+     inkscape:zoom="0.08838835"
+     inkscape:cx="4386.4656"
+     inkscape:cy="2431.8284"
      inkscape:document-units="px"
      inkscape:current-layer="layer6"
      showgrid="true"
@@ -11730,7 +11730,7 @@
        id="grid4152"
        units="cm"
        enabled="true"
-       visible="true"
+       visible="false"
        snapvisiblegridlinesonly="true"
        dotted="false"
        spacingx="35.433069"
@@ -11750,7 +11750,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by/3.0/" />
       </cc:Work>
@@ -27474,7 +27474,7 @@
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="Main panel"
-     style="display:inline"
+     style="display:inline;opacity:0.9"
      transform="translate(0,-212.59842)">
     <flowRoot
        xml:space="preserve"
@@ -27564,7 +27564,8 @@
        y="2480.3149" />
     <g
        id="g13945"
-       transform="translate(396.15181,885.4312)">
+       transform="translate(396.15181,885.4312)"
+       style="">
       <text
          sodipodi:linespacing="0.99999998%"
          id="text28139"
@@ -27579,11 +27580,14 @@
            sodipodi:role="line">Mô hình hoạt động của hệ thống</tspan></text>
       <g
          transform="matrix(0.46075684,0,0,0.46075684,2456.3147,1657.7815)"
-         id="g13925">
+         id="g13925"
+         style="">
         <g
-           id="g13883">
+           id="g13883"
+           style="">
           <g
-             id="g13885">
+             id="g13885"
+             style="">
             <path
                style="fill:#eeeeee"
                inkscape:connector-curvature="0"
@@ -27592,35 +27596,50 @@
           </g>
         </g>
         <g
-           id="g13889" />
+           id="g13889"
+           style="" />
         <g
-           id="g13891" />
+           id="g13891"
+           style="" />
         <g
-           id="g13893" />
+           id="g13893"
+           style="" />
         <g
-           id="g13895" />
+           id="g13895"
+           style="" />
         <g
-           id="g13897" />
+           id="g13897"
+           style="" />
         <g
-           id="g13899" />
+           id="g13899"
+           style="" />
         <g
-           id="g13901" />
+           id="g13901"
+           style="" />
         <g
-           id="g13903" />
+           id="g13903"
+           style="" />
         <g
-           id="g13905" />
+           id="g13905"
+           style="" />
         <g
-           id="g13907" />
+           id="g13907"
+           style="" />
         <g
-           id="g13909" />
+           id="g13909"
+           style="" />
         <g
-           id="g13911" />
+           id="g13911"
+           style="" />
         <g
-           id="g13913" />
+           id="g13913"
+           style="" />
         <g
-           id="g13915" />
+           id="g13915"
+           style="" />
         <g
-           id="g13917" />
+           id="g13917"
+           style="" />
       </g>
     </g>
     <rect
@@ -27643,14 +27662,16 @@
          y="1594.4882" /></text>
     <g
        id="g74428"
-       transform="matrix(0.96750244,0,0,0.96750244,137.32067,89.94489)">
+       transform="matrix(0.96750244,0,0,0.96750244,137.32067,89.94489)"
+       style="">
       <g
          transform="matrix(5.2128226,0,0,5.2128226,4308.1029,3349.8233)"
          id="g12824"
          style="display:inline;opacity:0.98999999">
         <g
            transform="translate(3.2609608,-3.5119582)"
-           id="g12758">
+           id="g12758"
+           style="">
           <path
              style="fill:#263238"
              inkscape:connector-curvature="0"
@@ -27733,42 +27754,58 @@
              id="path12786" />
         </g>
         <g
-           id="g12788" />
+           id="g12788"
+           style="" />
         <g
-           id="g12790" />
+           id="g12790"
+           style="" />
         <g
-           id="g12792" />
+           id="g12792"
+           style="" />
         <g
-           id="g12794" />
+           id="g12794"
+           style="" />
         <g
-           id="g12796" />
+           id="g12796"
+           style="" />
         <g
-           id="g12798" />
+           id="g12798"
+           style="" />
         <g
-           id="g12800" />
+           id="g12800"
+           style="" />
         <g
-           id="g12802" />
+           id="g12802"
+           style="" />
         <g
-           id="g12804" />
+           id="g12804"
+           style="" />
         <g
-           id="g12806" />
+           id="g12806"
+           style="" />
         <g
-           id="g12808" />
+           id="g12808"
+           style="" />
         <g
-           id="g12810" />
+           id="g12810"
+           style="" />
         <g
-           id="g12812" />
+           id="g12812"
+           style="" />
         <g
-           id="g12814" />
+           id="g12814"
+           style="" />
         <g
-           id="g12816" />
+           id="g12816"
+           style="" />
       </g>
       <g
          transform="matrix(0.95752493,0,0,0.95752493,5663.3331,3383.004)"
          id="g11380"
          style="display:inline;opacity:0.98999999">
         <g
-           id="g11330">
+           id="g11330"
+           style="">
           <path
              style="fill:#263238"
              inkscape:connector-curvature="0"
@@ -27801,35 +27838,50 @@
              id="path11342" />
         </g>
         <g
-           id="g11344" />
+           id="g11344"
+           style="" />
         <g
-           id="g11346" />
+           id="g11346"
+           style="" />
         <g
-           id="g11348" />
+           id="g11348"
+           style="" />
         <g
-           id="g11350" />
+           id="g11350"
+           style="" />
         <g
-           id="g11352" />
+           id="g11352"
+           style="" />
         <g
-           id="g11354" />
+           id="g11354"
+           style="" />
         <g
-           id="g11356" />
+           id="g11356"
+           style="" />
         <g
-           id="g11358" />
+           id="g11358"
+           style="" />
         <g
-           id="g11360" />
+           id="g11360"
+           style="" />
         <g
-           id="g11362" />
+           id="g11362"
+           style="" />
         <g
-           id="g11364" />
+           id="g11364"
+           style="" />
         <g
-           id="g11366" />
+           id="g11366"
+           style="" />
         <g
-           id="g11368" />
+           id="g11368"
+           style="" />
         <g
-           id="g11370" />
+           id="g11370"
+           style="" />
         <g
-           id="g11372" />
+           id="g11372"
+           style="" />
       </g>
       <g
          transform="matrix(0.58156819,0,0,0.58156819,5632.2318,2901.1663)"
@@ -27837,7 +27889,8 @@
          style="display:inline;opacity:1">
         <g
            transform="translate(55.023647,0)"
-           id="g12366">
+           id="g12366"
+           style="">
           <path
              style="fill:#263238"
              inkscape:connector-curvature="0"
@@ -27845,47 +27898,67 @@
              id="path12368-1" />
         </g>
         <g
-           id="g12370" />
+           id="g12370"
+           style="" />
         <g
-           id="g12372" />
+           id="g12372"
+           style="" />
         <g
-           id="g12374" />
+           id="g12374"
+           style="" />
         <g
-           id="g12376" />
+           id="g12376"
+           style="" />
         <g
-           id="g12378" />
+           id="g12378"
+           style="" />
         <g
-           id="g12380" />
+           id="g12380"
+           style="" />
         <g
-           id="g12382" />
+           id="g12382"
+           style="" />
         <g
-           id="g12384" />
+           id="g12384"
+           style="" />
         <g
-           id="g12386" />
+           id="g12386"
+           style="" />
         <g
-           id="g12388" />
+           id="g12388"
+           style="" />
         <g
-           id="g12390" />
+           id="g12390"
+           style="" />
         <g
-           id="g12392" />
+           id="g12392"
+           style="" />
         <g
-           id="g12394" />
+           id="g12394"
+           style="" />
         <g
-           id="g12396" />
+           id="g12396"
+           style="" />
         <g
-           id="g12398" />
+           id="g12398"
+           style="" />
       </g>
       <g
          transform="matrix(2.1407661,0,0,2.1407661,3036.6895,3347.5749)"
-         id="g13604">
+         id="g13604"
+         style="">
         <g
-           id="g13526">
+           id="g13526"
+           style="">
           <g
-             id="g13528">
+             id="g13528"
+             style="">
             <g
-               id="g13530">
+               id="g13530"
+               style="">
               <g
-                 id="g13532">
+                 id="g13532"
+                 style="">
                 <path
                    style="fill:#263238"
                    inkscape:connector-curvature="0"
@@ -27893,11 +27966,12 @@
                    id="path13534" />
                 <polygon
                    style="fill:#263238"
-                   points="86.624,99.36 86.624,113.632 100.895,99.36 "
+                   points="100.895,99.36 86.624,99.36 86.624,113.632 "
                    id="polygon13536" />
               </g>
               <g
-                 id="g13538">
+                 id="g13538"
+                 style="">
                 <path
                    style="fill:#263238"
                    inkscape:connector-curvature="0"
@@ -27973,35 +28047,50 @@
           </g>
         </g>
         <g
-           id="g13568" />
+           id="g13568"
+           style="" />
         <g
-           id="g13570" />
+           id="g13570"
+           style="" />
         <g
-           id="g13572" />
+           id="g13572"
+           style="" />
         <g
-           id="g13574" />
+           id="g13574"
+           style="" />
         <g
-           id="g13576" />
+           id="g13576"
+           style="" />
         <g
-           id="g13578" />
+           id="g13578"
+           style="" />
         <g
-           id="g13580" />
+           id="g13580"
+           style="" />
         <g
-           id="g13582" />
+           id="g13582"
+           style="" />
         <g
-           id="g13584" />
+           id="g13584"
+           style="" />
         <g
-           id="g13586" />
+           id="g13586"
+           style="" />
         <g
-           id="g13588" />
+           id="g13588"
+           style="" />
         <g
-           id="g13590" />
+           id="g13590"
+           style="" />
         <g
-           id="g13592" />
+           id="g13592"
+           style="" />
         <g
-           id="g13594" />
+           id="g13594"
+           style="" />
         <g
-           id="g13596" />
+           id="g13596"
+           style="" />
       </g>
       <path
          inkscape:connector-curvature="0"
@@ -28127,7 +28216,8 @@
            sodipodi:role="line">Nano</tspan></text>
       <g
          transform="translate(40,70.749925)"
-         id="g8063">
+         id="g8063"
+         style="">
         <rect
            style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:15, 5;stroke-dashoffset:0;stroke-opacity:1"
            id="rect8061"
@@ -28186,7 +28276,8 @@
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:12.10000038;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker8084)" />
       <g
          transform="matrix(0.71241422,0,0,0.71241422,5636.2318,3897.6378)"
-         id="g8864">
+         id="g8864"
+         style="">
         <path
            style="fill:#37474f"
            inkscape:connector-curvature="0"
@@ -28239,12 +28330,15 @@
        transform="translate(653.79411,88.57953)">
       <g
          transform="matrix(0.9228797,0,0,0.9228797,2409.446,4340.5541)"
-         id="g11948">
+         id="g11948"
+         style="">
         <g
            id="Settings"
-           transform="matrix(0.85712175,0,0,0.85712175,38.400099,2.8044503e-5)">
+           transform="matrix(0.85712175,0,0,0.85712175,38.400099,2.8044503e-5)"
+           style="">
           <g
-             id="g11908">
+             id="g11908"
+             style="">
             <path
                inkscape:connector-curvature="0"
                style="clip-rule:evenodd;fill:#eeeeee;fill-rule:evenodd"
@@ -28253,35 +28347,50 @@
           </g>
         </g>
         <g
-           id="g11912" />
+           id="g11912"
+           style="" />
         <g
-           id="g11914" />
+           id="g11914"
+           style="" />
         <g
-           id="g11916" />
+           id="g11916"
+           style="" />
         <g
-           id="g11918" />
+           id="g11918"
+           style="" />
         <g
-           id="g11920" />
+           id="g11920"
+           style="" />
         <g
-           id="g11922" />
+           id="g11922"
+           style="" />
         <g
-           id="g11924" />
+           id="g11924"
+           style="" />
         <g
-           id="g11926" />
+           id="g11926"
+           style="" />
         <g
-           id="g11928" />
+           id="g11928"
+           style="" />
         <g
-           id="g11930" />
+           id="g11930"
+           style="" />
         <g
-           id="g11932" />
+           id="g11932"
+           style="" />
         <g
-           id="g11934" />
+           id="g11934"
+           style="" />
         <g
-           id="g11936" />
+           id="g11936"
+           style="" />
         <g
-           id="g11938" />
+           id="g11938"
+           style="" />
         <g
-           id="g11940" />
+           id="g11940"
+           style="" />
       </g>
       <text
          sodipodi:linespacing="125%"
@@ -28327,17 +28436,22 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:start;text-anchor:start"
          id="flowPara12976">Hệ thống bao gồm các thiết bị quan trắc có khả năng đo lường và gửi về máy chủ và một máy chủ lưu trữ dữ liệu, hiển thị dữ liệu cho người dùng và đưa ra cảnh báo khi số đo nhận được ở mức nguy hiểm.</flowPara></flowRoot>    <g
        id="g7883"
-       transform="translate(582.91925,27.469771)">
+       transform="translate(582.91925,27.469771)"
+       style="">
       <g
          transform="matrix(0.39408633,0,0,0.39408633,2676.9762,1293.302)"
-         id="g6838">
+         id="g6838"
+         style="">
         <g
            transform="translate(96.42557,0)"
-           id="g6784">
+           id="g6784"
+           style="">
           <g
-             id="g6786">
+             id="g6786"
+             style="">
             <g
-               id="g6788">
+               id="g6788"
+               style="">
               <path
                  style="fill:#eeeeee"
                  inkscape:connector-curvature="0"
@@ -28345,9 +28459,11 @@
                  id="path6790" />
             </g>
             <g
-               id="g6792">
+               id="g6792"
+               style="">
               <g
-                 id="g6794">
+                 id="g6794"
+                 style="">
                 <circle
                    style="fill:#eeeeee"
                    cx="241.3"
@@ -28356,45 +28472,61 @@
                    id="circle6796" />
               </g>
               <g
-                 id="g6798">
+                 id="g6798"
+                 style="">
                 <polygon
                    style="fill:#eeeeee"
-                   points="205.1,215.9 219.6,215.9 263.1,215.9 270.4,215.9 270.4,321 285.1,321 285.1,359.9 270.4,359.9 219.6,359.9 204.9,359.9 204.9,321 219.6,321 219.6,254.8 205.1,254.8 "
+                   points="219.6,359.9 204.9,359.9 204.9,321 219.6,321 219.6,254.8 205.1,254.8 205.1,215.9 219.6,215.9 263.1,215.9 270.4,215.9 270.4,321 285.1,321 285.1,359.9 270.4,359.9 "
                    id="polygon6800" />
               </g>
             </g>
           </g>
         </g>
         <g
-           id="g6802" />
+           id="g6802"
+           style="" />
         <g
-           id="g6804" />
+           id="g6804"
+           style="" />
         <g
-           id="g6806" />
+           id="g6806"
+           style="" />
         <g
-           id="g6808" />
+           id="g6808"
+           style="" />
         <g
-           id="g6810" />
+           id="g6810"
+           style="" />
         <g
-           id="g6812" />
+           id="g6812"
+           style="" />
         <g
-           id="g6814" />
+           id="g6814"
+           style="" />
         <g
-           id="g6816" />
+           id="g6816"
+           style="" />
         <g
-           id="g6818" />
+           id="g6818"
+           style="" />
         <g
-           id="g6820" />
+           id="g6820"
+           style="" />
         <g
-           id="g6822" />
+           id="g6822"
+           style="" />
         <g
-           id="g6824" />
+           id="g6824"
+           style="" />
         <g
-           id="g6826" />
+           id="g6826"
+           style="" />
         <g
-           id="g6828" />
+           id="g6828"
+           style="" />
         <g
-           id="g6830" />
+           id="g6830"
+           style="" />
       </g>
       <text
          sodipodi:linespacing="125%"
@@ -28582,7 +28714,7 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="Right panel"
-     style="display:inline"
+     style="display:inline;opacity:0.9"
      transform="translate(0,-212.59842)">
     <rect
        style="display:inline;opacity:1;fill:#eeeeee;fill-opacity:1;stroke:none;stroke-width:15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter8406);enable-background:new"
@@ -28630,11 +28762,14 @@
            sodipodi:role="line">Kết quả và ứng dụng</tspan></text>
       <g
          transform="matrix(7.1417336,0,0,7.1417336,6359.7628,1649.2409)"
-         id="g15762">
+         id="g15762"
+         style="">
         <g
-           id="g15716">
+           id="g15716"
+           style="">
           <g
-             id="g15718">
+             id="g15718"
+             style="">
             <path
                style="fill:#eeeeee"
                inkscape:connector-curvature="0"
@@ -28653,35 +28788,50 @@
           </g>
         </g>
         <g
-           id="g15726" />
+           id="g15726"
+           style="" />
         <g
-           id="g15728" />
+           id="g15728"
+           style="" />
         <g
-           id="g15730" />
+           id="g15730"
+           style="" />
         <g
-           id="g15732" />
+           id="g15732"
+           style="" />
         <g
-           id="g15734" />
+           id="g15734"
+           style="" />
         <g
-           id="g15736" />
+           id="g15736"
+           style="" />
         <g
-           id="g15738" />
+           id="g15738"
+           style="" />
         <g
-           id="g15740" />
+           id="g15740"
+           style="" />
         <g
-           id="g15742" />
+           id="g15742"
+           style="" />
         <g
-           id="g15744" />
+           id="g15744"
+           style="" />
         <g
-           id="g15746" />
+           id="g15746"
+           style="" />
         <g
-           id="g15748" />
+           id="g15748"
+           style="" />
         <g
-           id="g15750" />
+           id="g15750"
+           style="" />
         <g
-           id="g15752" />
+           id="g15752"
+           style="" />
         <g
-           id="g15754" />
+           id="g15754"
+           style="" />
       </g>
     </g>
     <flowRoot
@@ -28719,42 +28869,60 @@
            sodipodi:role="line">Hướng phát triển</tspan></text>
       <g
          transform="matrix(-0.58206957,0,0,0.58206957,6529.2279,4432.1699)"
-         id="g15972">
+         id="g15972"
+         style="">
         <g
-           id="g15936" />
+           id="g15936"
+           style="" />
         <g
-           id="g15938" />
+           id="g15938"
+           style="" />
         <g
-           id="g15940" />
+           id="g15940"
+           style="" />
         <g
-           id="g15942" />
+           id="g15942"
+           style="" />
         <g
-           id="g15944" />
+           id="g15944"
+           style="" />
         <g
-           id="g15946" />
+           id="g15946"
+           style="" />
         <g
-           id="g15948" />
+           id="g15948"
+           style="" />
         <g
-           id="g15950" />
+           id="g15950"
+           style="" />
         <g
-           id="g15952" />
+           id="g15952"
+           style="" />
         <g
-           id="g15954" />
+           id="g15954"
+           style="" />
         <g
-           id="g15956" />
+           id="g15956"
+           style="" />
         <g
-           id="g15958" />
+           id="g15958"
+           style="" />
         <g
-           id="g15960" />
+           id="g15960"
+           style="" />
         <g
-           id="g15962" />
+           id="g15962"
+           style="" />
         <g
-           id="g15964" />
+           id="g15964"
+           style="" />
         <g
            transform="matrix(-1.3199471,0,0,1.3199471,254.45586,-128.02998)"
-           id="g17957">
+           id="g17957"
+           style="">
           <g
-             id="g17905">
+             id="g17905"
+             style="">
             <path
                style="fill:#eeeeee"
                inkscape:connector-curvature="0"
@@ -28769,7 +28937,7 @@
                id="rect17909" />
             <polygon
                style="fill:#eeeeee"
-               points="169.237,105.347 159.763,116.976 176.907,130.944 200.689,105.076 189.645,94.924 175.427,110.39 "
+               points="189.645,94.924 175.427,110.39 169.237,105.347 159.763,116.976 176.907,130.944 200.689,105.076 "
                id="polygon17911" />
             <rect
                style="fill:#eeeeee"
@@ -28780,7 +28948,7 @@
                id="rect17913" />
             <polygon
                style="fill:#eeeeee"
-               points="169.237,153.347 159.763,164.976 176.907,178.944 200.689,153.076 189.645,142.924 175.427,158.39 "
+               points="189.645,142.924 175.427,158.39 169.237,153.347 159.763,164.976 176.907,178.944 200.689,153.076 "
                id="polygon17915" />
             <rect
                style="fill:#eeeeee"
@@ -28791,39 +28959,54 @@
                id="rect17917" />
             <polygon
                style="fill:#eeeeee"
-               points="169.237,201.347 159.763,212.976 176.907,226.944 200.689,201.076 189.645,190.924 175.427,206.39 "
+               points="189.645,190.924 175.427,206.39 169.237,201.347 159.763,212.976 176.907,226.944 200.689,201.076 "
                id="polygon17919" />
           </g>
           <g
-             id="g17921" />
+             id="g17921"
+             style="" />
           <g
-             id="g17923" />
+             id="g17923"
+             style="" />
           <g
-             id="g17925" />
+             id="g17925"
+             style="" />
           <g
-             id="g17927" />
+             id="g17927"
+             style="" />
           <g
-             id="g17929" />
+             id="g17929"
+             style="" />
           <g
-             id="g17931" />
+             id="g17931"
+             style="" />
           <g
-             id="g17933" />
+             id="g17933"
+             style="" />
           <g
-             id="g17935" />
+             id="g17935"
+             style="" />
           <g
-             id="g17937" />
+             id="g17937"
+             style="" />
           <g
-             id="g17939" />
+             id="g17939"
+             style="" />
           <g
-             id="g17941" />
+             id="g17941"
+             style="" />
           <g
-             id="g17943" />
+             id="g17943"
+             style="" />
           <g
-             id="g17945" />
+             id="g17945"
+             style="" />
           <g
-             id="g17947" />
+             id="g17947"
+             style="" />
           <g
-             id="g17949" />
+             id="g17949"
+             style="" />
         </g>
       </g>
     </g>
@@ -28841,9 +29024,9 @@
            height="100%" /></flowRegion><flowPara
          id="flowPara9321"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:108.46029663px;font-family:Roboto;-inkscape-font-specification:Roboto">- Bổ sung thêm các cảm biến khác như NO<flowSpan
-   style="font-size:70.4991922%;baseline-shift:sub"
+   style="font-size:70.49919367%;baseline-shift:sub"
    id="flowSpan9128">X</flowSpan>, O<flowSpan
-   style="font-size:70.4991922%;baseline-shift:sub"
+   style="font-size:70.49919367%;baseline-shift:sub"
    id="flowSpan9126">3</flowSpan>, ...</flowPara><flowPara
          id="flowPara9323"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:108.46029663px;font-family:Roboto;-inkscape-font-specification:Roboto">- Chuyển đổi từ truyền tin thông qua Wifi sang các công nghệ khác cho phép khoảng cách truyền tin lớn hơn</flowPara><flowPara
@@ -28873,7 +29056,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="Left panel"
-     style="display:inline"
+     style="display:inline;opacity:0.9"
      transform="translate(0,-212.59842)">
     <rect
        style="display:inline;opacity:1;fill:#eeeeee;fill-opacity:1;stroke:none;stroke-width:12;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter18040);enable-background:new"
@@ -28898,9 +29081,11 @@
          id="g15514"
          style="display:inline;opacity:0.98999999">
         <g
-           id="g15468">
+           id="g15468"
+           style="">
           <g
-             id="g15470">
+             id="g15470"
+             style="">
             <path
                style="fill:#eeeeee"
                inkscape:connector-curvature="0"
@@ -28919,35 +29104,50 @@
           </g>
         </g>
         <g
-           id="g15478" />
+           id="g15478"
+           style="" />
         <g
-           id="g15480" />
+           id="g15480"
+           style="" />
         <g
-           id="g15482" />
+           id="g15482"
+           style="" />
         <g
-           id="g15484" />
+           id="g15484"
+           style="" />
         <g
-           id="g15486" />
+           id="g15486"
+           style="" />
         <g
-           id="g15488" />
+           id="g15488"
+           style="" />
         <g
-           id="g15490" />
+           id="g15490"
+           style="" />
         <g
-           id="g15492" />
+           id="g15492"
+           style="" />
         <g
-           id="g15494" />
+           id="g15494"
+           style="" />
         <g
-           id="g15496" />
+           id="g15496"
+           style="" />
         <g
-           id="g15498" />
+           id="g15498"
+           style="" />
         <g
-           id="g15500" />
+           id="g15500"
+           style="" />
         <g
-           id="g15502" />
+           id="g15502"
+           style="" />
         <g
-           id="g15504" />
+           id="g15504"
+           style="" />
         <g
-           id="g15506" />
+           id="g15506"
+           style="" />
       </g>
       <g
          id="g12018-5"
@@ -29001,11 +29201,14 @@
        transform="translate(61.076275,-106.2993)">
       <g
          transform="matrix(5.640233,0,0,5.640233,318.78035,1683.0569)"
-         id="g14360">
+         id="g14360"
+         style="">
         <g
-           id="g14314">
+           id="g14314"
+           style="">
           <g
-             id="g14316">
+             id="g14316"
+             style="">
             <path
                style="fill:#eeeeee"
                inkscape:connector-curvature="0"
@@ -29024,35 +29227,50 @@
           </g>
         </g>
         <g
-           id="g14324" />
+           id="g14324"
+           style="" />
         <g
-           id="g14326" />
+           id="g14326"
+           style="" />
         <g
-           id="g14328" />
+           id="g14328"
+           style="" />
         <g
-           id="g14330" />
+           id="g14330"
+           style="" />
         <g
-           id="g14332" />
+           id="g14332"
+           style="" />
         <g
-           id="g14334" />
+           id="g14334"
+           style="" />
         <g
-           id="g14336" />
+           id="g14336"
+           style="" />
         <g
-           id="g14338" />
+           id="g14338"
+           style="" />
         <g
-           id="g14340" />
+           id="g14340"
+           style="" />
         <g
-           id="g14342" />
+           id="g14342"
+           style="" />
         <g
-           id="g14344" />
+           id="g14344"
+           style="" />
         <g
-           id="g14346" />
+           id="g14346"
+           style="" />
         <g
-           id="g14348" />
+           id="g14348"
+           style="" />
         <g
-           id="g14350" />
+           id="g14350"
+           style="" />
         <g
-           id="g14352" />
+           id="g14352"
+           style="" />
       </g>
       <text
          sodipodi:linespacing="125%"
@@ -29072,35 +29290,50 @@
        transform="matrix(5.640233,0,0,5.640233,1442.8487,4765.7339)"
        id="g14360-7">
       <g
-         id="g14324-5" />
+         id="g14324-5"
+         style="" />
       <g
-         id="g14326-6" />
+         id="g14326-6"
+         style="" />
       <g
-         id="g14328-3" />
+         id="g14328-3"
+         style="" />
       <g
-         id="g14330-9" />
+         id="g14330-9"
+         style="" />
       <g
-         id="g14332-4" />
+         id="g14332-4"
+         style="" />
       <g
-         id="g14334-8" />
+         id="g14334-8"
+         style="" />
       <g
-         id="g14336-1" />
+         id="g14336-1"
+         style="" />
       <g
-         id="g14338-2" />
+         id="g14338-2"
+         style="" />
       <g
-         id="g14340-9" />
+         id="g14340-9"
+         style="" />
       <g
-         id="g14342-3" />
+         id="g14342-3"
+         style="" />
       <g
-         id="g14344-9" />
+         id="g14344-9"
+         style="" />
       <g
-         id="g14346-0" />
+         id="g14346-0"
+         style="" />
       <g
-         id="g14348-8" />
+         id="g14348-8"
+         style="" />
       <g
-         id="g14350-8" />
+         id="g14350-8"
+         style="" />
       <g
-         id="g14352-5" />
+         id="g14352-5"
+         style="" />
     </g>
     <text
        xml:space="preserve"
@@ -29126,10 +29359,12 @@
          y="4606.2993" /></text>
     <g
        id="g22593"
-       transform="matrix(1.1885548,0,0,1.1885548,-197.2266,-593.91432)">
+       transform="matrix(1.1885548,0,0,1.1885548,-197.2266,-593.91432)"
+       style="">
       <g
          id="g22709"
-         transform="matrix(0.9015207,0,0,0.9015207,104.4171,264.97892)">
+         transform="matrix(0.9015207,0,0,0.9015207,104.4171,264.97892)"
+         style="">
         <text
            xml:space="preserve"
            style="font-style:normal;font-weight:normal;font-size:42.56824493px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -29149,10 +29384,12 @@
              style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:89.80974579px;font-family:Roboto;-inkscape-font-specification:'Roboto Light Italic';text-align:center;text-anchor:middle">(nguồn: aqivn.org)</tspan></text>
         <g
            id="g22552"
-           transform="translate(-55.846175,100.79877)">
+           transform="translate(-55.846175,100.79877)"
+           style="">
           <g
              transform="matrix(1.3785644,0,0,1.3785644,-145.46576,-972.03991)"
-             id="g22536">
+             id="g22536"
+             style="">
             <path
                style="fill:#388e3c;fill-opacity:1;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
                inkscape:connector-curvature="0"
@@ -29342,16 +29579,18 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot17708"
-       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
          id="flowRegion17710"><rect
            id="rect17712"
            width="1452.7559"
            height="1240.1575"
            x="248.03149"
-           y="4145.6694" /></flowRegion><flowPara
+           y="4145.6694"
+           style="" /></flowRegion><flowPara
          id="flowPara17714" /></flowRoot>    <g
        id="g18933"
-       transform="matrix(0.96517777,0,0,0.96517777,48.507799,193.18919)">
+       transform="matrix(0.96517777,0,0,0.96517777,48.507799,193.18919)"
+       style="">
       <text
          sodipodi:linespacing="125%"
          id="text9956"
@@ -29366,11 +29605,14 @@
            sodipodi:role="line">Cảnh báo người dùng</tspan></text>
       <g
          transform="matrix(0.54372441,0,0,0.54372441,277.2115,4638.2389)"
-         id="g16315">
+         id="g16315"
+         style="">
         <g
-           id="g16291">
+           id="g16291"
+           style="">
           <g
-             id="g16293">
+             id="g16293"
+             style="">
             <path
                style="fill:#37474f;stroke:#37474f;stroke-width:66.66600037;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
                inkscape:connector-curvature="0"
@@ -29380,9 +29622,11 @@
           </g>
         </g>
         <g
-           id="g16297">
+           id="g16297"
+           style="">
           <g
-             id="g16299">
+             id="g16299"
+             style="">
             <path
                style="fill:#37474f"
                inkscape:connector-curvature="0"
@@ -29438,9 +29682,11 @@
            sodipodi:role="line">Giá thành hợp lý</tspan></text>
       <g
          transform="matrix(0.55073984,0,0,0.5510253,283.46432,5280.0057)"
-         id="g17670">
+         id="g17670"
+         style="">
         <g
-           id="g17628">
+           id="g17628"
+           style="">
           <path
              style="fill:#37474f"
              inkscape:connector-curvature="0"
@@ -29453,35 +29699,50 @@
              id="path17632" />
         </g>
         <g
-           id="g17634" />
+           id="g17634"
+           style="" />
         <g
-           id="g17636" />
+           id="g17636"
+           style="" />
         <g
-           id="g17638" />
+           id="g17638"
+           style="" />
         <g
-           id="g17640" />
+           id="g17640"
+           style="" />
         <g
-           id="g17642" />
+           id="g17642"
+           style="" />
         <g
-           id="g17644" />
+           id="g17644"
+           style="" />
         <g
-           id="g17646" />
+           id="g17646"
+           style="" />
         <g
-           id="g17648" />
+           id="g17648"
+           style="" />
         <g
-           id="g17650" />
+           id="g17650"
+           style="" />
         <g
-           id="g17652" />
+           id="g17652"
+           style="" />
         <g
-           id="g17654" />
+           id="g17654"
+           style="" />
         <g
-           id="g17656" />
+           id="g17656"
+           style="" />
         <g
-           id="g17658" />
+           id="g17658"
+           style="" />
         <g
-           id="g17660" />
+           id="g17660"
+           style="" />
         <g
-           id="g17662" />
+           id="g17662"
+           style="" />
       </g>
       <text
          sodipodi:linespacing="125%"
@@ -29497,11 +29758,14 @@
            sodipodi:role="line">Dễ dàng mở rộng</tspan></text>
       <g
          transform="matrix(0.52133562,0,0,0.52133562,283.46432,4316.1877)"
-         id="g18401">
+         id="g18401"
+         style="">
         <g
-           id="g18360">
+           id="g18360"
+           style="">
           <g
-             id="notifications-on">
+             id="notifications-on"
+             style="">
             <path
                style="fill:#37474f"
                inkscape:connector-curvature="0"
@@ -29510,74 +29774,105 @@
           </g>
         </g>
         <g
-           id="g18365" />
+           id="g18365"
+           style="" />
         <g
-           id="g18367" />
+           id="g18367"
+           style="" />
         <g
-           id="g18369" />
+           id="g18369"
+           style="" />
         <g
-           id="g18371" />
+           id="g18371"
+           style="" />
         <g
-           id="g18373" />
+           id="g18373"
+           style="" />
         <g
-           id="g18375" />
+           id="g18375"
+           style="" />
         <g
-           id="g18377" />
+           id="g18377"
+           style="" />
         <g
-           id="g18379" />
+           id="g18379"
+           style="" />
         <g
-           id="g18381" />
+           id="g18381"
+           style="" />
         <g
-           id="g18383" />
+           id="g18383"
+           style="" />
         <g
-           id="g18385" />
+           id="g18385"
+           style="" />
         <g
-           id="g18387" />
+           id="g18387"
+           style="" />
         <g
-           id="g18389" />
+           id="g18389"
+           style="" />
         <g
-           id="g18391" />
+           id="g18391"
+           style="" />
         <g
-           id="g18393" />
+           id="g18393"
+           style="" />
       </g>
       <g
          transform="matrix(4.9237275,0,0,4.9237275,283.46432,4943.6259)"
-         id="g18764">
+         id="g18764"
+         style="">
         <path
            style="fill:#37474f"
            inkscape:connector-curvature="0"
            d="M 59.989,21 C 59.89,19.289 57.855,17.952 53.785,16.932 53.922,16.632 53.999,16.32 54,15.996 L 54,9 53.983,9 C 53.625,3.172 29.743,3 27,3 24.257,3 0.375,3.172 0.017,9 L 0,9 l 0,0.13 0,0 0,0 0,6.869 c 0.005,1.9 2.457,3.387 6.105,4.494 -0.05,0.166 -0.08,0.335 -0.09,0.507 L 6,21 l 0,0.13 0,0 0,0 0,6.857 C 2.07,28.999 0.107,30.317 0.01,32 L 0,32 l 0,0.13 0,0 0,0 0,6.869 c 0.003,1.323 1.196,2.445 3.148,3.38 -0.074,0.203 -0.12,0.41 -0.133,0.622 l -0.015,0 0,0.13 0,0 0,0 L 3,50 c 0.008,3.326 7.497,5.391 15.818,6.355 0.061,0.012 0.117,0.037 0.182,0.037 0.019,0 0.035,-0.01 0.054,-0.011 1.604,0.181 3.234,0.322 4.847,0.423 0.034,0.004 0.064,0.02 0.099,0.02 0.019,0 0.034,-0.01 0.052,-0.011 C 26.1,56.937 28.115,57 30,57 c 1.885,0 3.9,-0.063 5.948,-0.188 0.018,0.001 0.034,0.011 0.052,0.011 0.035,0 0.065,-0.017 0.099,-0.02 1.613,-0.101 3.243,-0.241 4.847,-0.423 0.019,0 0.035,0.01 0.054,0.01 0.065,0 0.121,-0.025 0.182,-0.037 C 49.503,55.389 56.991,53.323 57,49.996 L 57,43 56.984,43 C 56.914,41.774 55.869,40.751 53.805,39.896 53.931,39.607 54,39.307 54,38.996 l 0,-6.536 c 3.59,-1.104 5.995,-2.581 6,-4.464 L 60,21 59.989,21 Z M 51.892,39.321 51.551,39.62 C 51.026,40.083 50.151,40.55 49,41 l 0,-4.768 c 1.189,-0.414 2.201,-0.873 3,-1.376 l 0,4.138 c 0,0.103 -0.038,0.213 -0.108,0.327 z m -22.366,4.647 c -0.146,0.004 -0.293,0.006 -0.44,0.009 -0.357,0.007 -0.723,0.009 -1.085,0.012 l 0,-4.995 c 0.275,-0.003 0.55,-0.007 0.825,-0.012 0.053,-10e-4 0.106,-0.002 0.159,-0.003 1.007,-0.019 2.014,-0.05 3.016,-0.096 l 0,4.993 c -0.214,0.011 -0.429,0.021 -0.646,0.03 -0.602,0.027 -1.21,0.047 -1.829,0.062 z m -4.367,0.014 C 24.701,43.974 24.245,43.963 23.792,43.949 23.736,43.947 23.68,43.945 23.624,43.943 23.079,43.925 22.538,43.902 22.001,43.876 l 0,-4.992 c 1.002,0.047 2.009,0.078 3.016,0.096 0.053,0.001 0.106,0.002 0.158,0.003 0.275,0.005 0.55,0.009 0.825,0.012 l 0,4.998 c -0.194,-0.002 -0.388,-0.002 -0.581,-0.005 -0.088,-0.002 -0.173,-0.005 -0.26,-0.006 z M 7.097,41.702 C 7.064,41.692 7.033,41.683 7,41.674 l 0,-4.831 c 0.934,0.252 1.938,0.482 3,0.691 l 0,4.881 C 9.082,42.22 8.235,42.015 7.464,41.805 7.342,41.77 7.216,41.737 7.097,41.702 Z m 21.078,8.281 c 0.275,0.005 0.55,0.009 0.825,0.012 l 0,4.999 c -1.382,-0.013 -2.716,-0.053 -4,-0.116 l 0,-4.993 c 1.002,0.047 2.009,0.078 3.016,0.096 0.053,0 0.106,10e-4 0.159,0.002 z M 31.984,49.98 C 32.991,49.961 33.998,49.93 35,49.884 l 0,4.993 c -1.284,0.063 -2.618,0.103 -4,0.116 l 0,-4.999 c 0.275,-0.003 0.55,-0.007 0.825,-0.012 0.053,0 0.106,-10e-4 0.159,-0.002 z M 40,49.528 l 0,4.966 c -0.961,0.101 -1.961,0.19 -3,0.263 l 0,-4.987 c 1.014,-0.066 2.016,-0.147 3,-0.242 z m 2,-0.216 c 1.031,-0.124 2.032,-0.265 3,-0.422 l 0,4.91 c -0.942,0.166 -1.943,0.319 -3,0.458 l 0,-4.946 z m 5,-0.779 c 1.062,-0.209 2.066,-0.439 3,-0.691 l 0,4.831 c -0.891,0.257 -1.894,0.506 -3,0.741 l 0,-4.881 z m -34,0 0,4.881 C 11.894,53.179 10.891,52.93 10,52.673 l 0,-4.831 c 0.934,0.252 1.938,0.483 3,0.691 z m 2,0.358 c 0.968,0.157 1.969,0.298 3,0.422 l 0,4.946 C 16.943,54.12 15.942,53.967 15,53.801 l 0,-4.91 z m 5,0.637 c 0.984,0.095 1.986,0.176 3,0.243 l 0,4.987 c -1.039,-0.073 -2.039,-0.162 -3,-0.263 l 0,-4.967 z m -2.481,-5.98 C 17.417,43.538 17.316,43.527 17.215,43.517 17.143,43.51 17.072,43.501 17,43.494 l 0,-4.965 c 0.984,0.095 1.986,0.176 3,0.243 l 0,4.983 c -0.84,-0.06 -1.67,-0.128 -2.481,-0.207 z M 15,38.312 15,43.258 C 13.943,43.119 12.942,42.966 12,42.8 l 0,-4.91 c 0.968,0.157 1.969,0.299 3,0.422 z m 19.666,5.396 c -0.22,0.017 -0.442,0.034 -0.666,0.05 l 0,-4.987 c 1.014,-0.067 2.016,-0.147 3,-0.243 l 0,4.966 c -0.618,0.065 -1.25,0.126 -1.899,0.179 -0.145,0.013 -0.29,0.024 -0.435,0.035 z M 39,43.258 39,38.312 c 1.031,-0.124 2.032,-0.265 3,-0.422 l 0,4.91 c -0.942,0.166 -1.943,0.32 -3,0.458 z m 5,-5.725 c 1.062,-0.209 2.066,-0.439 3,-0.691 l 0,4.831 c -0.891,0.257 -1.894,0.506 -3,0.741 l 0,-4.881 z M 30.325,32.965 C 29.573,32.946 28.838,32.917 28.116,32.882 28.077,32.88 28.038,32.878 28,32.877 l 0,-4.993 c 1.002,0.047 2.009,0.078 3.016,0.096 0.053,0.001 0.106,0.002 0.158,0.003 0.275,0.005 0.55,0.009 0.825,0.012 l 0,4.993 C 31.512,32.983 31.021,32.981 30.546,32.97 30.473,32.968 30.398,32.967 30.325,32.965 Z M 7,18.674 7,13.843 c 0.934,0.252 1.938,0.482 3,0.691 l 0,4.881 C 9.877,19.389 9.75,19.363 9.63,19.337 9.098,19.22 8.579,19.098 8.083,18.969 7.705,18.872 7.346,18.773 7,18.674 Z m 18.175,-2.691 c 0.275,0.005 0.55,0.009 0.825,0.012 l 0,4.993 C 24.654,20.975 23.316,20.94 22,20.874 l 0,-4.989 c 1.002,0.047 2.009,0.078 3.016,0.096 0.053,0 0.106,10e-4 0.159,0.002 z M 28.984,15.98 C 29.991,15.961 30.998,15.93 32,15.884 l 0,4.989 c -0.17,0.008 -0.333,0.02 -0.504,0.028 -0.014,0.001 -0.028,0.001 -0.043,0.002 -0.671,0.03 -1.355,0.052 -2.048,0.068 -0.108,0.003 -0.216,0.004 -0.324,0.007 -0.356,0.007 -0.72,0.008 -1.081,0.012 l 0,-4.995 c 0.275,-0.003 0.55,-0.007 0.825,-0.012 0.053,-0.001 0.106,-0.002 0.159,-0.003 z m 22.787,0.502 -0.028,-0.006 -0.364,0.283 C 50.851,17.17 50.04,17.586 49,17.988 l 0,-4.757 c 1.189,-0.414 2.201,-0.873 3,-1.376 l 0,4.138 c 0,0.152 -0.08,0.316 -0.229,0.489 z M 39,20.252 l 0,-4.94 c 1.031,-0.124 2.032,-0.265 3,-0.422 l 0,4.902 c -0.948,0.168 -1.946,0.322 -3,0.46 z m 5,-0.845 0,-4.873 c 1.062,-0.209 2.066,-0.439 3,-0.691 l 0,4.82 c -0.896,0.261 -1.905,0.51 -3,0.744 z m -7,-3.879 0,4.96 c -0.966,0.102 -1.966,0.191 -3,0.265 l 0,-4.982 c 1.014,-0.067 2.016,-0.148 3,-0.243 z m -20,4.962 0,-4.962 c 0.984,0.095 1.986,0.176 3,0.243 l 0,4.978 C 18.982,20.676 17.978,20.593 17,20.49 Z m -2,-5.178 0,4.941 C 14.802,20.227 14.596,20.206 14.4,20.179 14.272,20.161 14.15,20.142 14.024,20.124 13.446,20.041 12.881,19.952 12.327,19.859 12.216,19.84 12.109,19.82 12,19.801 l 0,-4.91 c 0.968,0.156 1.969,0.298 3,0.421 z m 10.752,17.427 c -0.135,-0.01 -0.271,-0.02 -0.405,-0.03 -0.64,-0.05 -1.265,-0.105 -1.875,-0.166 C 23.341,32.53 23.21,32.516 23.08,32.503 23.053,32.5 23.027,32.496 23,32.494 l 0,-4.966 c 0.984,0.095 1.986,0.176 3,0.243 l 0,4.984 c -0.081,-0.006 -0.167,-0.01 -0.248,-0.016 z M 19.145,31.992 C 18.749,31.929 18.377,31.861 18,31.795 l 0,-4.904 c 0.968,0.157 1.969,0.298 3,0.422 l 0,4.946 C 20.388,32.178 19.789,32.094 19.214,32.004 19.191,31.999 19.168,31.995 19.145,31.992 Z M 16,26.533 l 0,4.873 c -1.105,-0.237 -2.107,-0.489 -3,-0.751 l 0,-4.813 c 0.934,0.252 1.938,0.483 3,0.691 z m -5,-1.302 0,4.751 C 9.428,29.375 8.414,28.755 8.084,28.203 L 8.017,28.091 C 8.011,28.06 8.001,28.027 8,27.996 l 0,-4.141 c 0.799,0.503 1.811,0.962 3,1.376 z M 34.984,27.98 C 35.991,27.961 36.998,27.93 38,27.884 l 0,4.988 c -1.314,0.065 -2.65,0.101 -4,0.115 l 0,-4.992 c 0.275,-0.003 0.55,-0.007 0.825,-0.012 0.053,-0.001 0.106,-0.002 0.159,-0.003 z m 12.923,3.837 c -0.439,0.076 -0.882,0.151 -1.337,0.22 -0.261,0.04 -0.528,0.078 -0.796,0.116 -0.253,0.036 -0.516,0.067 -0.773,0.1 l 0,-4.941 c 1.031,-0.124 2.032,-0.265 3,-0.422 l 0,4.91 c -0.032,0.006 -0.063,0.012 -0.094,0.017 z m -6.771,0.854 C 40.763,32.702 40.378,32.722 40,32.749 l 0,-4.978 c 1.014,-0.067 2.016,-0.147 3,-0.243 l 0,4.961 c -0.581,0.061 -1.161,0.122 -1.758,0.172 -0.036,0.003 -0.07,0.007 -0.106,0.01 z m 11.428,-1.875 c -0.498,0.139 -1.025,0.269 -1.563,0.396 -0.249,0.058 -0.503,0.116 -0.763,0.172 -0.077,0.017 -0.159,0.032 -0.237,0.049 l 0,-4.879 c 1.062,-0.209 2.066,-0.439 3,-0.691 l 0,4.831 c -0.144,0.04 -0.289,0.081 -0.437,0.122 z m 5.425,-9.731 c -0.092,0.679 -1.631,1.582 -4.378,2.431 l 0,0 c -3.538,1.093 -9.074,2.094 -16.09,2.404 -0.359,0.015 -0.717,0.03 -1.083,0.042 -0.299,0.01 -0.599,0.019 -0.904,0.027 C 34.706,25.987 33.866,26 33,26 32.134,26 31.294,25.987 30.466,25.968 30.162,25.961 29.862,25.951 29.562,25.941 29.195,25.93 28.837,25.914 28.479,25.899 21.463,25.589 15.926,24.588 12.389,23.495 l 0,0 C 9.664,22.653 8.128,21.757 8.014,21.081 c 0.005,-0.019 0.005,-0.035 0.017,-0.059 0.068,0.017 0.144,0.031 0.213,0.048 0.391,0.093 0.792,0.183 1.2,0.269 1.987,0.428 4.189,0.779 6.535,1.047 0.008,0 0.014,0.004 0.021,0.004 0.002,0 0.004,-0.001 0.005,-0.001 1.598,0.182 3.256,0.325 4.958,0.426 0.013,0 0.024,0.007 0.037,0.007 0.007,0 0.012,-0.004 0.019,-0.004 1.225,0.072 2.466,0.125 3.722,0.153 C 25.51,22.99 26.265,23 27,23 c 0.525,0 1.063,-0.006 1.606,-0.016 7.266,-0.112 14,-0.976 18.686,-2.315 0.216,-0.061 0.427,-0.124 0.635,-0.187 0.127,-0.039 0.257,-0.077 0.38,-0.116 0.362,-0.116 0.709,-0.235 1.044,-0.359 0.058,-0.022 0.113,-0.044 0.171,-0.066 0.283,-0.107 0.555,-0.218 0.815,-0.331 0.075,-0.033 0.152,-0.065 0.225,-0.098 0.277,-0.125 0.545,-0.253 0.793,-0.386 0.112,-0.059 0.209,-0.12 0.314,-0.18 0.12,-0.069 0.24,-0.139 0.351,-0.21 0.063,-0.04 0.138,-0.078 0.198,-0.118 4.477,0.971 5.657,2.033 5.771,2.447 z M 27,5 c 16.489,0 24.829,2.596 24.985,4.086 -0.121,0.676 -1.656,1.569 -4.374,2.409 l 0,0 c -3.538,1.093 -9.074,2.094 -16.09,2.404 -0.359,0.015 -0.717,0.03 -1.083,0.042 -0.299,0.01 -0.599,0.019 -0.904,0.027 C 28.706,13.987 27.866,14 27,14 26.134,14 25.294,13.987 24.466,13.968 24.162,13.961 23.862,13.951 23.562,13.941 23.195,13.93 22.837,13.914 22.479,13.899 15.463,13.589 9.926,12.588 6.389,11.495 l 0,0 C 3.67,10.655 2.136,9.762 2.015,9.086 2.171,7.596 10.511,5 27,5 Z M 2,15.996 2,11.855 c 0.799,0.503 1.811,0.962 3,1.376 l 0,4.788 C 3.055,17.29 2.002,16.559 2,15.996 Z m 4.844,13.839 c 0.015,0.016 0.038,0.03 0.053,0.046 1.369,1.382 4.204,2.468 7.733,3.278 0.081,0.019 0.167,0.037 0.249,0.056 0.259,0.058 0.522,0.115 0.788,0.17 3.241,0.69 7.11,1.189 11.325,1.436 0.003,0 0.005,0.001 0.007,0.001 0.002,0 0.003,-0.001 0.004,-0.001 1.354,0.079 2.739,0.134 4.153,0.158 C 31.782,34.992 32.398,35 33,35 c 0.69,0 1.398,-0.008 2.118,-0.025 1.308,-0.027 2.597,-0.081 3.868,-0.155 0.005,0 0.009,0.003 0.014,0.003 0.009,0 0.016,-0.005 0.025,-0.005 4.226,-0.249 8.191,-0.753 11.544,-1.478 -0.726,0.38 -1.72,0.773 -2.958,1.156 l 0,0 c -3.735,1.154 -9.7,2.205 -17.281,2.449 -0.225,0.007 -0.447,0.015 -0.675,0.021 -0.245,0.006 -0.494,0.01 -0.743,0.015 C 28.283,36.991 27.65,37 27,37 26.134,37 25.294,36.987 24.466,36.968 24.162,36.961 23.862,36.951 23.562,36.941 23.195,36.93 22.837,36.914 22.479,36.899 15.463,36.589 9.926,35.588 6.389,34.495 l 0,0 C 3.639,33.645 2.1,32.741 2.011,32.062 2.122,31.686 3.133,30.745 6.844,29.835 Z M 2,38.996 2,34.855 c 0.799,0.503 1.811,0.962 3,1.376 L 5,41 4.429,40.778 4.417,40.79 C 2.847,40.139 2.002,39.5 2,38.996 Z m 3,11 0,-4.141 c 0.799,0.503 1.811,0.962 3,1.376 l 0,4.788 C 6.055,51.29 5.002,50.559 5,49.996 Z m 47,2.023 0,-4.787 c 1.189,-0.414 2.201,-0.873 3,-1.376 l 0,4.138 c -10e-4,0.563 -1.055,1.295 -3,2.025 z m 2.987,-8.942 c -0.109,0.677 -1.645,1.575 -4.376,2.419 l 0,0 c -3.538,1.093 -9.074,2.094 -16.09,2.404 -0.359,0.015 -0.717,0.03 -1.083,0.042 -0.299,0.01 -0.599,0.019 -0.904,0.027 C 31.706,47.987 30.866,48 30,48 29.134,48 28.293,47.987 27.464,47.968 27.163,47.961 26.866,47.951 26.569,47.941 26.2,47.929 25.84,47.914 25.479,47.899 18.463,47.589 12.927,46.588 9.389,45.495 l 0,0 C 6.744,44.678 5.216,43.81 5.024,43.14 c 0.298,0.104 0.607,0.205 0.924,0.304 0.032,0.01 0.064,0.02 0.096,0.029 0.27,0.083 0.546,0.163 0.829,0.241 0.107,0.03 0.215,0.06 0.324,0.089 0.16,0.043 0.324,0.084 0.488,0.126 3.642,0.933 8.291,1.594 13.31,1.891 0.002,0 0.003,10e-4 0.005,10e-4 0.001,0 0.002,-10e-4 0.003,-10e-4 1.55,0.092 3.133,0.149 4.733,0.168 C 26.162,45.996 26.585,46 27,46 c 0.551,0 1.115,-0.007 1.686,-0.017 1.459,-0.024 2.899,-0.078 4.307,-0.162 0.003,0 0.005,0.002 0.008,0.002 0.005,0 0.008,-0.003 0.013,-0.003 1.715,-0.103 3.375,-0.25 4.97,-0.433 0.006,0 0.011,0.003 0.017,0.003 0.022,0 0.04,-0.011 0.062,-0.013 1.776,-0.205 3.46,-0.457 5.023,-0.75 0.322,-0.059 0.639,-0.12 0.953,-0.183 0.07,-0.014 0.14,-0.028 0.21,-0.043 2.953,-0.606 5.509,-1.391 7.263,-2.364 0.096,-0.052 0.186,-0.106 0.277,-0.159 0.111,-0.066 0.217,-0.133 0.32,-0.201 0.096,-0.062 0.207,-0.122 0.295,-0.185 1.974,0.704 2.518,1.334 2.583,1.585 z M 55,30.019 55,25.232 c 1.189,-0.414 2.201,-0.873 3,-1.376 l 0,4.138 c -10e-4,0.563 -1.055,1.295 -3,2.025 z"
            id="path18726" />
         <g
-           id="g18728" />
+           id="g18728"
+           style="" />
         <g
-           id="g18730" />
+           id="g18730"
+           style="" />
         <g
-           id="g18732" />
+           id="g18732"
+           style="" />
         <g
-           id="g18734" />
+           id="g18734"
+           style="" />
         <g
-           id="g18736" />
+           id="g18736"
+           style="" />
         <g
-           id="g18738" />
+           id="g18738"
+           style="" />
         <g
-           id="g18740" />
+           id="g18740"
+           style="" />
         <g
-           id="g18742" />
+           id="g18742"
+           style="" />
         <g
-           id="g18744" />
+           id="g18744"
+           style="" />
         <g
-           id="g18746" />
+           id="g18746"
+           style="" />
         <g
-           id="g18748" />
+           id="g18748"
+           style="" />
         <g
-           id="g18750" />
+           id="g18750"
+           style="" />
         <g
-           id="g18752" />
+           id="g18752"
+           style="" />
         <g
-           id="g18754" />
+           id="g18754"
+           style="" />
         <g
-           id="g18756" />
+           id="g18756"
+           style="" />
       </g>
     </g>
   </g>
