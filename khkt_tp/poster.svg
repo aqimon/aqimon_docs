@@ -11704,11 +11704,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.1767767"
-     inkscape:cx="3255.2766"
-     inkscape:cy="2490.3758"
+     inkscape:zoom="0.125"
+     inkscape:cx="6004.8334"
+     inkscape:cy="-214.29543"
      inkscape:document-units="px"
-     inkscape:current-layer="layer10"
+     inkscape:current-layer="layer6"
      showgrid="true"
      units="m"
      inkscape:window-width="1366"
@@ -11723,7 +11723,7 @@
      inkscape:snap-object-midpoints="false"
      inkscape:snap-bbox="true"
      inkscape:snap-intersection-paths="false"
-     inkscape:bbox-nodes="false"
+     inkscape:bbox-nodes="true"
      inkscape:snap-nodes="true">
     <inkscape:grid
        type="xygrid"
@@ -28566,13 +28566,13 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="6332.1577"
+       x="6367.5908"
        y="5658.8911"
        id="text17165"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan17167"
-         x="6332.1577"
+         x="6367.5908"
          y="5658.8911"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#ffffff"><tspan
    style="font-weight:bold;font-size:50px"
