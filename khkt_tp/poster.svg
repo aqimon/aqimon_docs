@@ -11704,9 +11704,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.088388348"
-     inkscape:cx="4180.5333"
-     inkscape:cy="3270.7949"
+     inkscape:zoom="0.125"
+     inkscape:cx="3932.553"
+     inkscape:cy="1221.3149"
      inkscape:document-units="px"
      inkscape:current-layer="layer10"
      showgrid="true"
@@ -28841,12 +28841,10 @@
            height="100%" /></flowRegion><flowPara
          id="flowPara9321"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:108.46029663px;font-family:Roboto;-inkscape-font-specification:Roboto">- Bổ sung thêm các cảm biến khác như NO<flowSpan
-   style="font-size:54.23014832px;baseline-shift:sub"
-   id="flowSpan9327">X</flowSpan>, SO<flowSpan
-   style="font-size:54.23014832px;baseline-shift:sub"
-   id="flowSpan9329">X</flowSpan>, O<flowSpan
-   style="font-size:54.23014832px;baseline-shift:sub"
-   id="flowSpan9337">3</flowSpan>, ...</flowPara><flowPara
+   style="font-size:70.4991922%;baseline-shift:sub"
+   id="flowSpan9128">X</flowSpan>, O<flowSpan
+   style="font-size:70.4991922%;baseline-shift:sub"
+   id="flowSpan9126">3</flowSpan>, ...</flowPara><flowPara
          id="flowPara9323"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:108.46029663px;font-family:Roboto;-inkscape-font-specification:Roboto">- Chuyển đổi từ truyền tin thông qua Wifi sang các công nghệ khác cho phép khoảng cách truyền tin lớn hơn</flowPara><flowPara
          id="flowPara9325"
@@ -29351,7 +29349,7 @@
            height="1240.1575"
            x="248.03149"
            y="4145.6694" /></flowRegion><flowPara
-         id="flowPara17714"></flowPara></flowRoot>    <g
+         id="flowPara17714" /></flowRoot>    <g
        id="g18933"
        transform="matrix(0.96517777,0,0,0.96517777,40.507799,191.18919)">
       <text
