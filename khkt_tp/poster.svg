@@ -625,9 +625,9 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.125"
      inkscape:cx="4566.1528"
-     inkscape:cy="2105.3363"
+     inkscape:cy="1465.3363"
      inkscape:document-units="px"
-     inkscape:current-layer="layer6"
+     inkscape:current-layer="layer5"
      showgrid="true"
      units="m"
      inkscape:window-width="1366"
@@ -16673,7 +16673,7 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:0.98999999;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new"
        id="flowRoot12968"
-       transform="matrix(0.97167798,0,0,0.97167798,270.66813,833.06562)"><flowRegion
+       transform="matrix(0.97167798,0,0,0.97167798,203.73254,833.06562)"><flowRegion
          id="flowRegion12970"><use
            x="0"
            y="0"
@@ -16684,7 +16684,7 @@
            transform="translate(-49.966041,-518.31469)" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:start;text-anchor:start"
          id="flowPara12974" /><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:102.91475677px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:start;text-anchor:start"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:109.34692383px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:start;text-anchor:start"
          id="flowPara15812">Hệ thống bao gồm các thiết bị quan trắc có khả năng đo lường các thông số về ô nhiễm không khí và gửi về một máy chủ nhằm lưu trữ dữ liệu, hiển thị dữ liệu cho người dùng và đưa ra cảnh báo khi số đo nhận được ở mức nguy hiểm.</flowPara></flowRoot>    <g
        id="g7883"
        transform="translate(582.91935,240.06816)">
