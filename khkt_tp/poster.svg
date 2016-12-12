@@ -623,11 +623,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.08838835"
-     inkscape:cx="4386.4656"
-     inkscape:cy="2431.8284"
+     inkscape:zoom="0.25000001"
+     inkscape:cx="3896.9389"
+     inkscape:cy="3109.7892"
      inkscape:document-units="px"
-     inkscape:current-layer="layer9"
+     inkscape:current-layer="layer6"
      showgrid="true"
      units="m"
      inkscape:window-width="1366"
@@ -649,7 +649,7 @@
        id="grid4152"
        units="cm"
        enabled="true"
-       visible="false"
+       visible="true"
        snapvisiblegridlinesonly="true"
        dotted="false"
        spacingx="35.433069"
@@ -669,7 +669,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by/3.0/" />
       </cc:Work>
@@ -17328,7 +17328,7 @@
        style="display:inline;opacity:1;fill:#eeeeee;fill-opacity:1;stroke:none;stroke-width:15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter18028);enable-background:new"
        id="rect13766"
        width="3897.6379"
-       height="1133.8582"
+       height="885.82672"
        x="2125.9839"
        y="1240.1576" />
     <rect
@@ -17342,7 +17342,7 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:0.98999999;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new"
        id="flowRoot12968"
-       transform="translate(42.805674,427.7163)"><flowRegion
+       transform="translate(49.965942,305.7163)"><flowRegion
          id="flowRegion12970"><use
            x="0"
            y="0"
@@ -17351,9 +17351,9 @@
            width="100%"
            height="100%" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:start;text-anchor:start"
-         id="flowPara12974">Hệ thống có khả năng đo lường các số liệu liên quan tới ô nhiễm không khí và tự động đưa ra cảnh báo khi mức độ ô nhiễm đạt mức nguy hiểm.</flowPara><flowPara
+         id="flowPara12974" /><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:start;text-anchor:start"
-         id="flowPara12976">Hệ thống bao gồm các thiết bị quan trắc có khả năng đo lường và gửi về máy chủ và một máy chủ lưu trữ dữ liệu, hiển thị dữ liệu cho người dùng và đưa ra cảnh báo khi số đo nhận được ở mức nguy hiểm.</flowPara></flowRoot>    <g
+         id="flowPara15812">Hệ thống bao gồm các thiết bị quan trắc có khả năng đo lường các thông số về ô nhiễm không khí và gửi về máy chủ một máy chủ lưu trữ dữ liệu, hiển thị dữ liệu cho người dùng và đưa ra cảnh báo khi số đo nhận được ở mức nguy hiểm.</flowPara></flowRoot>    <g
        id="g7883"
        transform="translate(582.91925,27.469771)"
        style="">
